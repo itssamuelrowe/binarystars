@@ -1,3 +1,8 @@
++++
+title = "Downloading the Java Development Kit"
+weight = 1
++++
+
 In this section, you will learn how to download the Java Development Kit.
 
 At the time of creation of this course, Java SE Development Kit 12 was the latest

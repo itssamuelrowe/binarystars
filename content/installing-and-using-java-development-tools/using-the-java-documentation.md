@@ -1,3 +1,8 @@
++++
+title = "Using the Java Documentation"
+weight = 5
++++
+
 In this section, you will learn about the Java Documentation.
 
 The Java API has thousands of classes, interfaces, enumerations, methods, and

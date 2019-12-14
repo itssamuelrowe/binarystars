@@ -6,7 +6,7 @@ It is a compound statement.
 
 Here is the general form of the *if statement*.
 
-```java
+```
 if (condition)
 	statement
 else
@@ -29,7 +29,7 @@ under the else clause is executed.
 
 Here is a simple example of the if statement.
 
-```java
+```
 public class CanIVote {
 
     public static void main(String... arguments) {
@@ -71,7 +71,7 @@ statements to the clause, the braces are already there. This avoids bugs
 such as forgetting to add braces.
 
 Here's the same example, without using a block statement.
-```java
+```
 public class CanIVote {
     public static void main(String... arguments) {
         int age = 18;
@@ -90,7 +90,7 @@ must end with a semicolon.
 Now, let's extend the program to print a message when the user is not
 eligible to vote.
 
-```java
+```
 public class CanIVote2 {
 
     public static void main(String... arguments) {
@@ -135,7 +135,7 @@ by four space characters for each level.
 Here is a modified version of the previous example which includes
 comments that indicate the block level.
 
-```java
+```
 // level 1, 0 spaces
 public class CanIVote3 {
 
@@ -160,7 +160,7 @@ to write the opening brace of the block statement on the same line as the
 if clause, like how we wrote in the voting example. However, you can
 write the opening brace on a fresh line as shown below.
 
-```java
+```
 public class CanIVote4
 {
     public static void main(String... arguments)

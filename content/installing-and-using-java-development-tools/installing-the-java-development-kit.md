@@ -1,3 +1,8 @@
++++
+title = "Installing the Java Development Kit"
+weight = 2
++++
+
 In this section, you will learn how to install the Java Development Kit.
 
  * You must have administrator privilege to install the Java Development Kit.

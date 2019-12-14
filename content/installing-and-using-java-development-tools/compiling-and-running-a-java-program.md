@@ -1,3 +1,8 @@
++++
+title = "Compiling and Running a Java Program"
+weight = 4
++++
+
 In this section you will learn to compile and run a Java program.
 
 Java comes with several command-line tools you can run from your console.
