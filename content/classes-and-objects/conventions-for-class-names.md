@@ -1,3 +1,8 @@
++++
+title = "Conventions for Class Names"
+weight = 2
++++
+
 Your class name is an identifier. You can use any identifier you want. But we
 suggest you to follow these guidelines.
 

@@ -1,3 +1,8 @@
++++
+title = "Understanding Instance and Static Members"
+weight = 4
++++
+
 ## Instance Members
 
 Instance variables are variables that you declare inside a class body and

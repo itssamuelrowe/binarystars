@@ -1,3 +1,8 @@
++++
+title = "Working with Classes"
+weight = 1
++++
+
 In the real world, you wll find many objects of the same kind. There are
 thousands of bikes with the same make and model. Each of these bikes was built
 with the same blueprint.

@@ -1,3 +1,8 @@
++++
+title = "Understanding Visibility"
+weight = 3
++++
+
 You can control whether the world outside your class can access its members.
 This is known as visibility of the member.
 
