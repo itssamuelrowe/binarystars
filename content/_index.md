@@ -1,11 +1,13 @@
-# The Twin Dragon's Guide to Java
+# The Java Programming Language Manual
 # -- Samuel Rowe
 
-The Twin Dragon's Guide to Java offers explanation on various features of core Java 11.
+**The Java Programming Language Manual** offers explanation on various features of core Java 11.
 It begins with the basics and covers advanced topics including classes, interfaces,
 exceptions, anonymous classes, modules and so on. It is written in simple and
 clear language with more than 100 examples. Additionally, it includes introduction
 to the tools packaged with the Java Development Kit.
+
+<img style="width: auto; height: 200px" src="https://github.com/itssamuelrowe/binarystars/raw/master/logo.png" />
 
 ### Why should you choose this book?
 
