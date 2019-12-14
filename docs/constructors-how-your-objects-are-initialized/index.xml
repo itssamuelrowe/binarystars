@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Constructors on Zen</title>
+    <link>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/</link>
+    <description>Recent content in Constructors on Zen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding this Keyword</title>
+      <link>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/understanding-this-keyword/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/understanding-this-keyword/</guid>
+      <description>In the body of a method, constructor, or initializer block, sometimes you need to refer to the object that contains the instance member in question. In other words, sometimes an instance member may want to access the instance it is contained in.
+In such cases, you can refer the instance using the this keyword. It always represents the instance within which the instance member is contained.
+To refer to the instance in an instance method, use the this keyword where you normally would refer to an object&amp;rsquo;s reference through a variable.</description>
+    </item>
+    
+    <item>
+      <title>Working with Constructors</title>
+      <link>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/working-with-constructors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/working-with-constructors/</guid>
+      <description>A constructor is a special method which initializes your variables and performs any other additional operations when you create an object. It is called whenever you create an object.
+Here is the general form of a constructor.
+Name(parameters) { statement1 statement2 ... statementN }  Here, the name of the constructor is the same as the class name. Constructors usually initialize values of fields.
+You have already learnt about parameters in the previous chapter.</description>
+    </item>
+    
+    <item>
+      <title>Overloading Constructors</title>
+      <link>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/overloading-constructors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/overloading-constructors/</guid>
+      <description>A class can have multiple constructors, this is known as constructor overloading. It is a feature of polymorphism. Constructor overloading is a very useful feature. It fact, it is similar to method overloading.
+Java differentiates constructors using constructor signatures. A constructor signature is a part of constructor declaration. It is the combination of the constructor name, which is the class name it lives in, and the parameter list. The names of the parameters are not included in the signature.</description>
+    </item>
+    
+    <item>
+      <title>Working with Initializer Blocks</title>
+      <link>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/working-with-initializer-blocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/working-with-initializer-blocks/</guid>
+      <description>An initializer block is a special block of code which initializes an object. It is written inside a class and outside methods and constructors. You cannot assign a name to an initializer block.
+The general form of an initializer block is shown here.
+{ statement1 statement2 ... statementN }  It is always executed whenever an instance of a class is created, before any constructors are invoked. In other words, it does not matter which constructor you invoke, the initializer block always runs.</description>
+    </item>
+    
+  </channel>
+</rss>

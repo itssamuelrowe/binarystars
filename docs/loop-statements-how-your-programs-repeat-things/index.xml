@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loop Statements on Zen</title>
+    <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/</link>
+    <description>Recent content in Loop Statements on Zen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is a Loop?</title>
+      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/what-is-a-loop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/what-is-a-loop/</guid>
+      <description>There are three iteration statements in Java.
+ For Statement While Statement Do While Statement  Repeating things over and over is referred to as looping. The iteration statements in Java help you create loops in your programs. These statements allow a segment of your code to repeat a given number of times.
+As an example of a loop, consider yourself watching a series like Breaking Bad.
+ Find the next episode to watch.</description>
+    </item>
+    
+    <item>
+      <title>Working with the While Statement</title>
+      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-while-statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-while-statement/</guid>
+      <description>When it comes to loops, Java gives you three choices. You can go with the complex for loop, which has all the gizmos and options to make most programmers happy, or you can choose the simpler while loop for your programs.
+The for statement is clearer and lays out all its plans in one place. Whereas, the while statement gives you more flexbility. The important thing to remember is that you can convert a for loop into a while loop, and vice versa.</description>
+    </item>
+    
+    <item>
+      <title>Using the Break Statement</title>
+      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/using-the-break-statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/using-the-break-statement/</guid>
+      <description>All loops end when a test condition fails. There might be situations where something occurs during the execution of a loop, and you want to exit the loop early. In such cases, you can use the break statement.
+In fact you have already seen a simple use of the break statement in the switch statement. In this section, you will learn more about the break statement.
+The general form of a break statement is like this.</description>
+    </item>
+    
+    <item>
+      <title>Using the Continue Statement</title>
+      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/using-the-continue-statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/using-the-continue-statement/</guid>
+      <description>Sometimes it is useful to force an early iteration of a loop. In other words, you might want to continue running the loop but stop processing the remainder of the code in its body for this particular iteration.
+In while and do-while statements, a continue statement causes control to be transferred directly to the conditional expression that controls the loop. In a for statement, control first goes to the updation section of the for statement and then to the conditional expression.</description>
+    </item>
+    
+    <item>
+      <title>Working with the Do While Statement</title>
+      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-do-while-statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-do-while-statement/</guid>
+      <description>In the previous sections you have learnt while and for statements. You can program most situtations using these loop statements. Additionally, Java provides another loop statement known as the do-while statement.
+As you have seen, if the conditional expression controlling a loop statement evaluates to false initially, then the body of the loop will not be executed at all.
+However, sometimes you might want to execute the body of a loop at least once, even if the conditional expression is false to begin with.</description>
+    </item>
+    
+    <item>
+      <title>Working with the For Statement</title>
+      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-for-statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-for-statement/</guid>
+      <description>In JDK 5, a new form of the for statement was released. The first is the traditional form that has been in use since the original version of Java. The second is the new form which is called as the enhanced for loop or the for-each loop. You will learn about the traditional for statement in this section. You will learn about the enhanced for loop later in course.</description>
+    </item>
+    
+  </channel>
+</rss>

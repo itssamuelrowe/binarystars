@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methods on Zen</title>
+    <link>https://itssamuelrowe.github.io/zen-website/methods/</link>
+    <description>Recent content in Methods on Zen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itssamuelrowe.github.io/zen-website/methods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Declaring Methods</title>
+      <link>https://itssamuelrowe.github.io/zen-website/methods/declaring-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/methods/declaring-methods/</guid>
+      <description>A method is a block of statements. You can give it a name. A method defines an object&amp;rsquo;s behavior, basically whatever an object is capable of performing.
+You can call or invoke a method with its name. When you invoke a method, the execution of your program branches to the body of that method. When the method is finished, execution resumes from where the program branched, and the program continues on to the next statement.</description>
+    </item>
+    
+    <item>
+      <title>Working with Parameters</title>
+      <link>https://itssamuelrowe.github.io/zen-website/methods/working-with-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/methods/working-with-parameters/</guid>
+      <description>A parameter is a value that you can send to a method. Parameters allow a method to be generalized. In other words, such methods can operate on a variety of data and work differently based on different arguments.
+It is important to understand the difference between parameters and arguments. A parameter is a variable defined by a method that receives a value when the method is invoked. Whereas, an argument is a value that is passed to a method when it is invoked.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Methods That Return Value</title>
+      <link>https://itssamuelrowe.github.io/zen-website/methods/understanding-methods-that-return-values/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/methods/understanding-methods-that-return-values/</guid>
+      <description>Methods that perform operations without returning any value are useful. But this is not the case always. In this section you will learn how to return values from methods.
+Imagine that you write a method that accepts your date of birth and calculates your age. Probably the method can print it on the console. But this is not what you always want. For example, you would want the calculated age to determine if you are eligible to vote, or not.</description>
+    </item>
+    
+    <item>
+      <title>Method Overloading: How Methods Share Identitical Names</title>
+      <link>https://itssamuelrowe.github.io/zen-website/methods/method-overloading-how-methods-share-identical-names/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/methods/method-overloading-how-methods-share-identical-names/</guid>
+      <description>Unlike variables, multiple methods in the same scope can have the same name. This technique is known as method overloading. It is a feature of polymorphism. Method overloading is a very useful feature.
+Java differentiates methods using method signatures. A method signature is a part of method declaration. It is the combination of the method name and the parameter list. The return type of the method is not included in the signature.</description>
+    </item>
+    
+    <item>
+      <title>Working with Getters and Setters</title>
+      <link>https://itssamuelrowe.github.io/zen-website/methods/working-with-getters-and-setters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/methods/working-with-getters-and-setters/</guid>
+      <description>Object-oriented programming helps you hide the details of a class. You can expose certain parts of your class to others.
+You should generally avoid creating public fields. You can make all your fields private. You can give access to the values in these fields with accessors.
+Accessors are methods which access fields on the behalf of the world outside your class.
+There are two types of accessors. * Get Accessor * Set Accessor</description>
+    </item>
+    
+  </channel>
+</rss>

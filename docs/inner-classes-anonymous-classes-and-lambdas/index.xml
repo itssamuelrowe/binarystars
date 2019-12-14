@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inner Classes, Anonymous Classes, and Lambdas on Zen</title>
+    <link>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/</link>
+    <description>Recent content in Inner Classes, Anonymous Classes, and Lambdas on Zen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating Inner Class</title>
+      <link>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/creating-inner-class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/creating-inner-class/</guid>
+      <description>You can create a class inside another class. An inner class exists to help the class within which it is declared. It is also known as a nested class.
+Here is the general form of an inner class.
+modifiers class OuterClass { modifiers class InnerClass { } }  Inner classes are useful in several situations.
+An inner class is similar to a helper class. But it can access the private members of the outer class, which a helper class cannot.</description>
+    </item>
+    
+    <item>
+      <title>Creating Anonymous Inner Classes</title>
+      <link>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/creating-anonymous-inner-classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/creating-anonymous-inner-classes/</guid>
+      <description>Sometimes an inner class is used only once by the outer class. In such cases, you can remove the declaration and make the class anonymous.
+An anonymous class is a class without a name, extends clause and implements clause. It is always used with the new operator.
+Remember that abstract classes and interfaces cannot be instantiated directly. With anonymous classes you can provide a class body while you instantiate it.</description>
+    </item>
+    
+    <item>
+      <title>Working with Lambdas</title>
+      <link>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/working-with-lambdas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/working-with-lambdas/</guid>
+      <description>A lambda expression or closure allows you to create an instance of a functional interface with the lambda operator (-&amp;gt;).
+A functional interface is any interface that has just one method declaration. Only such interfaces can be instantiated using the lambda expression.
+The general form of a lambda expression is shown here.
+Interface object = (parameters) -&amp;gt; { statement1 statement2 ... statementN };  Consider the following interface.
+interface OnSingleClickListener { void handleSingleClick(); }  To create an instance of the OnSingleClickListener interface, you would write the following statement.</description>
+    </item>
+    
+  </channel>
+</rss>

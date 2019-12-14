@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variables, Values and Data Types on Zen</title>
+    <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/</link>
+    <description>Recent content in Variables, Values and Data Types on Zen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding Variables</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-variables/</guid>
+      <description>In this section, you will learn to declare variables.
+A variable is a place holder.
+You can store a value like 100 in a variable. After you store a value in the variable, you can store a different value in the variable whenever you want.
+When you store a new value in a variable, the old value is no longer there. In other words, the old value is replaced by the new value.</description>
+    </item>
+    
+    <item>
+      <title>Declaring Variables</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/declaring-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/declaring-variables/</guid>
+      <description>In this section, you will learn how to declare variables.
+You must declare a variable before using it. The compiler will display errors otherwise.
+The basic form of a variable declaration statement is shown below.
+type name;  A variable name is an identifier. You can refer the value stored in the variable with its name.
+The type indicates the values that can be stored in a variable.
+Notice that a variable declaration ends with a semicolon.</description>
+    </item>
+    
+    <item>
+      <title>Declaring Final Variables</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/declaring-final-variables-or-constants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/declaring-final-variables-or-constants/</guid>
+      <description>In this section, you will learn how to declare final variables or constants.
+A final variable is variable that you can&amp;rsquo;t change after initializing. The compiler will generate errors if you try to change it. It is also called as a constant.
+The basic form of a constant declaration statement is shown here.
+final type name = expression;  The only difference between declaring a variable and a constant is the use of final keyword.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Data Types</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-data-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-data-types/</guid>
+      <description>Java is statically typed. What this means is, the compiler knows the type of every variable. Once you declare a variable of a certain type, it cannot hold values of other types.
+The advantage of statically typed language is that many bugs can be caught during compilation.
+As a Java programmer, you must specify the type of each variable. All the variables, values, and their types are checked for correctness.</description>
+    </item>
+    
+    <item>
+      <title>Working with Primitive Types</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-primitive-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-primitive-types/</guid>
+      <description>The primitive types are the most basic data types available. They are defined by Java.
+There are eight primitive data types in Java.
+ boolean char byte short int long float double     Type Default Size Range Example     boolean false 1 byte true or false true, false   char &amp;lsquo;\u0000&amp;rsquo; 2 bytes 0 to 65,536 (unsigned) &amp;rsquo;s&amp;rsquo;, &amp;rsquo;M&amp;rsquo;, &amp;lsquo;a&amp;rsquo;, &amp;lsquo;o&amp;rsquo;, &amp;lsquo;H&amp;rsquo;, &amp;lsquo;7&amp;rsquo;, &amp;lsquo;L&amp;rsquo;   byte 0 1 byte -128 to 127 5, 2, 7, 19, 100   short 0 2 bytes -32,768 to 32,767 2000, 2, 7, 19, 5, 1999   int 0 4 bytes -2,147,483,648 to 2,147,483,647 1, 88234, -9991, 22234   long 0 8 bytes -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 922337203685477L, -72202593477L, 882200333466L   float 0.</description>
+    </item>
+    
+    <item>
+      <title>Working with Reference Types</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-reference-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-reference-types/</guid>
+      <description>In this section, you will learn about the basics of reference types. You learn to create variables that work with objects. &amp;gt; You will learn more about classes and objects later in the course.
+Java programs are built with classes. You can use classes to create objects.
+A reference type is a type which references an object.
+The class can be any class. It can either be a part of the Java API or a class that you create.</description>
+    </item>
+    
+    <item>
+      <title>Working with Strings</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-strings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-strings/</guid>
+      <description>In this section, you will learn the basics of strings.
+A string is a sequence of characters. String literals are enclosed in double quotes (&amp;quot;).
+Here&amp;rsquo;s an example of a string.
+&amp;quot;Hello, world!&amp;quot;  In Java, string is not a primitive type. It is a reference type. It is implemented by the String class.
+Even though String is a reference type, it is treated specially. We take an entire chapter to explain strings.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Unicode</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-unicode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-unicode/</guid>
+      <description>This section describes Unicode and how Java deals with it. It is a difficult concept to grasp. You can safely skip this section for now. You can come back when you are comfortable with Java.
+ To work with characters in a computer, you need the following: * Character Repertoire * Character Set * Character Encoding
+Don&amp;rsquo;t worry if you find these words scary. You&amp;rsquo;ll easily understand them. We have simplified their explanations.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Casting</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-casting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-casting/</guid>
+      <description>In this section, we&amp;rsquo;ll learn how to convert a value from one type to another type.
+There are times when you need to convert a value of one type to another. In such cases, you use type casting. Converting a value from one type to another type is known as type casting. For example, you can convert a decimal value to an integer value, or vice versa.
+There are two types of casting in Java.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Scopes</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-scopes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-scopes/</guid>
+      <description>This section will be added shortly.</description>
+    </item>
+    
+    <item>
+      <title>Printing Output with the System Class</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/printing-output-with-the-system-class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/printing-output-with-the-system-class/</guid>
+      <description>This section will be added shortly.</description>
+    </item>
+    
+    <item>
+      <title>Getting Input with the Scanner Class</title>
+      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/getting-input-with-the-scanner-class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/getting-input-with-the-scanner-class/</guid>
+      <description>This section will be added soon.</description>
+    </item>
+    
+  </channel>
+</rss>

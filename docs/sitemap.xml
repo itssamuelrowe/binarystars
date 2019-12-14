@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/creating-inner-class/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/methods/declaring-methods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/downloading-the-java-development-kit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/basics-of-java/the-hello-world-program/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/understanding-abstract-classes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/arrays/understanding-arrays/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/exceptions/understanding-exceptions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/understanding-inheritance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/introduction-to-object-oriented-programming/understanding-object-oriented-programming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/understanding-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/strings/understanding-strings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/understanding-this-keyword/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-variables/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/what-is-a-loop/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/introduction/what-is-java/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/working-with-boolean-expressions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/classes-and-objects/working-with-classes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/exceptions/advantages-of-exceptions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/strings/constructors-of-the-string-class/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/classes-and-objects/conventions-for-class-names/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/creating-anonymous-inner-classes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/declaring-variables/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/introduction/history-of-java/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/installing-the-java-development-kit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/introduction-to-object-oriented-programming/principles-of-object-oriented-programming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/the-object-class/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/types-of-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/basics-of-java/understanding-identifiers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/using-if-statements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/arrays/working-with-arrays/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/working-with-constructors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-interfaces/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/methods/working-with-parameters/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-while-statement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/introduction/advantages-of-java/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/introduction-to-object-oriented-programming/advantages-of-object-oriented-programming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/basics-of-java/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/declaring-final-variables-or-constants/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/strings/determining-the-length-of-strings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/introduction-to-the-java-development-kit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/nested-if-statements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/overloading-constructors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/overriding-methods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/exceptions/understanding-exception-types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/basics-of-java/understanding-keywords/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/methods/understanding-methods-that-return-values/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/arrays/understanding-multidimensional-arrays/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/classes-and-objects/understanding-visibility/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/using-the-break-statement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-arithmetic-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/working-with-lambdas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-the-implements-clause/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/strings/comparing-strings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/compiling-and-running-a-java-program/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/introduction/disadvantages-of-java/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/extending-interfaces/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/methods/method-overloading-how-methods-share-identical-names/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/classes-and-objects/understanding-instance-and-static-members/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/using-if-else-if-ladders/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/exceptions/using-the-catch-clause/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/using-the-continue-statement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/working-with-constructors-and-inheritance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-equality-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/working-with-initializer-blocks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-statements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/introduction/comparing-java-to-other-programming-languages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/strings/extracting-characters-from-strings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/exceptions/throwing-exceptions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-data-types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/using-the-java-documentation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-blocks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-comparison-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-default-methods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/methods/working-with-getters-and-setters/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/working-with-switch-statments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-do-while-statement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/basics-of-java/dealing-with-whitespace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/exceptions/understanding-checked-and-unchecked-exceptions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-unary-plus-and-minus-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-primitive-types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-reference-types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-for-statement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/exceptions/using-the-finally-clause/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-increment-and-decrement-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-comments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/introduction-to-object-oriented-programming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-assignment-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-strings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/classes-and-objects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-unicode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-compound-assignment-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/methods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-casting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-bitwise-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-scopes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-conditional-operator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/printing-output-with-the-system-class/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-logical-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/combining-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/getting-input-with-the-scanner-class/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/exceptions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/arrays/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/strings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/packages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/packages/declaring-packages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/packages/naming-conventions-for-packages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/packages/understanding-packages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/packages/understanding-qualified-names/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/packages/understanding-the-classpath-environment-variable/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/packages/working-with-the-import-statement/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/zen-website/</loc>
+  </url>
+  
+</urlset>

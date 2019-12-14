@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics of Java on Zen</title>
+    <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/</link>
+    <description>Recent content in Basics of Java on Zen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itssamuelrowe.github.io/zen-website/basics-of-java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Hello World Program</title>
+      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/the-hello-world-program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/the-hello-world-program/</guid>
+      <description>In this section, you will learn to write the Hello World program.
+Many programming courses begin with a simple example program that prints the text, &amp;ldquo;Hello, world!&amp;rdquo; on the console.
+public class Hello { public static void main(String... arguments) { System.out.println(&amp;quot;Hello, world!&amp;quot;); } }   Copy the source code from here. Paste the source code into a text editor, such as Notepad or Notepad++. Save it in a file named Hello.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Identifiers</title>
+      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/understanding-identifiers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/understanding-identifiers/</guid>
+      <description>Identifiers are the names you give to variables, methods, classes, interfaces, and enumerations. Unlike literals, identifiers only help you reference something.
+The program shown in the first example uses seven identifiers. * Hello * main * String * arguments * System * out * println
+ Identifiers are case sensitive. For example, ArrayList with uppercase a and arrayList with lowercase a are two different identifiers. Identifiers may contain uppercase or lowercase letters, numerals, underscore characters _, and dollar symbols $.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Keywords</title>
+      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/understanding-keywords/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/understanding-keywords/</guid>
+      <description>A keyword is a special word. Its meaning is defined by the Java programming language. You cannot use these words as identifiers.
+All keywords are in lowercase.
+Like everything else in Java, keywords are case sensitive. For example, if you use For with uppercase f instead of for with lowercase f it is an error.
+The program shown in the first example uses four keywords. * public * class * static and * void</description>
+    </item>
+    
+    <item>
+      <title>Working with Statements</title>
+      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-statements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-statements/</guid>
+      <description>Statements are similar to sentences in the English language.
+A statement tells Java to perform an action. It can include one or more expressions.
+There are two types of statements in Java: * Simple Statement * Compound Statement
+Understanding Simple Statements Simple statements are the actions your program performs.
+ Assertion Statement Break Statement Continue Statement Empty Statement Expression Statement Return Statement and Throw Statement
+ A simple statement always ends with a semicolon.</description>
+    </item>
+    
+    <item>
+      <title>Working with Blocks</title>
+      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-blocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-blocks/</guid>
+      <description>A block is a group of zero or more statements within braces.
+A block begins with an opening brace { and ends with a closing brace }.
+You can write any number of statements, including block statements, within the braces.
+For example, this is an empty block.
+{ }  For example, this is a block with four statements.
+{ int i; int j; i = 10; j = 20; }  A block is a type of statement.</description>
+    </item>
+    
+    <item>
+      <title>Dealing with Whitespace</title>
+      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/dealing-with-whitespace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/dealing-with-whitespace/</guid>
+      <description>Whitespace refers to a sequence of space characters, tab characters, or line breaks. The compiler always ignores whitespace.
+Here&amp;rsquo;s an example.
+area = 2 * (width + breadth);  You can write this statement on two lines.
+Thus, you can write the example statement like this.
+area = (width + breadth);  In fact, you can write the example statement like this, too.
+area = ( width + breadth ) ;  Yet, another variation.</description>
+    </item>
+    
+    <item>
+      <title>Working with Comments</title>
+      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-comments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-comments/</guid>
+      <description>Comments are texts that are ignored by the compiler. They help you write information or explanation about your code. You can use comments to hide a part of your code.
+We recommend you to use plenty of comments in your source code.
+Types of Comments There are 3 types of comments in Java.
+ Single Line Comment Multi-Line Comment Documentation Comment  Single Line Comments A single line comment begins with // and ends at the end of the line.</description>
+    </item>
+    
+  </channel>
+</rss>
