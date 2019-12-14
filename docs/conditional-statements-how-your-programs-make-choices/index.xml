@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/working-with-boolean-expressions/</guid>
-      <description>All if statements, as well as several other control statements that you learn in this course use boolean expressions to determine whether to execute or skip a segment of your code.
+      <description>All if statements, as well as several other control statements that you learn in this book use boolean expressions to determine whether to execute or skip a segment of your code.
 A boolean expression is any expression that evaluates to a boolean value, that is, true or false.
 As you discover later in this chapter, boolean expressions can be very complicated. Most of the time you use simple expressions that compare a value with some other value.</description>
     </item>

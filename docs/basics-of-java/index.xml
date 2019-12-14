@@ -17,7 +17,7 @@
       
       <guid>https://itssamuelrowe.github.io/binarystars/basics-of-java/the-hello-world-program/</guid>
       <description>In this section, you will learn to write the Hello World program.
-Many programming courses begin with a simple example program that prints the text, &amp;ldquo;Hello, world!&amp;rdquo; on the console.
+Many programming books begin with a simple example program that prints the text, &amp;ldquo;Hello, world!&amp;rdquo; on the console.
 public class Hello { public static void main(String... arguments) { System.out.println(&amp;quot;Hello, world!&amp;quot;); } }   Copy the source code from here. Paste the source code into a text editor, such as Notepad or Notepad++. Save it in a file named Hello.</description>
     </item>
     

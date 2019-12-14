@@ -17,7 +17,7 @@
       
       <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/downloading-the-java-development-kit/</guid>
       <description>In this section, you will learn how to download the Java Development Kit.
-At the time of creation of this course, Java SE Development Kit 12 was the latest version. Please make sure you download the latest version of Java Development Kit for the best results.
+At the time of creation of this book, Java SE Development Kit 12 was the latest version. Please make sure you download the latest version of Java Development Kit for the best results.
  Open your browser. In this example, I&amp;rsquo;ll be using Google Chrome. Go to the Java SE Development Kit 12 Downloads page using a search engine.</description>
     </item>
     
@@ -37,7 +37,7 @@ At the time of creation of this course, Java SE Development Kit 12 was the lates
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/introduction-to-the-java-development-kit/</guid>
-      <description>In this section, you will discover the various acronyms and tools associated with the Java Development Kit. Make sure you understand them before moving on. Because these tools and acronyms will be used throughout this course.
+      <description>In this section, you will discover the various acronyms and tools associated with the Java Development Kit. Make sure you understand them before moving on. Because these tools and acronyms will be used throughout this book.
 What is the Java Development Kit (JDK)? The Java Development Kit (JDK) is a software development environment used for developing Java applications. It includes the Java compiler, the Java Virtual Machine (JVM), the Java Runtime Environment (JRE), an archiver, a documentation generator known as Javadoc and other tools needed to develop programs in Java.</description>
     </item>
     

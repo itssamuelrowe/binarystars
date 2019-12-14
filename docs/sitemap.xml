@@ -455,6 +455,11 @@
   </url>
   
   <url>
+    <loc>https://itssamuelrowe.github.io/binarystars/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://itssamuelrowe.github.io/binarystars/packages/</loc>
     <priority>0</priority>
   </url>
@@ -487,10 +492,6 @@
   <url>
     <loc>https://itssamuelrowe.github.io/binarystars/packages/working-with-the-import-statement/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://itssamuelrowe.github.io/binarystars/</loc>
   </url>
   
   <url>

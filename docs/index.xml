@@ -39,7 +39,7 @@ You can call or invoke a method with its name. When you invoke a method, the exe
       
       <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/downloading-the-java-development-kit/</guid>
       <description>In this section, you will learn how to download the Java Development Kit.
-At the time of creation of this course, Java SE Development Kit 12 was the latest version. Please make sure you download the latest version of Java Development Kit for the best results.
+At the time of creation of this book, Java SE Development Kit 12 was the latest version. Please make sure you download the latest version of Java Development Kit for the best results.
  Open your browser. In this example, I&amp;rsquo;ll be using Google Chrome. Go to the Java SE Development Kit 12 Downloads page using a search engine.</description>
     </item>
     
@@ -50,7 +50,7 @@ At the time of creation of this course, Java SE Development Kit 12 was the lates
       
       <guid>https://itssamuelrowe.github.io/binarystars/basics-of-java/the-hello-world-program/</guid>
       <description>In this section, you will learn to write the Hello World program.
-Many programming courses begin with a simple example program that prints the text, &amp;ldquo;Hello, world!&amp;rdquo; on the console.
+Many programming books begin with a simple example program that prints the text, &amp;ldquo;Hello, world!&amp;rdquo; on the console.
 public class Hello { public static void main(String... arguments) { System.out.println(&amp;quot;Hello, world!&amp;quot;); } }   Copy the source code from here. Paste the source code into a text editor, such as Notepad or Notepad++. Save it in a file named Hello.</description>
     </item>
     
@@ -183,7 +183,7 @@ According to Oracle (which acquired Sun Microsystems in 2010), Java now runs on 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/working-with-boolean-expressions/</guid>
-      <description>All if statements, as well as several other control statements that you learn in this course use boolean expressions to determine whether to execute or skip a segment of your code.
+      <description>All if statements, as well as several other control statements that you learn in this book use boolean expressions to determine whether to execute or skip a segment of your code.
 A boolean expression is any expression that evaluates to a boolean value, that is, true or false.
 As you discover later in this chapter, boolean expressions can be very complicated. Most of the time you use simple expressions that compare a value with some other value.</description>
     </item>
@@ -441,7 +441,7 @@ String name = &amp;quot;Shazam&amp;quot;; int length = name.length(); System.out
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/introduction-to-the-java-development-kit/</guid>
-      <description>In this section, you will discover the various acronyms and tools associated with the Java Development Kit. Make sure you understand them before moving on. Because these tools and acronyms will be used throughout this course.
+      <description>In this section, you will discover the various acronyms and tools associated with the Java Development Kit. Make sure you understand them before moving on. Because these tools and acronyms will be used throughout this book.
 What is the Java Development Kit (JDK)? The Java Development Kit (JDK) is a software development environment used for developing Java applications. It includes the Java compiler, the Java Virtual Machine (JVM), the Java Runtime Environment (JRE), an archiver, a documentation generator known as Javadoc and other tools needed to develop programs in Java.</description>
     </item>
     
@@ -895,7 +895,7 @@ There are eight primitive data types in Java.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/working-with-reference-types/</guid>
-      <description>In this section, you will learn about the basics of reference types. You learn to create variables that work with objects. &amp;gt; You will learn more about classes and objects later in the course.
+      <description>In this section, you will learn about the basics of reference types. You learn to create variables that work with objects. &amp;gt; You will learn more about classes and objects later in the book.
 Java programs are built with classes. You can use classes to create objects.
 A reference type is a type which references an object.
 The class can be any class. It can either be a part of the Java API or a class that you create.</description>
@@ -907,7 +907,7 @@ The class can be any class. It can either be a part of the Java API or a class t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/working-with-the-for-statement/</guid>
-      <description>In JDK 5, a new form of the for statement was released. The first is the traditional form that has been in use since the original version of Java. The second is the new form which is called as the enhanced for loop or the for-each loop. You will learn about the traditional for statement in this section. You will learn about the enhanced for loop later in course.</description>
+      <description>In JDK 5, a new form of the for statement was released. The first is the traditional form that has been in use since the original version of Java. The second is the new form which is called as the enhanced for loop or the for-each loop. You will learn about the traditional for statement in this section. You will learn about the enhanced for loop later in book.</description>
     </item>
     
     <item>
@@ -1027,7 +1027,7 @@ Java defines several operators that allow you to work at the binary level. These
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-conditional-operator/</guid>
-      <description>The conditional operator is the only ternary operator in Java. It is used to replace certain types of if-then-else statements. You will learn more about if statements later in the course.
+      <description>The conditional operator is the only ternary operator in Java. It is used to replace certain types of if-then-else statements. You will learn more about if statements later in the book.
 The conditional operator is represented by a question mark (?). It can seem somewhat confusing at first, but the conditional operator can be used very effectively once understood.
 The conditional operator has the following general form.
 expression1 ? expression2 : expression3  Here, expression1 can be any expression that evaluates to a boolean value.</description>
@@ -1059,7 +1059,7 @@ The general form of the logical AND operator is shown here.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/combining-operators/</guid>
-      <description>The concepts explained in this course are very important. Don&amp;rsquo;t worry if you find the concepts confusing. You can always come back and view the video later.
+      <description>The concepts explained in this book are very important. Don&amp;rsquo;t worry if you find the concepts confusing. You can always come back and view the video later.
 You can combine operators to form complex expessions.
 The order in which the operations are evaluated is determined by the precedence of the operators involved in the expression. For example, multiplication and division have a higher precedence than addition and subtraction.
 Always remember, precedence rules can be overridden by explicit parentheses.</description>

@@ -130,7 +130,7 @@ Java defines several operators that allow you to work at the binary level. These
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-conditional-operator/</guid>
-      <description>The conditional operator is the only ternary operator in Java. It is used to replace certain types of if-then-else statements. You will learn more about if statements later in the course.
+      <description>The conditional operator is the only ternary operator in Java. It is used to replace certain types of if-then-else statements. You will learn more about if statements later in the book.
 The conditional operator is represented by a question mark (?). It can seem somewhat confusing at first, but the conditional operator can be used very effectively once understood.
 The conditional operator has the following general form.
 expression1 ? expression2 : expression3  Here, expression1 can be any expression that evaluates to a boolean value.</description>
@@ -153,7 +153,7 @@ The general form of the logical AND operator is shown here.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/combining-operators/</guid>
-      <description>The concepts explained in this course are very important. Don&amp;rsquo;t worry if you find the concepts confusing. You can always come back and view the video later.
+      <description>The concepts explained in this book are very important. Don&amp;rsquo;t worry if you find the concepts confusing. You can always come back and view the video later.
 You can combine operators to form complex expessions.
 The order in which the operations are evaluated is determined by the precedence of the operators involved in the expression. For example, multiplication and division have a higher precedence than addition and subtraction.
 Always remember, precedence rules can be overridden by explicit parentheses.</description>

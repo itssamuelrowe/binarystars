@@ -70,7 +70,7 @@ However, sometimes you might want to execute the body of a loop at least once, e
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/working-with-the-for-statement/</guid>
-      <description>In JDK 5, a new form of the for statement was released. The first is the traditional form that has been in use since the original version of Java. The second is the new form which is called as the enhanced for loop or the for-each loop. You will learn about the traditional for statement in this section. You will learn about the enhanced for loop later in course.</description>
+      <description>In JDK 5, a new form of the for statement was released. The first is the traditional form that has been in use since the original version of Java. The second is the new form which is called as the enhanced for loop or the for-each loop. You will learn about the traditional for statement in this section. You will learn about the enhanced for loop later in book.</description>
     </item>
     
   </channel>
