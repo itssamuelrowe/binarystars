@@ -1,4 +1,4 @@
-In this lecture, we will learn about the advantages of Object Oriented Programming (OOP).
+In this section, we will learn about the advantages of Object Oriented Programming (OOP).
 
 ## Reusability
 

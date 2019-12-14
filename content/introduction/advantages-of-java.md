@@ -1,4 +1,9 @@
-In this lecture, we'll discuss about the advantages of Java.
++++
+title = "Advantages of Java"
+weight = 3
++++
+
+In this section, we'll discuss about the advantages of Java.
 
 ## Java is Simple
 

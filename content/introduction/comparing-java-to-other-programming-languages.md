@@ -1,4 +1,9 @@
-In this lecture, we will compare Java to C and C++. We'll learn about their differences.
++++
+title = "Comparing Java to Other Programming Languages"
+weight = 5
++++
+
+In this section, we will compare Java to C and C++. We'll learn about their differences.
 
 ## Paradigm
 
@@ -44,11 +49,11 @@ tend to stay away from it.
 These are some of the major differences between Java, C, and C++.
 
 Here's a list of many other differences. Unfortunately, we won't be discussing
-all of them in this lecture.
+all of them in this section.
 
 |                      | C                              | C++                         | Java                        |
 |----------------------|--------------------------------|-----------------------------|-----------------------------|
-| Founder              | Dennis Ritchie                 | Bjarne Stroustrup           | James Gosling               |
+| Creator              | Dennis Ritchie                 | Bjarne Stroustrup           | James Gosling               |
 | Year                 | 1972                           | 1979                        | 1995                        |
 | Compiled             | Yes                            | Yes                         | Yes                         |
 | Interpreted          | No                             | No                          | Yes                         |

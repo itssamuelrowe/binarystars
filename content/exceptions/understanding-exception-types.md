@@ -23,7 +23,7 @@ this class. `FileNotFoundException` is an example of such an exception. Further,
 the class  `RuntimeException` is a special subclass of the `Exception` class.
 Exceptions which are intended to be unchecked should inherit this class.
 `NullPointerException` is an example of such an exception.
-You will learn more about checked and unchecked exceptions in the next lecture.
+You will learn more about checked and unchecked exceptions in the next section.
 
 The second subclass of the `Throwable` class is the `Error` class. It defines
 exceptions that your program should generally not catch. These exceptions are

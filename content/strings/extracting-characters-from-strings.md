@@ -1,5 +1,5 @@
 You can extract characters from strings in a number of ways. We discuss about
-each technique in this lecture.
+each technique in this section.
 
 Internally, strings store characters in an array. However, you cannot access the
 characters of the string using the array subscript operator. But many methods

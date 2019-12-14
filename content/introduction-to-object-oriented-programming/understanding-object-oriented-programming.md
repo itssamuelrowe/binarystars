@@ -20,7 +20,7 @@ The basic characteristics of objects are as follows.
  * State
  * Behaviour
  
-We will discuss each of them briefly in this lecture.
+We will discuss each of them briefly in this section.
 
 # Identity
 

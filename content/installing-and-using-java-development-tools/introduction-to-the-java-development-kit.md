@@ -1,4 +1,4 @@
-In this lecture, you will discover the various acronyms and tools associated with
+In this section, you will discover the various acronyms and tools associated with
 the Java Development Kit. Make sure you understand them before moving on. Because
 these tools and acronyms will be used throughout this course.
 

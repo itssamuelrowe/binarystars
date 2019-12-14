@@ -1,4 +1,4 @@
-In this lecture, you will learn to write the *Hello World* program.
+In this section, you will learn to write the *Hello World* program.
 
 Many programming courses begin with a simple example program that prints the text,
 "Hello, world!" on the console.

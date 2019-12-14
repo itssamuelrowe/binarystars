@@ -1,4 +1,4 @@
-In this lecture, you will learn how to install the Java Development Kit.
+In this section, you will learn how to install the Java Development Kit.
 
  * You must have administrator privilege to install the Java Development Kit.
    Without administrator privileges, you cannot install Java Development Kit.

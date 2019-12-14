@@ -1,4 +1,9 @@
-In this lecture we will discuss the brief history of Java.
++++
+title = "History of Java"
+weight = 2
++++
+
+In this section we will discuss the brief history of Java.
 
 Java was originally developed for an interactive TV. Java was developed by James
 Gosling, Mike Sheridan, and Patrick Naughton, at Sun Microsystems. They were known

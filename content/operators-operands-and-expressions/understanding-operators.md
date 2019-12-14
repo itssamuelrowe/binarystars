@@ -1,4 +1,4 @@
-In this lecture, you will learn about operators.
+In this section, you will learn about operators.
 
 An operator is a special symbol or a keyword that performs a mathemtical operation
 or a specific operation.

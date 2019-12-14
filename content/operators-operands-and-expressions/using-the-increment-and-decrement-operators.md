@@ -1,4 +1,4 @@
-In this lecture you will learn about the increment and decrement operators.
+In this section you will learn about the increment and decrement operators.
 
 One of the most common operations in programming is adding or subtracting 1
 from a variable.

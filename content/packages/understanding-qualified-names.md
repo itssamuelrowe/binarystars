@@ -1,5 +1,5 @@
 You can create a hierarchy of packages using a qualified name. We mentioned this
-term in the previous lecture without going into its details. 
+term in the previous section without going into its details. 
 
 A qualified name is a sequence of identifiers separated by dots.
 Here are some examples of qualified names.

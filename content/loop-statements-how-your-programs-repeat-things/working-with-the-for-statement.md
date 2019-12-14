@@ -1,7 +1,7 @@
 In JDK 5, there a new form of the for statement was released. The first is the
 traditional form that has been in use since the original version of Java.
 The second is the new form which is called as the enhanced for loop or the for-each loop.
-You will learn about the traditional for statement in this lecture. You will learn about
+You will learn about the traditional for statement in this section. You will learn about
 the enhanced for loop later in course.
 
 The general form of the traditional for statement is shown here.

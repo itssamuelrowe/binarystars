@@ -3,7 +3,7 @@ something occurs during the execution of a loop, and you want to exit the loop
 early. In such cases, you can use the break statement.
 
 In fact you have already seen a simple use of the break statement in the switch
-statement. In this lecture, you will learn more about the break statement.
+statement. In this section, you will learn more about the break statement.
 
 The general form of a break statement is like this.
 

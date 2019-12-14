@@ -19,7 +19,7 @@ it directly, using only its name.
 The import statement exists to make your life easier. In the background, the
 classes are still referred by their fully qualified names.
 
-Consider the following classes which we saw in the previous lecture.
+Consider the following classes which we saw in the previous section.
 ```
 package com.example;
 

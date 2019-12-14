@@ -1,7 +1,7 @@
 A subclass inherits all the behavior and attributes of its superclass. It can then
 extend the behavior and attributes of its superclass. In fact, a subclass can
 change the behavior provided by its superclass. This is known as *overriding*.
-Overriding methods is a feature of polymorphism. In this lecture, you will learn
+Overriding methods is a feature of polymorphism. In this section, you will learn
 about overriding methods.
 
 When you call an instance method, Java looks for the definition of the method

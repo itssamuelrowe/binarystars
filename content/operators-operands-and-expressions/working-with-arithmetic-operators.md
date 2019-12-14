@@ -1,4 +1,4 @@
-In this lecture, you will learn about the arithmetic operators in Java.
+In this section, you will learn about the arithmetic operators in Java.
 
 You can perform addition, subtraction, multiplication, and division with the
 arithmetic operators. They are similar to operators in basic mathematics.

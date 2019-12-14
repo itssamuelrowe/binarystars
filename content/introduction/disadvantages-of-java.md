@@ -1,4 +1,9 @@
-In this lecture, we'll discuss about the disadvantages of Java.
++++
+title = "Disadvantages of Java"
+weight = 4
++++
+
+In this section, we'll discuss about the disadvantages of Java.
 
 Like any programming language, Java is not perfect.
 

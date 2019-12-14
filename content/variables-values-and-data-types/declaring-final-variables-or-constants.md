@@ -1,4 +1,4 @@
-In this lecture, you will learn how to declare final variables or constants.
+In this section, you will learn how to declare final variables or constants.
 
 A final variable is variable that you can't change after initializing.
 The compiler will generate errors if you try to change it. It is also

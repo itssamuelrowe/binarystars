@@ -1,4 +1,4 @@
-In the previous lectures you have learnt while and for statements. You can
+In the previous sections you have learnt while and for statements. You can
 program most situtations using these loop statements. Additionally, Java provides
 another loop statement known as the do-while statement.
 

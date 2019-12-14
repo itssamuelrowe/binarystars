@@ -32,7 +32,7 @@ an abstract class can skip methods declared in an interface. In which case,
 a subclass of the abstract class is required to implement it.
 
 Here is an example example class which implements the `ShoppingList` interface
-shown in the previous lecture.
+shown in the previous section.
 
 ```
 class ConsoleShoppingList implements ShoppingList {

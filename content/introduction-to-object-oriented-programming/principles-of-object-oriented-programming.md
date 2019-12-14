@@ -6,7 +6,7 @@ Object oriented programming is based on the following principles.
     * Encapsulation
     * Abstraction
 
-We will briefly discuss each of these principles in this lecture. In the next
+We will briefly discuss each of these principles in this section. In the next
 few chapters we will learn about them in detail with their applications in Java.
 
 ## Understanding Classes

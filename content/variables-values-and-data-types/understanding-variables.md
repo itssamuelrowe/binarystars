@@ -1,4 +1,4 @@
-In this lecture, you will learn to declare variables.
+In this section, you will learn to declare variables.
 
 A variable is a place holder.
 

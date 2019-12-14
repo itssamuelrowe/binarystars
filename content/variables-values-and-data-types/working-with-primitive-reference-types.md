@@ -1,4 +1,4 @@
-In this lecture, you will learn about the basics of reference types.
+In this section, you will learn about the basics of reference types.
 You learn to create variables that work with objects.
 > You will learn more about classes and objects later in the course.
 

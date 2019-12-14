@@ -1,4 +1,4 @@
-In this lecture, you will learn about the comparison operators in Java.
+In this section, you will learn about the comparison operators in Java.
 
 | Operator | Description                  |
 |----------|------------------------------|

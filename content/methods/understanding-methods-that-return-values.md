@@ -1,5 +1,5 @@
 Methods that perform operations without returning any value are useful. But this
-is not the case always. In this lecture you will learn how to return values
+is not the case always. In this section you will learn how to return values
 from methods.
 
 Imagine that you write a method that accepts your date of birth and calculates

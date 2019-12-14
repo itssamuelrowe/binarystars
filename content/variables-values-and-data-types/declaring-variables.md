@@ -1,4 +1,4 @@
-In this lecture, you will learn how to declare variables.
+In this section, you will learn how to declare variables.
 
 You must *declare* a variable before using it. The compiler will display
 errors otherwise.
@@ -25,7 +25,7 @@ int age;
 In this example, you *declared* variables named `name` and `age`. The variable
 `name` can hold string values. The variable `age` can hold integer values.
 
-You will learn more about *data types* in the next lecture. Until then remember
+You will learn more about *data types* in the next section. Until then remember
 that `int` variables can hold integer values. In other words, `int` variables can
 hold whole numbers like `1`, `20000`, and `100`. `String` variables can hold
 text values such as `"Hello"`, `"Samuel Rowe"`, and `"Shazam"`.

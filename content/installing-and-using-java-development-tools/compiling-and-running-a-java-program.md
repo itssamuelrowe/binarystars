@@ -1,4 +1,4 @@
-In this lecture you will learn to compile and run a Java program.
+In this section you will learn to compile and run a Java program.
 
 Java comes with several command-line tools you can run from your console.
 The two most important are `javac`, the Java compiler used to compile a program,

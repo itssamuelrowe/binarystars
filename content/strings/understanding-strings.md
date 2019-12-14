@@ -71,7 +71,7 @@ Here is the list of all the escape sequences availablen in Java.
    strings specially. In fact, strings support many special syntax. For example,
    string objects are created from string literals. However, you can use
    the constructors of the String class for more flexbility. You will learn
-   about these constructors in the next lecture.
+   about these constructors in the next section.
 
  * You can combine, or concatenate, strings using the concatenation operator (`+`).
    You can combine strings with other values, in which case Java automatically

@@ -1,4 +1,4 @@
-In this lecture, we'll learn how to convert a value from one type to
+In this section, we'll learn how to convert a value from one type to
 another type.
 
 There are times when you need to convert a value of one type to another.

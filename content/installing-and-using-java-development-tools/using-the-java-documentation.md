@@ -1,4 +1,4 @@
-In this lecture, you will learn about the Java Documentation.
+In this section, you will learn about the Java Documentation.
 
 The Java API has thousands of classes, interfaces, enumerations, methods, and
 fields. These prewritten classes provide a powerful functionality to you.
