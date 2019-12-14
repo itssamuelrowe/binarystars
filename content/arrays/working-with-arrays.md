@@ -1,4 +1,10 @@
++++
+title = "Working with Arrays"
+weight = 2
++++
+
 In order to work with arrays you need follow these steps.
+
  * Declare a variable to reference the array object.
  * Create a new array object.
  * Assign the reference of the array object to the array variable.

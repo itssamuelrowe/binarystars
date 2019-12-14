@@ -1,3 +1,8 @@
++++
+title = "Understanding Multidimensional Arrays"
+weight = 3
++++
+
 In Java all arrays are objects, which means you can store an array inside another
 array. Such an arrangment of arrays allows you to create multidimensional
 arrays.

@@ -1,3 +1,8 @@
++++
+title = "Understanding Arrays"
+weight = 1
++++
+
 An array is an object which stores a fixed number of values of the same type.
 It is a linear data structure, which means the values are stored in a sequence.
 Each value stored in an array is known as an element, item, or value.
