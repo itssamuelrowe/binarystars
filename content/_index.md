@@ -40,6 +40,7 @@ Runtime Environment worldwide. 9 million developers use Java to
 write innovative software, and that number is growing every day.
 
 The following assumptions are made about the reader.
+
  * The will to put an effort to learn the technology.
  * The reader owns a computer or at least has access to one.
  * Familiarity with the Linux or Windows terminal, with the knowledge of a few
@@ -48,6 +49,7 @@ The following assumptions are made about the reader.
  * No prior knowledge about programming is required.
 
 ### What the reader will learn and be able to accomplish
+
  * By the end of this book, the reader will be comfortable, or at least familiar,
    with most concepts in core Java 11.
  * The challenge problems given at the end of each chapter is designed to increase
@@ -56,6 +58,7 @@ The following assumptions are made about the reader.
    problems in terms of objects and exploit the perks of object-oriented programming.
 
 ### Special features
+
  * All the examples demonstrated in the book and the solutions to all the
    challenge problems will be hosted on my GitHub repository.
  * A companion blog with tutorials explaining arbitrary concepts such as using
