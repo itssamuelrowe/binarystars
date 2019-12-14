@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conditional Statements on Zen</title>
-    <link>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/</link>
-    <description>Recent content in Conditional Statements on Zen</description>
+    <title>Conditional Statements on Binary Stars</title>
+    <link>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/</link>
+    <description>Recent content in Conditional Statements on Binary Stars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Working with Boolean Expressions</title>
-      <link>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/working-with-boolean-expressions/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/working-with-boolean-expressions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/working-with-boolean-expressions/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/working-with-boolean-expressions/</guid>
       <description>All if statements, as well as several other control statements that you learn in this course use boolean expressions to determine whether to execute or skip a segment of your code.
 A boolean expression is any expression that evaluates to a boolean value, that is, true or false.
 As you discover later in this chapter, boolean expressions can be very complicated. Most of the time you use simple expressions that compare a value with some other value.</description>
@@ -23,10 +23,10 @@ As you discover later in this chapter, boolean expressions can be very complicat
     
     <item>
       <title>Using If Statements</title>
-      <link>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/using-if-statements/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/using-if-statements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/using-if-statements/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/using-if-statements/</guid>
       <description>The if statement is one of the most important statements in any programming language. The following sections describe the various forms of the if statement in Java. Basically, the if statement allows your program to branch conditionally. It is a compound statement.
 Here is the general form of the if statement.
 if (condition) statement else statement  Here, a statement may be either a simple statement or a compound statement. The condition is any expression that evaluates to a Boolean value.</description>
@@ -34,10 +34,10 @@ if (condition) statement else statement  Here, a statement may be either a simpl
     
     <item>
       <title>Nested If Statements</title>
-      <link>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/nested-if-statements/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/nested-if-statements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/nested-if-statements/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/nested-if-statements/</guid>
       <description>You can write any statement under the if and else clauses. In fact, you could write another if statement under them. This is known as nesting. So, if you write an if statement inside another if statement, we call the arrangment as nested if statements.
 The if statement written inside another if statement is called the inner if statement.
 Similarly, the if statement which contains another if statement is called the outer if statement.</description>
@@ -45,10 +45,10 @@ Similarly, the if statement which contains another if statement is called the ou
     
     <item>
       <title>Using If-Else-If Ladders</title>
-      <link>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/using-if-else-if-ladders/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/using-if-else-if-ladders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/using-if-else-if-ladders/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/using-if-else-if-ladders/</guid>
       <description>A common programming construct based on a sequence of nested if statements is the if-else-if ladder.
 Here is the general form of an if-else-if ladder.
 if (condition1) statement1 else if (condition2) statement2 else if (condition3) statement3 else statement4  These ladders are basically a group of nested if statements. The if statements are executed from the top to down. As soon as one of the conditions associated with an if clause is true, then the statement associated with that if clause is executed, and the rest of the ladder is skipped.</description>
@@ -56,10 +56,10 @@ if (condition1) statement1 else if (condition2) statement2 else if (condition3) 
     
     <item>
       <title>Working with Switch Statements</title>
-      <link>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/working-with-switch-statments/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/working-with-switch-statments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/working-with-switch-statments/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/working-with-switch-statments/</guid>
       <description>The switch statement is a conditional statement that allows a value to be tested for equality against a list of constants. Here, each constant is called a case. Basically, the value being tested is compared with each case.
 The switch statement provides a better alternative to a large series of if-else-if ladders.
 Here is the general form of a switch statement.

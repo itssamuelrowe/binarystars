@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Installing and Using Java Development Tools on Zen</title>
-    <link>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/</link>
-    <description>Recent content in Installing and Using Java Development Tools on Zen</description>
+    <title>Installing and Using Java Development Tools on Binary Stars</title>
+    <link>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/</link>
+    <description>Recent content in Installing and Using Java Development Tools on Binary Stars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Downloading the Java Development Kit</title>
-      <link>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/downloading-the-java-development-kit/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/downloading-the-java-development-kit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/downloading-the-java-development-kit/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/downloading-the-java-development-kit/</guid>
       <description>In this section, you will learn how to download the Java Development Kit.
 At the time of creation of this course, Java SE Development Kit 12 was the latest version. Please make sure you download the latest version of Java Development Kit for the best results.
  Open your browser. In this example, I&amp;rsquo;ll be using Google Chrome. Go to the Java SE Development Kit 12 Downloads page using a search engine.</description>
@@ -23,30 +23,30 @@ At the time of creation of this course, Java SE Development Kit 12 was the lates
     
     <item>
       <title>Installing the Java Development Kit</title>
-      <link>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/installing-the-java-development-kit/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/installing-the-java-development-kit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/installing-the-java-development-kit/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/installing-the-java-development-kit/</guid>
       <description>In this section, you will learn how to install the Java Development Kit.
  You must have administrator privilege to install the Java Development Kit. Without administrator privileges, you cannot install Java Development Kit. If you don&amp;rsquo;t have administrator privileges, please contact the administrator of your system. On Windows, start the installer by double-clicking the file you downloaded. You will be prompted with a dialog asking for permission. Click &amp;lsquo;Yes&amp;rsquo; to continue.</description>
     </item>
     
     <item>
       <title>Introduction to the Java Development Kit</title>
-      <link>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/introduction-to-the-java-development-kit/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/introduction-to-the-java-development-kit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/introduction-to-the-java-development-kit/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/introduction-to-the-java-development-kit/</guid>
       <description>In this section, you will discover the various acronyms and tools associated with the Java Development Kit. Make sure you understand them before moving on. Because these tools and acronyms will be used throughout this course.
 What is the Java Development Kit (JDK)? The Java Development Kit (JDK) is a software development environment used for developing Java applications. It includes the Java compiler, the Java Virtual Machine (JVM), the Java Runtime Environment (JRE), an archiver, a documentation generator known as Javadoc and other tools needed to develop programs in Java.</description>
     </item>
     
     <item>
       <title>Compiling and Running a Java Program</title>
-      <link>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/compiling-and-running-a-java-program/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/compiling-and-running-a-java-program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/compiling-and-running-a-java-program/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/compiling-and-running-a-java-program/</guid>
       <description>In this section you will learn to compile and run a Java program.
 Java comes with several command-line tools you can run from your console. The two most important are javac, the Java compiler used to compile a program, and java, the Java Virtual Machine used to run your program. These tools work essentially the same no matter what operating system you&amp;rsquo;re using.
 You can compile a program from your console using the javac command.</description>
@@ -54,10 +54,10 @@ You can compile a program from your console using the javac command.</descriptio
     
     <item>
       <title>Using the Java Documentation</title>
-      <link>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/using-the-java-documentation/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/using-the-java-documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/using-the-java-documentation/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/using-the-java-documentation/</guid>
       <description>In this section, you will learn about the Java Documentation.
 The Java API has thousands of classes, interfaces, enumerations, methods, and fields. These prewritten classes provide a powerful functionality to you. You should be aware of these classes and should know how to use them.
 It is impossible for normal people to remember the names and functionality of all these components. When you want to know the details of a component, you can simply refer to the Java documentation.</description>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Zen</title>
-    <link>https://itssamuelrowe.github.io/zen-website/tags/</link>
-    <description>Recent content in Tags on Zen</description>
+    <title>Tags on Binary Stars</title>
+    <link>https://itssamuelrowe.github.io/binarystars/tags/</link>
+    <description>Recent content in Tags on Binary Stars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://itssamuelrowe.github.io/zen-website/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itssamuelrowe.github.io/binarystars/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

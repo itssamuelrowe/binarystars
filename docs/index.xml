@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zen</title>
-    <link>https://itssamuelrowe.github.io/zen-website/</link>
-    <description>Recent content on Zen</description>
+    <title>Binary Stars</title>
+    <link>https://itssamuelrowe.github.io/binarystars/</link>
+    <description>Recent content on Binary Stars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://itssamuelrowe.github.io/zen-website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itssamuelrowe.github.io/binarystars/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating Inner Class</title>
-      <link>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/creating-inner-class/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/inner-classes-anonymous-classes-and-lambdas/creating-inner-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/creating-inner-class/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/inner-classes-anonymous-classes-and-lambdas/creating-inner-class/</guid>
       <description>You can create a class inside another class. An inner class exists to help the class within which it is declared. It is also known as a nested class.
 Here is the general form of an inner class.
 modifiers class OuterClass { modifiers class InnerClass { } }  Inner classes are useful in several situations.
@@ -24,20 +24,20 @@ An inner class is similar to a helper class. But it can access the private membe
     
     <item>
       <title>Declaring Methods</title>
-      <link>https://itssamuelrowe.github.io/zen-website/methods/declaring-methods/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/methods/declaring-methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/methods/declaring-methods/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/methods/declaring-methods/</guid>
       <description>A method is a block of statements. You can give it a name. A method defines an object&amp;rsquo;s behavior, basically whatever an object is capable of performing.
 You can call or invoke a method with its name. When you invoke a method, the execution of your program branches to the body of that method. When the method is finished, execution resumes from where the program branched, and the program continues on to the next statement.</description>
     </item>
     
     <item>
       <title>Downloading the Java Development Kit</title>
-      <link>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/downloading-the-java-development-kit/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/downloading-the-java-development-kit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/downloading-the-java-development-kit/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/downloading-the-java-development-kit/</guid>
       <description>In this section, you will learn how to download the Java Development Kit.
 At the time of creation of this course, Java SE Development Kit 12 was the latest version. Please make sure you download the latest version of Java Development Kit for the best results.
  Open your browser. In this example, I&amp;rsquo;ll be using Google Chrome. Go to the Java SE Development Kit 12 Downloads page using a search engine.</description>
@@ -45,10 +45,10 @@ At the time of creation of this course, Java SE Development Kit 12 was the lates
     
     <item>
       <title>The Hello World Program</title>
-      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/the-hello-world-program/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/basics-of-java/the-hello-world-program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/the-hello-world-program/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/basics-of-java/the-hello-world-program/</guid>
       <description>In this section, you will learn to write the Hello World program.
 Many programming courses begin with a simple example program that prints the text, &amp;ldquo;Hello, world!&amp;rdquo; on the console.
 public class Hello { public static void main(String... arguments) { System.out.println(&amp;quot;Hello, world!&amp;quot;); } }   Copy the source code from here. Paste the source code into a text editor, such as Notepad or Notepad++. Save it in a file named Hello.</description>
@@ -56,30 +56,30 @@ public class Hello { public static void main(String... arguments) { System.out.p
     
     <item>
       <title>Understanding Abstract Classes</title>
-      <link>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/understanding-abstract-classes/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/understanding-abstract-classes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/understanding-abstract-classes/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/understanding-abstract-classes/</guid>
       <description>In a class hierarchy, the classes at the top are abstract in their definitions. Because these classes can define behavior and attributes common to all the classes below them. Classes with specific behavior and attributes are usually at the bottom of the hierarchy.
 When you design a class hirerarchy, your first step is to factor out the common behavior and attributes common to all the classes. In some situations you may find yourself with a very abstract behavior, which prevents you from providing a general implementation.</description>
     </item>
     
     <item>
       <title>Understanding Arrays</title>
-      <link>https://itssamuelrowe.github.io/zen-website/arrays/understanding-arrays/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/arrays/understanding-arrays/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/arrays/understanding-arrays/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/arrays/understanding-arrays/</guid>
       <description>An array is an object which stores a fixed number of values of the same type. It is a linear data structure, which means the values are stored in a sequence. Each value stored in an array is known as an element, item, or value.
 You can store any type of value that you can store in a variable. Like variables, you can store only one type of value once you declare it.</description>
     </item>
     
     <item>
       <title>Understanding Exceptions</title>
-      <link>https://itssamuelrowe.github.io/zen-website/exceptions/understanding-exceptions/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/exceptions/understanding-exceptions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/exceptions/understanding-exceptions/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/exceptions/understanding-exceptions/</guid>
       <description>In Java, errors of all types are generalized into a special type of object known as an exception.
 An exception is an object which represents an unexpected event. It occurs when your program is running. It disturbs the flow of your program. Exceptions are used to indicate many types of error conditions.
 An exception is represented by an object. It holds the information about the event such as the condition, the stacktrace, the location, and a message.</description>
@@ -87,10 +87,10 @@ An exception is represented by an object. It holds the information about the eve
     
     <item>
       <title>Understanding Inheritance</title>
-      <link>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/understanding-inheritance/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/understanding-inheritance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/understanding-inheritance/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/understanding-inheritance/</guid>
       <description>Inheritance is a concept of object-oriented programming. You can derive a class from another class with inheritance.
 A class that you inherit is known as parent class, or base class, or superclass.
 A class which inherits is known as child class, or derived class, or subclass.
@@ -99,10 +99,10 @@ Imagine you have a class that already has behavior and attributes that another c
     
     <item>
       <title>Understanding Object-Oriented Programming</title>
-      <link>https://itssamuelrowe.github.io/zen-website/introduction-to-object-oriented-programming/understanding-object-oriented-programming/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/introduction-to-object-oriented-programming/understanding-object-oriented-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/introduction-to-object-oriented-programming/understanding-object-oriented-programming/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/introduction-to-object-oriented-programming/understanding-object-oriented-programming/</guid>
       <description>Object-oriented programming is a programming language paradigm or model. In this model, programs are organized around data, also known as objects. Java is unlike C, a Procedural Oriented Language (POL), in which the programs are organized around functions and logic.
 An object is simply data that has attributes and behavior.
 An example of an object is a human being. A human being has properties like name, date of birth, and gender.</description>
@@ -110,10 +110,10 @@ An example of an object is a human being. A human being has properties like name
     
     <item>
       <title>Understanding Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/understanding-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/understanding-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/understanding-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/understanding-operators/</guid>
       <description>In this section, you will learn about operators.
 An operator is a special symbol or a keyword that performs a mathemtical operation or a specific operation.
 Generally, an operator expects one, two, or three values known as operands.
@@ -122,10 +122,10 @@ You must always remember, an operator always calculates and returns a result.</d
     
     <item>
       <title>Understanding Strings</title>
-      <link>https://itssamuelrowe.github.io/zen-website/strings/understanding-strings/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/strings/understanding-strings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/strings/understanding-strings/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/strings/understanding-strings/</guid>
       <description>In Java, strings are not primitive types. The string is implemented by the String class defined in the java.lang package. All strings are objects, but Java treats strings specially.
 A string is a sequence of characters. You can create a string by enclosing your text in double quotes. The character sequence along with the double quotes form a string literal.
 Unlike many other programming languages, string are not arrays of characters.</description>
@@ -133,10 +133,10 @@ Unlike many other programming languages, string are not arrays of characters.</d
     
     <item>
       <title>Understanding this Keyword</title>
-      <link>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/understanding-this-keyword/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/constructors-how-your-objects-are-initialized/understanding-this-keyword/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/understanding-this-keyword/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/constructors-how-your-objects-are-initialized/understanding-this-keyword/</guid>
       <description>In the body of a method, constructor, or initializer block, sometimes you need to refer to the object that contains the instance member in question. In other words, sometimes an instance member may want to access the instance it is contained in.
 In such cases, you can refer the instance using the this keyword. It always represents the instance within which the instance member is contained.
 To refer to the instance in an instance method, use the this keyword where you normally would refer to an object&amp;rsquo;s reference through a variable.</description>
@@ -144,10 +144,10 @@ To refer to the instance in an instance method, use the this keyword where you n
     
     <item>
       <title>Understanding Variables</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-variables/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/understanding-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-variables/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/understanding-variables/</guid>
       <description>In this section, you will learn to declare variables.
 A variable is a place holder.
 You can store a value like 100 in a variable. After you store a value in the variable, you can store a different value in the variable whenever you want.
@@ -156,10 +156,10 @@ When you store a new value in a variable, the old value is no longer there. In o
     
     <item>
       <title>What is a Loop?</title>
-      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/what-is-a-loop/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/what-is-a-loop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/what-is-a-loop/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/what-is-a-loop/</guid>
       <description>There are three iteration statements in Java.
  For Statement While Statement Do While Statement  Repeating things over and over is referred to as looping. The iteration statements in Java help you create loops in your programs. These statements allow a segment of your code to repeat a given number of times.
 As an example of a loop, consider yourself watching a series like Breaking Bad.
@@ -168,10 +168,10 @@ As an example of a loop, consider yourself watching a series like Breaking Bad.
     
     <item>
       <title>What is Java?</title>
-      <link>https://itssamuelrowe.github.io/zen-website/introduction/what-is-java/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/introduction/what-is-java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/introduction/what-is-java/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/introduction/what-is-java/</guid>
       <description>Java is a programming language. It was created at Sun Microsystems. It was initially released in 1995.
 Java is similar to C and C++. So, if you have any experience with C or C++, you will find Java easy to learn. However, Java is different in many significant ways.
 According to Oracle (which acquired Sun Microsystems in 2010), Java now runs on more than 3 billion devices. Java powers millions of applications across multiple platforms.</description>
@@ -179,10 +179,10 @@ According to Oracle (which acquired Sun Microsystems in 2010), Java now runs on 
     
     <item>
       <title>Working with Boolean Expressions</title>
-      <link>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/working-with-boolean-expressions/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/working-with-boolean-expressions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/working-with-boolean-expressions/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/working-with-boolean-expressions/</guid>
       <description>All if statements, as well as several other control statements that you learn in this course use boolean expressions to determine whether to execute or skip a segment of your code.
 A boolean expression is any expression that evaluates to a boolean value, that is, true or false.
 As you discover later in this chapter, boolean expressions can be very complicated. Most of the time you use simple expressions that compare a value with some other value.</description>
@@ -190,10 +190,10 @@ As you discover later in this chapter, boolean expressions can be very complicat
     
     <item>
       <title>Working with Classes</title>
-      <link>https://itssamuelrowe.github.io/zen-website/classes-and-objects/working-with-classes/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/classes-and-objects/working-with-classes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/classes-and-objects/working-with-classes/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/classes-and-objects/working-with-classes/</guid>
       <description>In the real world, you wll find many objects of the same kind. There are thousands of bikes with the same make and model. Each of these bikes was built with the same blueprint.
 A class is a blueprint from which you create objects.
 The most important thing to understand about a class is that it defines a new data type. Once defined, this new type can be used to create instances.</description>
@@ -201,10 +201,10 @@ The most important thing to understand about a class is that it defines a new da
     
     <item>
       <title>Advantages of Exceptions</title>
-      <link>https://itssamuelrowe.github.io/zen-website/exceptions/advantages-of-exceptions/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/exceptions/advantages-of-exceptions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/exceptions/advantages-of-exceptions/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/exceptions/advantages-of-exceptions/</guid>
       <description>The advantages of exceptions are as follows.
 You can separate error handling from your algorithm. With exceptions you can separate the details of what happens when an unexpected situation occurs. You can separate such logic from the main logic of your program.
 In other programming languages, error detection, reporting, and handling often lead to complex and confusing code.
@@ -213,10 +213,10 @@ Exceptions allow you to keep your source code clean and organized.</description>
     
     <item>
       <title>Constructors of the String Class</title>
-      <link>https://itssamuelrowe.github.io/zen-website/strings/constructors-of-the-string-class/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/strings/constructors-of-the-string-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/strings/constructors-of-the-string-class/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/strings/constructors-of-the-string-class/</guid>
       <description>The String class exposes many constructors.
 You can create an empty string by calling the default constructor. An empty string basically contains no characters.
 Here is an example.
@@ -226,20 +226,20 @@ String(char[] sequence)  Here is an example which demonstrates how you can creat
     
     <item>
       <title>Conventions for Class Names</title>
-      <link>https://itssamuelrowe.github.io/zen-website/classes-and-objects/conventions-for-class-names/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/classes-and-objects/conventions-for-class-names/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/classes-and-objects/conventions-for-class-names/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/classes-and-objects/conventions-for-class-names/</guid>
       <description>Your class name is an identifier. You can use any identifier you want. But we suggest you to follow these guidelines.
  Begin the class name with a capital letter. For example, Bike, Car, Planet and Person. If the class name consists of more than one word, capitalize each word. For example, BikeRace, CarGame, CollegeLibrary and StringBuilder. Try to use nouns for your class names. We know that classes represent real life objects.</description>
     </item>
     
     <item>
       <title>Creating Anonymous Inner Classes</title>
-      <link>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/creating-anonymous-inner-classes/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/inner-classes-anonymous-classes-and-lambdas/creating-anonymous-inner-classes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/creating-anonymous-inner-classes/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/inner-classes-anonymous-classes-and-lambdas/creating-anonymous-inner-classes/</guid>
       <description>Sometimes an inner class is used only once by the outer class. In such cases, you can remove the declaration and make the class anonymous.
 An anonymous class is a class without a name, extends clause and implements clause. It is always used with the new operator.
 Remember that abstract classes and interfaces cannot be instantiated directly. With anonymous classes you can provide a class body while you instantiate it.</description>
@@ -247,10 +247,10 @@ Remember that abstract classes and interfaces cannot be instantiated directly. W
     
     <item>
       <title>Declaring Variables</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/declaring-variables/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/declaring-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/declaring-variables/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/declaring-variables/</guid>
       <description>In this section, you will learn how to declare variables.
 You must declare a variable before using it. The compiler will display errors otherwise.
 The basic form of a variable declaration statement is shown below.
@@ -261,10 +261,10 @@ Notice that a variable declaration ends with a semicolon.</description>
     
     <item>
       <title>History of Java</title>
-      <link>https://itssamuelrowe.github.io/zen-website/introduction/history-of-java/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/introduction/history-of-java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/introduction/history-of-java/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/introduction/history-of-java/</guid>
       <description>In this section we will discuss the brief history of Java.
 Java was originally developed for an interactive TV. Java was developed by James Gosling, Mike Sheridan, and Patrick Naughton, at Sun Microsystems. They were known as the Green Team.
 It was initially called Oak, named after the oak tree outside Gosling&amp;rsquo;s office. It was then renamed to Java because Oak was already a trademark of Oak Technologies.
@@ -273,20 +273,20 @@ Sun released Java 1.</description>
     
     <item>
       <title>Installing the Java Development Kit</title>
-      <link>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/installing-the-java-development-kit/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/installing-the-java-development-kit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/installing-the-java-development-kit/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/installing-the-java-development-kit/</guid>
       <description>In this section, you will learn how to install the Java Development Kit.
  You must have administrator privilege to install the Java Development Kit. Without administrator privileges, you cannot install Java Development Kit. If you don&amp;rsquo;t have administrator privileges, please contact the administrator of your system. On Windows, start the installer by double-clicking the file you downloaded. You will be prompted with a dialog asking for permission. Click &amp;lsquo;Yes&amp;rsquo; to continue.</description>
     </item>
     
     <item>
       <title>Principles of Object-Oriented Programming</title>
-      <link>https://itssamuelrowe.github.io/zen-website/introduction-to-object-oriented-programming/principles-of-object-oriented-programming/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/introduction-to-object-oriented-programming/principles-of-object-oriented-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/introduction-to-object-oriented-programming/principles-of-object-oriented-programming/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/introduction-to-object-oriented-programming/principles-of-object-oriented-programming/</guid>
       <description>Object oriented programming is based on the following principles.
  Class Object Inheritance Encapsulation Abstraction  We will briefly discuss each of these principles in this section. In the next few chapters we will learn about them in detail with their applications in Java.
 Understanding Classes A class is a collection of objects of similar type. Once a class is defined, any number of instances can be created which belong to that class.</description>
@@ -294,20 +294,20 @@ Understanding Classes A class is a collection of objects of similar type. Once a
     
     <item>
       <title>The Object Class</title>
-      <link>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/the-object-class/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/the-object-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/the-object-class/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/the-object-class/</guid>
       <description>Inheritance is comparable to how you inherited traits such as your height, eyes, hair, DNA, and allergies from your parents. They in turn inherited some of their traits from their parents, that is, your grandparents. Inheritance of such tratis basically keeps going backwards in time till the very first people who populated Earth, say Adam and Eve, the root of your ancestorial hierarchy.
 Similarly, every class hierarchy has a root class.</description>
     </item>
     
     <item>
       <title>Types of Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/types-of-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/types-of-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/types-of-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/types-of-operators/</guid>
       <description>In this section, we&amp;rsquo;ll learn about the types of operators based on the number of operands they expect.
 A common way to categorize Java&amp;rsquo;s operators is by the number of operands the operator expect.
 There are three types of operators based on the number of operands they accept.
@@ -317,10 +317,10 @@ A unary operator can be a prefix operator or a postfix operator.</description>
     
     <item>
       <title>Understanding Identifiers</title>
-      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/understanding-identifiers/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/basics-of-java/understanding-identifiers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/understanding-identifiers/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/basics-of-java/understanding-identifiers/</guid>
       <description>Identifiers are the names you give to variables, methods, classes, interfaces, and enumerations. Unlike literals, identifiers only help you reference something.
 The program shown in the first example uses seven identifiers. * Hello * main * String * arguments * System * out * println
  Identifiers are case sensitive. For example, ArrayList with uppercase a and arrayList with lowercase a are two different identifiers. Identifiers may contain uppercase or lowercase letters, numerals, underscore characters _, and dollar symbols $.</description>
@@ -328,10 +328,10 @@ The program shown in the first example uses seven identifiers. * Hello * main * 
     
     <item>
       <title>Using If Statements</title>
-      <link>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/using-if-statements/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/using-if-statements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/using-if-statements/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/using-if-statements/</guid>
       <description>The if statement is one of the most important statements in any programming language. The following sections describe the various forms of the if statement in Java. Basically, the if statement allows your program to branch conditionally. It is a compound statement.
 Here is the general form of the if statement.
 if (condition) statement else statement  Here, a statement may be either a simple statement or a compound statement. The condition is any expression that evaluates to a Boolean value.</description>
@@ -339,20 +339,20 @@ if (condition) statement else statement  Here, a statement may be either a simpl
     
     <item>
       <title>Working with Arrays</title>
-      <link>https://itssamuelrowe.github.io/zen-website/arrays/working-with-arrays/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/arrays/working-with-arrays/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/arrays/working-with-arrays/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/arrays/working-with-arrays/</guid>
       <description>In order to work with arrays you need follow these steps.
  Declare a variable to reference the array object. Create a new array object. Assign the reference of the array object to the array variable. Store information in the newly created array.  Declaring Array Variables Before you start working with an array, you need to create a variable that can store a reference to the array object.</description>
     </item>
     
     <item>
       <title>Working with Constructors</title>
-      <link>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/working-with-constructors/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/constructors-how-your-objects-are-initialized/working-with-constructors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/working-with-constructors/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/constructors-how-your-objects-are-initialized/working-with-constructors/</guid>
       <description>A constructor is a special method which initializes your variables and performs any other additional operations when you create an object. It is called whenever you create an object.
 Here is the general form of a constructor.
 Name(parameters) { statement1 statement2 ... statementN }  Here, the name of the constructor is the same as the class name. Constructors usually initialize values of fields.
@@ -361,40 +361,40 @@ You have already learnt about parameters in the previous chapter.</description>
     
     <item>
       <title>Working with Interfaces</title>
-      <link>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-interfaces/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-interfaces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-interfaces/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-interfaces/</guid>
       <description>As you design your class hierarchies, you soon learn that the simplicity of single inheritance is restrictive. This is especially true when multiple unrelated classes have common behavior and you want to factorize them. Other Object-Oriented Programming (OOP) languages provide multiple inheritance, which solves this problem. But multiple inherentance comes with its own problems. This leads to complicated class designs, ambiguity and confusion.
 This is why the creators of Java did not include multiple inheritance.</description>
     </item>
     
     <item>
       <title>Working with Parameters</title>
-      <link>https://itssamuelrowe.github.io/zen-website/methods/working-with-parameters/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/methods/working-with-parameters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/methods/working-with-parameters/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/methods/working-with-parameters/</guid>
       <description>A parameter is a value that you can send to a method. Parameters allow a method to be generalized. In other words, such methods can operate on a variety of data and work differently based on different arguments.
 It is important to understand the difference between parameters and arguments. A parameter is a variable defined by a method that receives a value when the method is invoked. Whereas, an argument is a value that is passed to a method when it is invoked.</description>
     </item>
     
     <item>
       <title>Working with the While Statement</title>
-      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-while-statement/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/working-with-the-while-statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-while-statement/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/working-with-the-while-statement/</guid>
       <description>When it comes to loops, Java gives you three choices. You can go with the complex for loop, which has all the gizmos and options to make most programmers happy, or you can choose the simpler while loop for your programs.
 The for statement is clearer and lays out all its plans in one place. Whereas, the while statement gives you more flexbility. The important thing to remember is that you can convert a for loop into a while loop, and vice versa.</description>
     </item>
     
     <item>
       <title>Advantages of Java</title>
-      <link>https://itssamuelrowe.github.io/zen-website/introduction/advantages-of-java/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/introduction/advantages-of-java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/introduction/advantages-of-java/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/introduction/advantages-of-java/</guid>
       <description>In this section, we&amp;rsquo;ll discuss about the advantages of Java.
 Java is Simple Java is easy to learn and use.
 If you know the basics of Object Oriented Programming, you can easily learn Java.
@@ -403,10 +403,10 @@ Java is Platform Independent One of the main reasons Java is so popular is its p
     
     <item>
       <title>Advantages of Object-Oriented Programming</title>
-      <link>https://itssamuelrowe.github.io/zen-website/introduction-to-object-oriented-programming/advantages-of-object-oriented-programming/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/introduction-to-object-oriented-programming/advantages-of-object-oriented-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/introduction-to-object-oriented-programming/advantages-of-object-oriented-programming/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/introduction-to-object-oriented-programming/advantages-of-object-oriented-programming/</guid>
       <description>In this section, we will learn about the advantages of Object Oriented Programming (OOP).
 Reusability Reusability allows us to reuse available facilities rather building it again and again. This is done with the use of a class. You can use it any number of times. Thus, your productivity is improved.
 Maintenance Code maintainance is a necessity for any programming languages. Object Oriented Programming allows programmers to refactor code in many ways.</description>
@@ -414,10 +414,10 @@ Maintenance Code maintainance is a necessity for any programming languages. Obje
     
     <item>
       <title>Declaring Final Variables</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/declaring-final-variables-or-constants/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/declaring-final-variables-or-constants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/declaring-final-variables-or-constants/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/declaring-final-variables-or-constants/</guid>
       <description>In this section, you will learn how to declare final variables or constants.
 A final variable is variable that you can&amp;rsquo;t change after initializing. The compiler will generate errors if you try to change it. It is also called as a constant.
 The basic form of a constant declaration statement is shown here.
@@ -426,10 +426,10 @@ final type name = expression;  The only difference between declaring a variable 
     
     <item>
       <title>Determining the Length of Strings</title>
-      <link>https://itssamuelrowe.github.io/zen-website/strings/determining-the-length-of-strings/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/strings/determining-the-length-of-strings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/strings/determining-the-length-of-strings/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/strings/determining-the-length-of-strings/</guid>
       <description>You can determine the length of a string using the length() method. The length of a string is basically the number of characters it contains.
 Here is an example which prints the length of a string.
 String name = &amp;quot;Shazam&amp;quot;; int length = name.length(); System.out.println(length);  The length of a string is an imoprtant value when you want to manipulate strings.</description>
@@ -437,20 +437,20 @@ String name = &amp;quot;Shazam&amp;quot;; int length = name.length(); System.out
     
     <item>
       <title>Introduction to the Java Development Kit</title>
-      <link>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/introduction-to-the-java-development-kit/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/introduction-to-the-java-development-kit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/introduction-to-the-java-development-kit/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/introduction-to-the-java-development-kit/</guid>
       <description>In this section, you will discover the various acronyms and tools associated with the Java Development Kit. Make sure you understand them before moving on. Because these tools and acronyms will be used throughout this course.
 What is the Java Development Kit (JDK)? The Java Development Kit (JDK) is a software development environment used for developing Java applications. It includes the Java compiler, the Java Virtual Machine (JVM), the Java Runtime Environment (JRE), an archiver, a documentation generator known as Javadoc and other tools needed to develop programs in Java.</description>
     </item>
     
     <item>
       <title>Nested If Statements</title>
-      <link>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/nested-if-statements/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/nested-if-statements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/nested-if-statements/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/nested-if-statements/</guid>
       <description>You can write any statement under the if and else clauses. In fact, you could write another if statement under them. This is known as nesting. So, if you write an if statement inside another if statement, we call the arrangment as nested if statements.
 The if statement written inside another if statement is called the inner if statement.
 Similarly, the if statement which contains another if statement is called the outer if statement.</description>
@@ -458,40 +458,40 @@ Similarly, the if statement which contains another if statement is called the ou
     
     <item>
       <title>Overloading Constructors</title>
-      <link>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/overloading-constructors/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/constructors-how-your-objects-are-initialized/overloading-constructors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/overloading-constructors/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/constructors-how-your-objects-are-initialized/overloading-constructors/</guid>
       <description>A class can have multiple constructors, this is known as constructor overloading. It is a feature of polymorphism. Constructor overloading is a very useful feature. It fact, it is similar to method overloading.
 Java differentiates constructors using constructor signatures. A constructor signature is a part of constructor declaration. It is the combination of the constructor name, which is the class name it lives in, and the parameter list. The names of the parameters are not included in the signature.</description>
     </item>
     
     <item>
       <title>Overriding Methods</title>
-      <link>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/overriding-methods/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/overriding-methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/overriding-methods/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/overriding-methods/</guid>
       <description>A subclass inherits all the behavior and attributes of its superclass. It can then extend the behavior and attributes of its superclass. In fact, a subclass can change the behavior provided by its superclass. This is known as overriding. Overriding methods is a feature of polymorphism. In this section, you will learn about overriding methods.
 When you call an instance method, Java looks for the definition of the method in the object&amp;rsquo;s class.</description>
     </item>
     
     <item>
       <title>Understanding Exception Types</title>
-      <link>https://itssamuelrowe.github.io/zen-website/exceptions/understanding-exception-types/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/exceptions/understanding-exception-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/exceptions/understanding-exception-types/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/exceptions/understanding-exception-types/</guid>
       <description>An exception object contains the information about the error condition. It includes information such as stacktrace and message. Perhaps, the most important information is the cause of the error. It is indicated by the name of the exception class used to create the exception object. Usually, you will use exception objects only to figure out the kind of error that occurred.
 In order to understand exceptions fully, you need to understand the class hierarchy of exceptions first.</description>
     </item>
     
     <item>
       <title>Understanding Keywords</title>
-      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/understanding-keywords/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/basics-of-java/understanding-keywords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/understanding-keywords/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/basics-of-java/understanding-keywords/</guid>
       <description>A keyword is a special word. Its meaning is defined by the Java programming language. You cannot use these words as identifiers.
 All keywords are in lowercase.
 Like everything else in Java, keywords are case sensitive. For example, if you use For with uppercase f instead of for with lowercase f it is an error.
@@ -500,20 +500,20 @@ The program shown in the first example uses four keywords. * public * class * st
     
     <item>
       <title>Understanding Methods That Return Value</title>
-      <link>https://itssamuelrowe.github.io/zen-website/methods/understanding-methods-that-return-values/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/methods/understanding-methods-that-return-values/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/methods/understanding-methods-that-return-values/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/methods/understanding-methods-that-return-values/</guid>
       <description>Methods that perform operations without returning any value are useful. But this is not the case always. In this section you will learn how to return values from methods.
 Imagine that you write a method that accepts your date of birth and calculates your age. Probably the method can print it on the console. But this is not what you always want. For example, you would want the calculated age to determine if you are eligible to vote, or not.</description>
     </item>
     
     <item>
       <title>Understanding Multidimensional Arrays</title>
-      <link>https://itssamuelrowe.github.io/zen-website/arrays/understanding-multidimensional-arrays/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/arrays/understanding-multidimensional-arrays/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/arrays/understanding-multidimensional-arrays/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/arrays/understanding-multidimensional-arrays/</guid>
       <description>In Java all arrays are objects, which means you can store an array inside another array. Such an arrangment of arrays allows you to create multidimensional arrays.
 The two dimensional array is very common compared to other higher dimensional arrays. A common use of a two dimensional array is to represent data in grids, such as cartesian planes and matrices.
 In an array variable declaration statement, the number of square bracket pairs you write determines the dimensions of your array.</description>
@@ -521,10 +521,10 @@ In an array variable declaration statement, the number of square bracket pairs y
     
     <item>
       <title>Understanding Visibility</title>
-      <link>https://itssamuelrowe.github.io/zen-website/classes-and-objects/understanding-visibility/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/classes-and-objects/understanding-visibility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/classes-and-objects/understanding-visibility/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/classes-and-objects/understanding-visibility/</guid>
       <description>You can control whether the world outside your class can access its members. This is known as visibility of the member.
 In other words, you can expose only certain members to public, that is the world outside your class, while keep other members private or protected. Thus, you can control the access of your members. The visibility modifiers are a form of encapsulation in Java.
 You will use visibility modifiers very often.</description>
@@ -532,10 +532,10 @@ You will use visibility modifiers very often.</description>
     
     <item>
       <title>Using the Break Statement</title>
-      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/using-the-break-statement/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/using-the-break-statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/using-the-break-statement/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/using-the-break-statement/</guid>
       <description>All loops end when a test condition fails. There might be situations where something occurs during the execution of a loop, and you want to exit the loop early. In such cases, you can use the break statement.
 In fact you have already seen a simple use of the break statement in the switch statement. In this section, you will learn more about the break statement.
 The general form of a break statement is like this.</description>
@@ -543,10 +543,10 @@ The general form of a break statement is like this.</description>
     
     <item>
       <title>Working with Arithmetic Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-arithmetic-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-arithmetic-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-arithmetic-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-arithmetic-operators/</guid>
       <description>In this section, you will learn about the arithmetic operators in Java.
 You can perform addition, subtraction, multiplication, and division with the arithmetic operators. They are similar to operators in basic mathematics.
    Operator Description     + Addition   - Subtraction   * Multiplication   / Division (returns quotient)   % Division (returns remainder)    Addition The addition operator, written as plus + accepts two operands.</description>
@@ -554,10 +554,10 @@ You can perform addition, subtraction, multiplication, and division with the ari
     
     <item>
       <title>Working with Lambdas</title>
-      <link>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/working-with-lambdas/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/inner-classes-anonymous-classes-and-lambdas/working-with-lambdas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/inner-classes-anonymous-classes-and-lambdas/working-with-lambdas/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/inner-classes-anonymous-classes-and-lambdas/working-with-lambdas/</guid>
       <description>A lambda expression or closure allows you to create an instance of a functional interface with the lambda operator (-&amp;gt;).
 A functional interface is any interface that has just one method declaration. Only such interfaces can be instantiated using the lambda expression.
 The general form of a lambda expression is shown here.
@@ -567,10 +567,10 @@ interface OnSingleClickListener { void handleSingleClick(); }  To create an inst
     
     <item>
       <title>Working with the Implements Clause</title>
-      <link>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-the-implements-clause/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-the-implements-clause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-the-implements-clause/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-the-implements-clause/</guid>
       <description>Once you define an interface, any number of classes can implement it.
 In order to implement an implement an interface, you need to use the implements clause in your class declaration. After which, you need to implement the methods declared in the interface.
 The general form of the implements clause is shown here.
@@ -579,10 +579,10 @@ class name extends superclass implements interface1, interface2, ..., interfaceN
     
     <item>
       <title>Comparing Strings</title>
-      <link>https://itssamuelrowe.github.io/zen-website/strings/comparing-strings/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/strings/comparing-strings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/strings/comparing-strings/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/strings/comparing-strings/</guid>
       <description>You cannot compare two strings for equality using the equality operator (==). Remember strings are objects therefore you need to use the equals() method to compare two strings for equality.
 The declaration of the equals method is shown here.
 boolean equals(Object other)  It returns true if both the strings contain the same characters in the same order; false otherwise. You need to remember that this method is case sensistive. For example, if you compare &amp;ldquo;Batman&amp;rdquo; and &amp;ldquo;batman&amp;rdquo; for equality, it would return false.</description>
@@ -590,10 +590,10 @@ boolean equals(Object other)  It returns true if both the strings contain the sa
     
     <item>
       <title>Compiling and Running a Java Program</title>
-      <link>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/compiling-and-running-a-java-program/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/compiling-and-running-a-java-program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/compiling-and-running-a-java-program/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/compiling-and-running-a-java-program/</guid>
       <description>In this section you will learn to compile and run a Java program.
 Java comes with several command-line tools you can run from your console. The two most important are javac, the Java compiler used to compile a program, and java, the Java Virtual Machine used to run your program. These tools work essentially the same no matter what operating system you&amp;rsquo;re using.
 You can compile a program from your console using the javac command.</description>
@@ -601,10 +601,10 @@ You can compile a program from your console using the javac command.</descriptio
     
     <item>
       <title>Disadvantages of Java</title>
-      <link>https://itssamuelrowe.github.io/zen-website/introduction/disadvantages-of-java/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/introduction/disadvantages-of-java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/introduction/disadvantages-of-java/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/introduction/disadvantages-of-java/</guid>
       <description>In this section, we&amp;rsquo;ll discuss about the disadvantages of Java.
 Like any programming language, Java is not perfect.
  Performance  Java programs are converted to bytecodes when compiled. During execution, these byte codes are interpreted by the virtual machine. Thus, Java programs take longer time to run compared to programs written in C and C++. But this problem is being overcome with a Just-in-time Compiler (JIT).
@@ -613,10 +613,10 @@ Like any programming language, Java is not perfect.
     
     <item>
       <title>Extending Interfaces</title>
-      <link>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/extending-interfaces/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/extending-interfaces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/extending-interfaces/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/extending-interfaces/</guid>
       <description>You can organize your interfaces in a hierarchy just like classes.
 An interface that you inherit is known as parent interface, or base interface, or superinterface.
 An interface which inherits is known as child interface, or derived interface, or subinterface.
@@ -625,30 +625,30 @@ Imagine you have an interface that already has the behavior and constants that a
     
     <item>
       <title>Method Overloading: How Methods Share Identitical Names</title>
-      <link>https://itssamuelrowe.github.io/zen-website/methods/method-overloading-how-methods-share-identical-names/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/methods/method-overloading-how-methods-share-identical-names/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/methods/method-overloading-how-methods-share-identical-names/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/methods/method-overloading-how-methods-share-identical-names/</guid>
       <description>Unlike variables, multiple methods in the same scope can have the same name. This technique is known as method overloading. It is a feature of polymorphism. Method overloading is a very useful feature.
 Java differentiates methods using method signatures. A method signature is a part of method declaration. It is the combination of the method name and the parameter list. The return type of the method is not included in the signature.</description>
     </item>
     
     <item>
       <title>Understanding Instance and Static Members</title>
-      <link>https://itssamuelrowe.github.io/zen-website/classes-and-objects/understanding-instance-and-static-members/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/classes-and-objects/understanding-instance-and-static-members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/classes-and-objects/understanding-instance-and-static-members/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/classes-and-objects/understanding-instance-and-static-members/</guid>
       <description>Instance Members Instance variables are variables that you declare inside a class body and without the static keyword. They are declared outside methods, constructors, and blocks. These variables are initialized when you create an instance of the class. Further, each instance of the class gets a copy of these variables.
 In fact, when any member of a class, except constructors, is declared without the static keyword you are essentially declaring an instance member.</description>
     </item>
     
     <item>
       <title>Using If-Else-If Ladders</title>
-      <link>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/using-if-else-if-ladders/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/using-if-else-if-ladders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/using-if-else-if-ladders/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/using-if-else-if-ladders/</guid>
       <description>A common programming construct based on a sequence of nested if statements is the if-else-if ladder.
 Here is the general form of an if-else-if ladder.
 if (condition1) statement1 else if (condition2) statement2 else if (condition3) statement3 else statement4  These ladders are basically a group of nested if statements. The if statements are executed from the top to down. As soon as one of the conditions associated with an if clause is true, then the statement associated with that if clause is executed, and the rest of the ladder is skipped.</description>
@@ -656,40 +656,40 @@ if (condition1) statement1 else if (condition2) statement2 else if (condition3) 
     
     <item>
       <title>Using the Catch Clause</title>
-      <link>https://itssamuelrowe.github.io/zen-website/exceptions/using-the-catch-clause/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/exceptions/using-the-catch-clause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/exceptions/using-the-catch-clause/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/exceptions/using-the-catch-clause/</guid>
       <description>Before you learn to catch exceptions in your program, you need to see what happens when you don&amp;rsquo;t catch them. Here is an example which generates an exception.
 public class GenerateException { public static void main(String ... arguments) { int a = 100; int b = 0; int c = a / b; } }  When the Java Virtual Machine tries to evalute a / b, it throws an exception because you tried to divide an integer by zero.</description>
     </item>
     
     <item>
       <title>Using the Continue Statement</title>
-      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/using-the-continue-statement/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/using-the-continue-statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/using-the-continue-statement/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/using-the-continue-statement/</guid>
       <description>Sometimes it is useful to force an early iteration of a loop. In other words, you might want to continue running the loop but stop processing the remainder of the code in its body for this particular iteration.
 In while and do-while statements, a continue statement causes control to be transferred directly to the conditional expression that controls the loop. In a for statement, control first goes to the updation section of the for statement and then to the conditional expression.</description>
     </item>
     
     <item>
       <title>Working with Constructors and Inheritance</title>
-      <link>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/working-with-constructors-and-inheritance/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/working-with-constructors-and-inheritance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/working-with-constructors-and-inheritance/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/working-with-constructors-and-inheritance/</guid>
       <description>When you inherit a class, the constructors are not inherited. Because cnostructors are not instance members. Which means each class should create its own constructors. However, sometimes you may want to invoke the constructor of a superclass from your subclass.
 For example, to initialize the fields in a superclass you either need access to them or invoke the constructor. The former technique is verbose and not recommended because it violates the principles of encapsulation.</description>
     </item>
     
     <item>
       <title>Working with Equality Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-equality-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-equality-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-equality-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-equality-operators/</guid>
       <description>In this section, you will learn about the equality operators in Java.
    Operator Description     == Equality   != Inequality    Equality Returns true if the operand on the left is the same as the operand on the right.
 Inequality Returns true if the operand on the left is not the same as the operand on the right.</description>
@@ -697,10 +697,10 @@ Inequality Returns true if the operand on the left is not the same as the operan
     
     <item>
       <title>Working with Initializer Blocks</title>
-      <link>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/working-with-initializer-blocks/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/constructors-how-your-objects-are-initialized/working-with-initializer-blocks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/constructors-how-your-objects-are-initialized/working-with-initializer-blocks/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/constructors-how-your-objects-are-initialized/working-with-initializer-blocks/</guid>
       <description>An initializer block is a special block of code which initializes an object. It is written inside a class and outside methods and constructors. You cannot assign a name to an initializer block.
 The general form of an initializer block is shown here.
 { statement1 statement2 ... statementN }  It is always executed whenever an instance of a class is created, before any constructors are invoked. In other words, it does not matter which constructor you invoke, the initializer block always runs.</description>
@@ -708,10 +708,10 @@ The general form of an initializer block is shown here.
     
     <item>
       <title>Working with Statements</title>
-      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-statements/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/basics-of-java/working-with-statements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-statements/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/basics-of-java/working-with-statements/</guid>
       <description>Statements are similar to sentences in the English language.
 A statement tells Java to perform an action. It can include one or more expressions.
 There are two types of statements in Java: * Simple Statement * Compound Statement
@@ -722,10 +722,10 @@ Understanding Simple Statements Simple statements are the actions your program p
     
     <item>
       <title>Comparing Java to Other Programming Languages</title>
-      <link>https://itssamuelrowe.github.io/zen-website/introduction/comparing-java-to-other-programming-languages/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/introduction/comparing-java-to-other-programming-languages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/introduction/comparing-java-to-other-programming-languages/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/introduction/comparing-java-to-other-programming-languages/</guid>
       <description>In this section, we will compare Java to C and C++. We&amp;rsquo;ll learn about their differences.
 Paradigm Both Java and C++ are Object-Oriented Programming (OOP) languages. Whereas, C is Procedural Oriented Programming (POP) language.
 Memory Management All programming languages let you handle data. When you create a variable, you can assign a portion of the computer&amp;rsquo;s memory to store the data. The allocation of memory is a detail that you can usually ignore.</description>
@@ -733,20 +733,20 @@ Memory Management All programming languages let you handle data. When you create
     
     <item>
       <title>Extract Characters From Strings</title>
-      <link>https://itssamuelrowe.github.io/zen-website/strings/extracting-characters-from-strings/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/strings/extracting-characters-from-strings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/strings/extracting-characters-from-strings/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/strings/extracting-characters-from-strings/</guid>
       <description>You can extract characters from strings in a number of ways. We discuss about each technique in this section.
 Internally, strings store characters in an array. However, you cannot access the characters of the string using the array subscript operator. But many methods in the String class require indexes to operate. Just like array, string indexes are zero based. So it would help you to understand strings better if you think of them as arrays.</description>
     </item>
     
     <item>
       <title>Throwing Exceptions</title>
-      <link>https://itssamuelrowe.github.io/zen-website/exceptions/throwing-exceptions/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/exceptions/throwing-exceptions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/exceptions/throwing-exceptions/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/exceptions/throwing-exceptions/</guid>
       <description>So far, you have only learnt to catch exceptions. In particular, the exceptions that were thrown by Java. However, you can throw an exception manually, using the throw statement.
 The general form of throw statement is shown here.
 throw expression;  The throw statement is a simple statement. Therefore, it is terminated by a semicolon.
@@ -755,10 +755,10 @@ Here, the expression must evaluates to an object whose type inherits Throwable. 
     
     <item>
       <title>Understanding Data Types</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-data-types/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/understanding-data-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-data-types/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/understanding-data-types/</guid>
       <description>Java is statically typed. What this means is, the compiler knows the type of every variable. Once you declare a variable of a certain type, it cannot hold values of other types.
 The advantage of statically typed language is that many bugs can be caught during compilation.
 As a Java programmer, you must specify the type of each variable. All the variables, values, and their types are checked for correctness.</description>
@@ -766,10 +766,10 @@ As a Java programmer, you must specify the type of each variable. All the variab
     
     <item>
       <title>Using the Java Documentation</title>
-      <link>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/using-the-java-documentation/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/using-the-java-documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/installing-and-using-java-development-tools/using-the-java-documentation/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/installing-and-using-java-development-tools/using-the-java-documentation/</guid>
       <description>In this section, you will learn about the Java Documentation.
 The Java API has thousands of classes, interfaces, enumerations, methods, and fields. These prewritten classes provide a powerful functionality to you. You should be aware of these classes and should know how to use them.
 It is impossible for normal people to remember the names and functionality of all these components. When you want to know the details of a component, you can simply refer to the Java documentation.</description>
@@ -777,10 +777,10 @@ It is impossible for normal people to remember the names and functionality of al
     
     <item>
       <title>Working with Blocks</title>
-      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-blocks/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/basics-of-java/working-with-blocks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-blocks/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/basics-of-java/working-with-blocks/</guid>
       <description>A block is a group of zero or more statements within braces.
 A block begins with an opening brace { and ends with a closing brace }.
 You can write any number of statements, including block statements, within the braces.
@@ -791,10 +791,10 @@ For example, this is an empty block.
     
     <item>
       <title>Working with Comparison Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-comparison-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-comparison-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-comparison-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-comparison-operators/</guid>
       <description>In this section, you will learn about the comparison operators in Java.
    Operator Description     &amp;lt; Lesser than   &amp;gt; Greater than   &amp;lt;= Lesser than or equal   &amp;gt;= Greater than or equal    Lesser Returns true if the operand on the left is lesser than the operand on the right.
 Greater Returns true if the operand on the left is greater than the operand on the right.</description>
@@ -802,19 +802,19 @@ Greater Returns true if the operand on the left is greater than the operand on t
     
     <item>
       <title>Working with Default Methods</title>
-      <link>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-default-methods/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-default-methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-default-methods/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-default-methods/</guid>
       <description>This section will be added shortly.</description>
     </item>
     
     <item>
       <title>Working with Getters and Setters</title>
-      <link>https://itssamuelrowe.github.io/zen-website/methods/working-with-getters-and-setters/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/methods/working-with-getters-and-setters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/methods/working-with-getters-and-setters/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/methods/working-with-getters-and-setters/</guid>
       <description>Object-oriented programming helps you hide the details of a class. You can expose certain parts of your class to others.
 You should generally avoid creating public fields. You can make all your fields private. You can give access to the values in these fields with accessors.
 Accessors are methods which access fields on the behalf of the world outside your class.
@@ -823,10 +823,10 @@ There are two types of accessors. * Get Accessor * Set Accessor</description>
     
     <item>
       <title>Working with Switch Statements</title>
-      <link>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/working-with-switch-statments/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/working-with-switch-statments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/conditional-statements-how-your-programs-make-choices/working-with-switch-statments/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/working-with-switch-statments/</guid>
       <description>The switch statement is a conditional statement that allows a value to be tested for equality against a list of constants. Here, each constant is called a case. Basically, the value being tested is compared with each case.
 The switch statement provides a better alternative to a large series of if-else-if ladders.
 Here is the general form of a switch statement.
@@ -835,10 +835,10 @@ switch (expression) { case constant1: // statements break; case constant2: // st
     
     <item>
       <title>Working with the Do While Statement</title>
-      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-do-while-statement/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/working-with-the-do-while-statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-do-while-statement/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/working-with-the-do-while-statement/</guid>
       <description>In the previous sections you have learnt while and for statements. You can program most situtations using these loop statements. Additionally, Java provides another loop statement known as the do-while statement.
 As you have seen, if the conditional expression controlling a loop statement evaluates to false initially, then the body of the loop will not be executed at all.
 However, sometimes you might want to execute the body of a loop at least once, even if the conditional expression is false to begin with.</description>
@@ -846,10 +846,10 @@ However, sometimes you might want to execute the body of a loop at least once, e
     
     <item>
       <title>Dealing with Whitespace</title>
-      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/dealing-with-whitespace/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/basics-of-java/dealing-with-whitespace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/dealing-with-whitespace/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/basics-of-java/dealing-with-whitespace/</guid>
       <description>Whitespace refers to a sequence of space characters, tab characters, or line breaks. The compiler always ignores whitespace.
 Here&amp;rsquo;s an example.
 area = 2 * (width + breadth);  You can write this statement on two lines.
@@ -860,19 +860,19 @@ area = ( width + breadth ) ;  Yet, another variation.</description>
     
     <item>
       <title>Understanding Checked and Unchecked Exceptions</title>
-      <link>https://itssamuelrowe.github.io/zen-website/exceptions/understanding-checked-and-unchecked-exceptions/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/exceptions/understanding-checked-and-unchecked-exceptions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/exceptions/understanding-checked-and-unchecked-exceptions/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/exceptions/understanding-checked-and-unchecked-exceptions/</guid>
       <description>An unchecked exception is an exception which you can handle if you want. Any exception class which inherits the RuntimeException class is an unchecked exception. The compiler doesn&amp;rsquo;t force you to handle it. Methods that throw such exceptions don&amp;rsquo;t have to declare that they throw them. It is assumed that the application cannot do anything to recover from such exceptions at runtime. So far, all the exceptions you have used are unchecked exceptions.</description>
     </item>
     
     <item>
       <title>Using the Unary Plus and Minus Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-unary-plus-and-minus-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-unary-plus-and-minus-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-unary-plus-and-minus-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-unary-plus-and-minus-operators/</guid>
       <description>The unary plus and minus operators let you change the sign of an operand.
 Note that the symbol used to represent these operators are the same as the addition and subtraction operators. The compiler figures out which operation you mean by examining the expression.
 Remember, the unary minus operator doesn&amp;rsquo;t necessarily make an operand negative. Actually, it inverts the sign of the operand. For example, assume x = -5 then -x will give you 5.</description>
@@ -880,10 +880,10 @@ Remember, the unary minus operator doesn&amp;rsquo;t necessarily make an operand
     
     <item>
       <title>Working with Primitive Types</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-primitive-types/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/working-with-primitive-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-primitive-types/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/working-with-primitive-types/</guid>
       <description>The primitive types are the most basic data types available. They are defined by Java.
 There are eight primitive data types in Java.
  boolean char byte short int long float double     Type Default Size Range Example     boolean false 1 byte true or false true, false   char &amp;lsquo;\u0000&amp;rsquo; 2 bytes 0 to 65,536 (unsigned) &amp;rsquo;s&amp;rsquo;, &amp;rsquo;M&amp;rsquo;, &amp;lsquo;a&amp;rsquo;, &amp;lsquo;o&amp;rsquo;, &amp;lsquo;H&amp;rsquo;, &amp;lsquo;7&amp;rsquo;, &amp;lsquo;L&amp;rsquo;   byte 0 1 byte -128 to 127 5, 2, 7, 19, 100   short 0 2 bytes -32,768 to 32,767 2000, 2, 7, 19, 5, 1999   int 0 4 bytes -2,147,483,648 to 2,147,483,647 1, 88234, -9991, 22234   long 0 8 bytes -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 922337203685477L, -72202593477L, 882200333466L   float 0.</description>
@@ -891,10 +891,10 @@ There are eight primitive data types in Java.
     
     <item>
       <title>Working with Reference Types</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-reference-types/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/working-with-reference-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-reference-types/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/working-with-reference-types/</guid>
       <description>In this section, you will learn about the basics of reference types. You learn to create variables that work with objects. &amp;gt; You will learn more about classes and objects later in the course.
 Java programs are built with classes. You can use classes to create objects.
 A reference type is a type which references an object.
@@ -903,29 +903,29 @@ The class can be any class. It can either be a part of the Java API or a class t
     
     <item>
       <title>Working with the For Statement</title>
-      <link>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-for-statement/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/working-with-the-for-statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/loop-statements-how-your-programs-repeat-things/working-with-the-for-statement/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/loop-statements-how-your-programs-repeat-things/working-with-the-for-statement/</guid>
       <description>In JDK 5, a new form of the for statement was released. The first is the traditional form that has been in use since the original version of Java. The second is the new form which is called as the enhanced for loop or the for-each loop. You will learn about the traditional for statement in this section. You will learn about the enhanced for loop later in course.</description>
     </item>
     
     <item>
       <title>Using the Finally Clause</title>
-      <link>https://itssamuelrowe.github.io/zen-website/exceptions/using-the-finally-clause/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/exceptions/using-the-finally-clause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/exceptions/using-the-finally-clause/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/exceptions/using-the-finally-clause/</guid>
       <description>When an exception is thrown, the execution of your code jumps abruptly, possibly from one method to another method. This means some important segment of your code may be skipped. This could be a problem in some methods.
 For example, if a method opens a file in the beginning and closes it before returning, then you will not want the code that closes the file to be skipped by an exception.</description>
     </item>
     
     <item>
       <title>Using the Increment and Decrement Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-increment-and-decrement-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-increment-and-decrement-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-increment-and-decrement-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-increment-and-decrement-operators/</guid>
       <description>In this section you will learn about the increment and decrement operators.
 One of the most common operations in programming is adding or subtracting 1 from a variable.
 Adding 1 to a variable is called incrementing the varible. The traditional way to increment a variable is written as:
@@ -935,10 +935,10 @@ Here, the expression a + 1 is first evaluated, then the result is assigned to th
     
     <item>
       <title>Working with Comments</title>
-      <link>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-comments/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/basics-of-java/working-with-comments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/basics-of-java/working-with-comments/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/basics-of-java/working-with-comments/</guid>
       <description>Comments are texts that are ignored by the compiler. They help you write information or explanation about your code. You can use comments to hide a part of your code.
 We recommend you to use plenty of comments in your source code.
 Types of Comments There are 3 types of comments in Java.
@@ -947,10 +947,10 @@ Types of Comments There are 3 types of comments in Java.
     
     <item>
       <title>Using the Assignment Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-assignment-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-assignment-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-assignment-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-assignment-operators/</guid>
       <description>The assignment operator helps you assign a value to a variable. You have already seen many examples of this operator. It assigns the value on its right to the operand on its left.
 For example, here&amp;rsquo;s an example of the assignment operator in use.
 int vehicles; int cars = 100; vehicles = cars;  In the above example, we created a variable named vehicles. Think that it stores the number of vehicles you own.</description>
@@ -958,10 +958,10 @@ int vehicles; int cars = 100; vehicles = cars;  In the above example, we created
     
     <item>
       <title>Working with Strings</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-strings/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/working-with-strings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/working-with-strings/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/working-with-strings/</guid>
       <description>In this section, you will learn the basics of strings.
 A string is a sequence of characters. String literals are enclosed in double quotes (&amp;quot;).
 Here&amp;rsquo;s an example of a string.
@@ -971,10 +971,10 @@ Even though String is a reference type, it is treated specially. We take an enti
     
     <item>
       <title>Understanding Unicode</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-unicode/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/understanding-unicode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-unicode/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/understanding-unicode/</guid>
       <description>This section describes Unicode and how Java deals with it. It is a difficult concept to grasp. You can safely skip this section for now. You can come back when you are comfortable with Java.
  To work with characters in a computer, you need the following: * Character Repertoire * Character Set * Character Encoding
 Don&amp;rsquo;t worry if you find these words scary. You&amp;rsquo;ll easily understand them. We have simplified their explanations.</description>
@@ -982,10 +982,10 @@ Don&amp;rsquo;t worry if you find these words scary. You&amp;rsquo;ll easily und
     
     <item>
       <title>Using the Compound Assignment Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-compound-assignment-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-compound-assignment-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-compound-assignment-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-compound-assignment-operators/</guid>
       <description>A compound assignment operator is an operator that performs both an implicit calculation and an assignment.
 Here&amp;rsquo;s a list of all the compound assignment operators for the arithmetic operators.
    Operator Description     += Addition and assignment   -= Subtraction and assignment   *= Multiplication and assignment   /= Division (for quotient) and assignment   %= Division (for remainder) and assignment    For example, the statement a = a + 10 can be written as a += 10.</description>
@@ -993,10 +993,10 @@ Here&amp;rsquo;s a list of all the compound assignment operators for the arithme
     
     <item>
       <title>Understanding Casting</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-casting/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/understanding-casting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-casting/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/understanding-casting/</guid>
       <description>In this section, we&amp;rsquo;ll learn how to convert a value from one type to another type.
 There are times when you need to convert a value of one type to another. In such cases, you use type casting. Converting a value from one type to another type is known as type casting. For example, you can convert a decimal value to an integer value, or vice versa.
 There are two types of casting in Java.</description>
@@ -1004,29 +1004,29 @@ There are two types of casting in Java.</description>
     
     <item>
       <title>Working with Bitwise Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-bitwise-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-bitwise-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-bitwise-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-bitwise-operators/</guid>
       <description>A computer stores data in binary. In other words, information is encoded as a sequence of 1&amp;rsquo;s and 0&amp;rsquo;s. On most computers, the memory is organized into 8-bit cells known as bytes.
 Java defines several operators that allow you to work at the binary level. These operators perform bit-by-bit (commonly known as bitwise) operations on bit patterns and involve manipulation of individual bits. Such operators are known as bitwise operators.</description>
     </item>
     
     <item>
       <title>Understanding Scopes</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-scopes/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/understanding-scopes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/understanding-scopes/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/understanding-scopes/</guid>
       <description>This section will be added shortly.</description>
     </item>
     
     <item>
       <title>Using the Conditional Operator</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-conditional-operator/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-conditional-operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-conditional-operator/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-conditional-operator/</guid>
       <description>The conditional operator is the only ternary operator in Java. It is used to replace certain types of if-then-else statements. You will learn more about if statements later in the course.
 The conditional operator is represented by a question mark (?). It can seem somewhat confusing at first, but the conditional operator can be used very effectively once understood.
 The conditional operator has the following general form.
@@ -1035,19 +1035,19 @@ expression1 ? expression2 : expression3  Here, expression1 can be any expression
     
     <item>
       <title>Printing Output with the System Class</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/printing-output-with-the-system-class/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/printing-output-with-the-system-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/printing-output-with-the-system-class/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/printing-output-with-the-system-class/</guid>
       <description>This section will be added shortly.</description>
     </item>
     
     <item>
       <title>Using the Logical Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-logical-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-logical-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-logical-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-logical-operators/</guid>
       <description>You can combine two or more conditions or constraints or complement with logical operators. The result of the operation of a logical operator is a boolean value, either true or false.
 Logical AND Operator The logical AND operator combines two boolean expressions and returns true if both the expressions evaluate to true. Otherwise, it returns false for the given expressions.
 The general form of the logical AND operator is shown here.</description>
@@ -1055,10 +1055,10 @@ The general form of the logical AND operator is shown here.</description>
     
     <item>
       <title>Combining Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/combining-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/combining-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/combining-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/combining-operators/</guid>
       <description>The concepts explained in this course are very important. Don&amp;rsquo;t worry if you find the concepts confusing. You can always come back and view the video later.
 You can combine operators to form complex expessions.
 The order in which the operations are evaluated is determined by the precedence of the operators involved in the expression. For example, multiplication and division have a higher precedence than addition and subtraction.
@@ -1067,19 +1067,19 @@ Always remember, precedence rules can be overridden by explicit parentheses.</de
     
     <item>
       <title>Getting Input with the Scanner Class</title>
-      <link>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/getting-input-with-the-scanner-class/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/getting-input-with-the-scanner-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/variables-values-and-data-types/getting-input-with-the-scanner-class/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/variables-values-and-data-types/getting-input-with-the-scanner-class/</guid>
       <description>This section will be added soon.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://itssamuelrowe.github.io/zen-website/packages/declaring-packages/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/packages/declaring-packages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/packages/declaring-packages/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/packages/declaring-packages/</guid>
       <description>To create a package you need to use the package statement at the beginning of your source file.
 Here is the general form of the package statement.
 package qualifiedName;  Here, the qualifiedName represents the name you assigned your package.
@@ -1089,10 +1089,10 @@ package example;  The package statement should always be the very first statemen
     
     <item>
       <title></title>
-      <link>https://itssamuelrowe.github.io/zen-website/packages/naming-conventions-for-packages/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/packages/naming-conventions-for-packages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/packages/naming-conventions-for-packages/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/packages/naming-conventions-for-packages/</guid>
       <description>You can use any identifier you wish to name your packages. However, we recommend you to follow these naming conventions when you create your packages.
  Packages are usually named using the authors domain name. The domain name is written backwards to obtain the package name.  For example, imagine you own the domain example.com. You can create a package named com.example for all your packages.
 Using your domain name allows you to create package names which are unique from the packages created by other programmers around the world.</description>
@@ -1100,20 +1100,20 @@ Using your domain name allows you to create package names which are unique from 
     
     <item>
       <title></title>
-      <link>https://itssamuelrowe.github.io/zen-website/packages/understanding-packages/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/packages/understanding-packages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/packages/understanding-packages/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/packages/understanding-packages/</guid>
       <description>A package is a group of related classes, interfaces, annotations and enumerations bundled together. Henceforth, when we refer to classes in this chapter we mean to include other components such as interfaces, annotations and enumerations, unless stated otherwise.
 Packages are like containers that provide your classes a name space. For example, a package allows you to create two classes named Scanner. You simply need to store the classes in different packages.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://itssamuelrowe.github.io/zen-website/packages/understanding-qualified-names/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/packages/understanding-qualified-names/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/packages/understanding-qualified-names/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/packages/understanding-qualified-names/</guid>
       <description>You can create a hierarchy of packages using a qualified name. We mentioned this term in the previous section without going into its details.
 A qualified name is a sequence of identifiers separated by dots. Here are some examples of qualified names.
 java.lang java.util java.io com.onecube com.onecube.model com.onecube.module.storage zen.core javafx.stage  Here is the general form of a hierarchical package statement.
@@ -1122,20 +1122,20 @@ package level1.level2.level3;  Each identifier in a qualified name, separated by
     
     <item>
       <title></title>
-      <link>https://itssamuelrowe.github.io/zen-website/packages/understanding-the-classpath-environment-variable/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/packages/understanding-the-classpath-environment-variable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/packages/understanding-the-classpath-environment-variable/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/packages/understanding-the-classpath-environment-variable/</guid>
       <description>Your packages should be organized correspondingly in your directories. But how does the Java Virtual Machine (JVM) determine which directory to look for your packages?
 By default Java looks for packages in the current working directory, the directory from where you are invoking the JVM. Further, the Java Virtual Machine looks for packages in the directories listed in the classpath of the application. You can specify the classpath for an application in two ways.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://itssamuelrowe.github.io/zen-website/packages/working-with-the-import-statement/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/packages/working-with-the-import-statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/packages/working-with-the-import-statement/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/packages/working-with-the-import-statement/</guid>
       <description>You have learnt how packages allow you to keep your classes organized. However, as you have seen accessing classes from different packages require fully qualified names, which means you have to type so much just to refere a class! For this reason, Java provides the import statement.
 The general form of the import statement is shown here.
 import qualifiedName;  Here, the qualified name refers to the class which you want to import.</description>

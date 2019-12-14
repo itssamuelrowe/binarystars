@@ -1,6 +1,6 @@
-baseURL = "https://itssamuelrowe.github.io/zen-website/"
+baseURL = "https://itssamuelrowe.github.io/binarystars/"
 languageCode = "en-us"
-title = "Zen"
+title = "Binary Stars"
 theme = "grav"
 
 [params]

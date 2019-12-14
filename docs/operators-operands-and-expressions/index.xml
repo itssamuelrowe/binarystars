@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Operators, Operands, and Expressions on Zen</title>
-    <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/</link>
-    <description>Recent content in Operators, Operands, and Expressions on Zen</description>
+    <title>Operators, Operands, and Expressions on Binary Stars</title>
+    <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/</link>
+    <description>Recent content in Operators, Operands, and Expressions on Binary Stars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Understanding Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/understanding-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/understanding-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/understanding-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/understanding-operators/</guid>
       <description>In this section, you will learn about operators.
 An operator is a special symbol or a keyword that performs a mathemtical operation or a specific operation.
 Generally, an operator expects one, two, or three values known as operands.
@@ -24,10 +24,10 @@ You must always remember, an operator always calculates and returns a result.</d
     
     <item>
       <title>Types of Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/types-of-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/types-of-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/types-of-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/types-of-operators/</guid>
       <description>In this section, we&amp;rsquo;ll learn about the types of operators based on the number of operands they expect.
 A common way to categorize Java&amp;rsquo;s operators is by the number of operands the operator expect.
 There are three types of operators based on the number of operands they accept.
@@ -37,10 +37,10 @@ A unary operator can be a prefix operator or a postfix operator.</description>
     
     <item>
       <title>Working with Arithmetic Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-arithmetic-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-arithmetic-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-arithmetic-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-arithmetic-operators/</guid>
       <description>In this section, you will learn about the arithmetic operators in Java.
 You can perform addition, subtraction, multiplication, and division with the arithmetic operators. They are similar to operators in basic mathematics.
    Operator Description     + Addition   - Subtraction   * Multiplication   / Division (returns quotient)   % Division (returns remainder)    Addition The addition operator, written as plus + accepts two operands.</description>
@@ -48,10 +48,10 @@ You can perform addition, subtraction, multiplication, and division with the ari
     
     <item>
       <title>Working with Equality Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-equality-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-equality-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-equality-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-equality-operators/</guid>
       <description>In this section, you will learn about the equality operators in Java.
    Operator Description     == Equality   != Inequality    Equality Returns true if the operand on the left is the same as the operand on the right.
 Inequality Returns true if the operand on the left is not the same as the operand on the right.</description>
@@ -59,10 +59,10 @@ Inequality Returns true if the operand on the left is not the same as the operan
     
     <item>
       <title>Working with Comparison Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-comparison-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-comparison-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-comparison-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-comparison-operators/</guid>
       <description>In this section, you will learn about the comparison operators in Java.
    Operator Description     &amp;lt; Lesser than   &amp;gt; Greater than   &amp;lt;= Lesser than or equal   &amp;gt;= Greater than or equal    Lesser Returns true if the operand on the left is lesser than the operand on the right.
 Greater Returns true if the operand on the left is greater than the operand on the right.</description>
@@ -70,10 +70,10 @@ Greater Returns true if the operand on the left is greater than the operand on t
     
     <item>
       <title>Using the Unary Plus and Minus Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-unary-plus-and-minus-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-unary-plus-and-minus-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-unary-plus-and-minus-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-unary-plus-and-minus-operators/</guid>
       <description>The unary plus and minus operators let you change the sign of an operand.
 Note that the symbol used to represent these operators are the same as the addition and subtraction operators. The compiler figures out which operation you mean by examining the expression.
 Remember, the unary minus operator doesn&amp;rsquo;t necessarily make an operand negative. Actually, it inverts the sign of the operand. For example, assume x = -5 then -x will give you 5.</description>
@@ -81,10 +81,10 @@ Remember, the unary minus operator doesn&amp;rsquo;t necessarily make an operand
     
     <item>
       <title>Using the Increment and Decrement Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-increment-and-decrement-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-increment-and-decrement-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-increment-and-decrement-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-increment-and-decrement-operators/</guid>
       <description>In this section you will learn about the increment and decrement operators.
 One of the most common operations in programming is adding or subtracting 1 from a variable.
 Adding 1 to a variable is called incrementing the varible. The traditional way to increment a variable is written as:
@@ -94,10 +94,10 @@ Here, the expression a + 1 is first evaluated, then the result is assigned to th
     
     <item>
       <title>Using the Assignment Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-assignment-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-assignment-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-assignment-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-assignment-operators/</guid>
       <description>The assignment operator helps you assign a value to a variable. You have already seen many examples of this operator. It assigns the value on its right to the operand on its left.
 For example, here&amp;rsquo;s an example of the assignment operator in use.
 int vehicles; int cars = 100; vehicles = cars;  In the above example, we created a variable named vehicles. Think that it stores the number of vehicles you own.</description>
@@ -105,10 +105,10 @@ int vehicles; int cars = 100; vehicles = cars;  In the above example, we created
     
     <item>
       <title>Using the Compound Assignment Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-compound-assignment-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-compound-assignment-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-compound-assignment-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-compound-assignment-operators/</guid>
       <description>A compound assignment operator is an operator that performs both an implicit calculation and an assignment.
 Here&amp;rsquo;s a list of all the compound assignment operators for the arithmetic operators.
    Operator Description     += Addition and assignment   -= Subtraction and assignment   *= Multiplication and assignment   /= Division (for quotient) and assignment   %= Division (for remainder) and assignment    For example, the statement a = a + 10 can be written as a += 10.</description>
@@ -116,20 +116,20 @@ Here&amp;rsquo;s a list of all the compound assignment operators for the arithme
     
     <item>
       <title>Working with Bitwise Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-bitwise-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-bitwise-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/working-with-bitwise-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/working-with-bitwise-operators/</guid>
       <description>A computer stores data in binary. In other words, information is encoded as a sequence of 1&amp;rsquo;s and 0&amp;rsquo;s. On most computers, the memory is organized into 8-bit cells known as bytes.
 Java defines several operators that allow you to work at the binary level. These operators perform bit-by-bit (commonly known as bitwise) operations on bit patterns and involve manipulation of individual bits. Such operators are known as bitwise operators.</description>
     </item>
     
     <item>
       <title>Using the Conditional Operator</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-conditional-operator/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-conditional-operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-conditional-operator/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-conditional-operator/</guid>
       <description>The conditional operator is the only ternary operator in Java. It is used to replace certain types of if-then-else statements. You will learn more about if statements later in the course.
 The conditional operator is represented by a question mark (?). It can seem somewhat confusing at first, but the conditional operator can be used very effectively once understood.
 The conditional operator has the following general form.
@@ -138,10 +138,10 @@ expression1 ? expression2 : expression3  Here, expression1 can be any expression
     
     <item>
       <title>Using the Logical Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-logical-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-logical-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/using-the-logical-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/using-the-logical-operators/</guid>
       <description>You can combine two or more conditions or constraints or complement with logical operators. The result of the operation of a logical operator is a boolean value, either true or false.
 Logical AND Operator The logical AND operator combines two boolean expressions and returns true if both the expressions evaluate to true. Otherwise, it returns false for the given expressions.
 The general form of the logical AND operator is shown here.</description>
@@ -149,10 +149,10 @@ The general form of the logical AND operator is shown here.</description>
     
     <item>
       <title>Combining Operators</title>
-      <link>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/combining-operators/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/combining-operators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/operators-operands-and-expressions/combining-operators/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/operators-operands-and-expressions/combining-operators/</guid>
       <description>The concepts explained in this course are very important. Don&amp;rsquo;t worry if you find the concepts confusing. You can always come back and view the video later.
 You can combine operators to form complex expessions.
 The order in which the operations are evaluated is determined by the precedence of the operators involved in the expression. For example, multiplication and division have a higher precedence than addition and subtraction.

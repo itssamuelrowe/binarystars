@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arrays on Zen</title>
-    <link>https://itssamuelrowe.github.io/zen-website/arrays/</link>
-    <description>Recent content in Arrays on Zen</description>
+    <title>Arrays on Binary Stars</title>
+    <link>https://itssamuelrowe.github.io/binarystars/arrays/</link>
+    <description>Recent content in Arrays on Binary Stars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://itssamuelrowe.github.io/zen-website/arrays/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itssamuelrowe.github.io/binarystars/arrays/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Understanding Arrays</title>
-      <link>https://itssamuelrowe.github.io/zen-website/arrays/understanding-arrays/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/arrays/understanding-arrays/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/arrays/understanding-arrays/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/arrays/understanding-arrays/</guid>
       <description>An array is an object which stores a fixed number of values of the same type. It is a linear data structure, which means the values are stored in a sequence. Each value stored in an array is known as an element, item, or value.
 You can store any type of value that you can store in a variable. Like variables, you can store only one type of value once you declare it.</description>
     </item>
     
     <item>
       <title>Working with Arrays</title>
-      <link>https://itssamuelrowe.github.io/zen-website/arrays/working-with-arrays/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/arrays/working-with-arrays/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/arrays/working-with-arrays/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/arrays/working-with-arrays/</guid>
       <description>In order to work with arrays you need follow these steps.
  Declare a variable to reference the array object. Create a new array object. Assign the reference of the array object to the array variable. Store information in the newly created array.  Declaring Array Variables Before you start working with an array, you need to create a variable that can store a reference to the array object.</description>
     </item>
     
     <item>
       <title>Understanding Multidimensional Arrays</title>
-      <link>https://itssamuelrowe.github.io/zen-website/arrays/understanding-multidimensional-arrays/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/arrays/understanding-multidimensional-arrays/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/arrays/understanding-multidimensional-arrays/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/arrays/understanding-multidimensional-arrays/</guid>
       <description>In Java all arrays are objects, which means you can store an array inside another array. Such an arrangment of arrays allows you to create multidimensional arrays.
 The two dimensional array is very common compared to other higher dimensional arrays. A common use of a two dimensional array is to represent data in grids, such as cartesian planes and matrices.
 In an array variable declaration statement, the number of square bracket pairs you write determines the dimensions of your array.</description>

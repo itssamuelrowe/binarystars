@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Superclasses and Subclasses on Zen</title>
-    <link>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/</link>
-    <description>Recent content in Superclasses and Subclasses on Zen</description>
+    <title>Superclasses and Subclasses on Binary Stars</title>
+    <link>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/</link>
+    <description>Recent content in Superclasses and Subclasses on Binary Stars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Understanding Inheritance</title>
-      <link>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/understanding-inheritance/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/understanding-inheritance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/understanding-inheritance/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/understanding-inheritance/</guid>
       <description>Inheritance is a concept of object-oriented programming. You can derive a class from another class with inheritance.
 A class that you inherit is known as parent class, or base class, or superclass.
 A class which inherits is known as child class, or derived class, or subclass.
@@ -24,30 +24,30 @@ Imagine you have a class that already has behavior and attributes that another c
     
     <item>
       <title>The Object Class</title>
-      <link>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/the-object-class/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/the-object-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/the-object-class/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/the-object-class/</guid>
       <description>Inheritance is comparable to how you inherited traits such as your height, eyes, hair, DNA, and allergies from your parents. They in turn inherited some of their traits from their parents, that is, your grandparents. Inheritance of such tratis basically keeps going backwards in time till the very first people who populated Earth, say Adam and Eve, the root of your ancestorial hierarchy.
 Similarly, every class hierarchy has a root class.</description>
     </item>
     
     <item>
       <title>Overriding Methods</title>
-      <link>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/overriding-methods/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/overriding-methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/overriding-methods/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/overriding-methods/</guid>
       <description>A subclass inherits all the behavior and attributes of its superclass. It can then extend the behavior and attributes of its superclass. In fact, a subclass can change the behavior provided by its superclass. This is known as overriding. Overriding methods is a feature of polymorphism. In this section, you will learn about overriding methods.
 When you call an instance method, Java looks for the definition of the method in the object&amp;rsquo;s class.</description>
     </item>
     
     <item>
       <title>Working with Constructors and Inheritance</title>
-      <link>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/working-with-constructors-and-inheritance/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/working-with-constructors-and-inheritance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/superclasses-and-subclasses/working-with-constructors-and-inheritance/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/superclasses-and-subclasses/working-with-constructors-and-inheritance/</guid>
       <description>When you inherit a class, the constructors are not inherited. Because cnostructors are not instance members. Which means each class should create its own constructors. However, sometimes you may want to invoke the constructor of a superclass from your subclass.
 For example, to initialize the fields in a superclass you either need access to them or invoke the constructor. The former technique is verbose and not recommended because it violates the principles of encapsulation.</description>
     </item>

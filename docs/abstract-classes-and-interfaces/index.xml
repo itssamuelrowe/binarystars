@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abstract Classes and Interfaces on Zen</title>
-    <link>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/</link>
-    <description>Recent content in Abstract Classes and Interfaces on Zen</description>
+    <title>Abstract Classes and Interfaces on Binary Stars</title>
+    <link>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/</link>
+    <description>Recent content in Abstract Classes and Interfaces on Binary Stars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Understanding Abstract Classes</title>
-      <link>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/understanding-abstract-classes/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/understanding-abstract-classes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/understanding-abstract-classes/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/understanding-abstract-classes/</guid>
       <description>In a class hierarchy, the classes at the top are abstract in their definitions. Because these classes can define behavior and attributes common to all the classes below them. Classes with specific behavior and attributes are usually at the bottom of the hierarchy.
 When you design a class hirerarchy, your first step is to factor out the common behavior and attributes common to all the classes. In some situations you may find yourself with a very abstract behavior, which prevents you from providing a general implementation.</description>
     </item>
     
     <item>
       <title>Working with Interfaces</title>
-      <link>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-interfaces/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-interfaces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-interfaces/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-interfaces/</guid>
       <description>As you design your class hierarchies, you soon learn that the simplicity of single inheritance is restrictive. This is especially true when multiple unrelated classes have common behavior and you want to factorize them. Other Object-Oriented Programming (OOP) languages provide multiple inheritance, which solves this problem. But multiple inherentance comes with its own problems. This leads to complicated class designs, ambiguity and confusion.
 This is why the creators of Java did not include multiple inheritance.</description>
     </item>
     
     <item>
       <title>Working with the Implements Clause</title>
-      <link>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-the-implements-clause/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-the-implements-clause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-the-implements-clause/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-the-implements-clause/</guid>
       <description>Once you define an interface, any number of classes can implement it.
 In order to implement an implement an interface, you need to use the implements clause in your class declaration. After which, you need to implement the methods declared in the interface.
 The general form of the implements clause is shown here.
@@ -44,10 +44,10 @@ class name extends superclass implements interface1, interface2, ..., interfaceN
     
     <item>
       <title>Extending Interfaces</title>
-      <link>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/extending-interfaces/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/extending-interfaces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/extending-interfaces/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/extending-interfaces/</guid>
       <description>You can organize your interfaces in a hierarchy just like classes.
 An interface that you inherit is known as parent interface, or base interface, or superinterface.
 An interface which inherits is known as child interface, or derived interface, or subinterface.
@@ -56,10 +56,10 @@ Imagine you have an interface that already has the behavior and constants that a
     
     <item>
       <title>Working with Default Methods</title>
-      <link>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-default-methods/</link>
+      <link>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-default-methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itssamuelrowe.github.io/zen-website/abstract-classes-and-interfaces/working-with-default-methods/</guid>
+      <guid>https://itssamuelrowe.github.io/binarystars/abstract-classes-and-interfaces/working-with-default-methods/</guid>
       <description>This section will be added shortly.</description>
     </item>
     
