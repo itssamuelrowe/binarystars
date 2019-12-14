@@ -1,0 +1,9 @@
+baseURL = "https://itssamuelrowe.github.io/zen-website/"
+languageCode = "en-us"
+title = "Zen"
+theme = "grav"
+
+[params]
+    themeVariant = "green"
+    showVisitedLinks = true
+    author = "Samuel Rowe"
