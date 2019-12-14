@@ -1,3 +1,8 @@
++++
+title = "The Object Class"
+weight = 2
++++
+
 Inheritance is comparable to how you inherited traits such as your height,
 eyes, hair, DNA, and allergies from your parents. They in turn inherited
 some of their traits from their parents, that is, your grandparents. Inheritance

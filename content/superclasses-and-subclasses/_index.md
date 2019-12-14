@@ -1,3 +1,12 @@
++++
+title = "Superclasses and Subclasses"
+chapter = true
+weight = 12
++++
+
+### Chapter 12
+# Superclasses and Subclasses
+
 Inheritance is a very important feature of object-oriented programming. 
 Inheritance is a mechanism that allows one class to inherit the behaviors
 and attributes from another class. Inheritance allows you to create a hierarchy

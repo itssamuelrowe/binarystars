@@ -1,3 +1,8 @@
++++
+title = "Understanding Inheritance"
+weight = 1
++++
+
 Inheritance is a concept of object-oriented programming. You can derive a class
 from another class with inheritance.
 

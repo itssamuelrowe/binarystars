@@ -1,3 +1,8 @@
++++
+title = "Overriding Methods"
+weight = 3
++++
+
 A subclass inherits all the behavior and attributes of its superclass. It can then
 extend the behavior and attributes of its superclass. In fact, a subclass can
 change the behavior provided by its superclass. This is known as *overriding*.

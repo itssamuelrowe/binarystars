@@ -1,4 +1,7 @@
-## Invoking Superclass Constructors
++++
+title = "Working with Constructors and Inheritance"
+weight = 4
++++
 
 When you inherit a class, the constructors are not inherited. Because cnostructors
 are not instance members. Which means each class should create its own constructors.
@@ -9,6 +12,8 @@ For example, to initialize the fields in a superclass you either need access to
 them or invoke the constructor. The former technique is verbose and not recommended
 because it violates the principles of encapsulation. Instead you can invoke the
 superclass constructor.
+
+## Invoking Superclass Constructors
 
 A constructor can call the superclass constructor from a subclass. Java provides
 special syntax for this purpose. You must use the `super` keyword with parenthesis.
