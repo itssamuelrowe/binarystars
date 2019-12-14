@@ -1,3 +1,8 @@
++++
+title = "Throwing Exceptions"
+weight = 5
++++
+
 So far, you have only learnt to catch exceptions. In particular, the exceptions
 that were thrown by Java. However, you can throw an exception manually, using
 the throw statement.

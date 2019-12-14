@@ -1,3 +1,8 @@
++++
+title = "Using the Finally Clause"
+weight = 7
++++
+
 When an exception is thrown, the execution of your code jumps abruptly, possibly
 from one method to another method. This means some important segment of your
 code may be skipped. This could be a problem in some methods.

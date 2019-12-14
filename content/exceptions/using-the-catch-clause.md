@@ -1,3 +1,8 @@
++++
+title = "Using the Catch Clause"
+weight = 4
++++
+
 Before you learn to catch exceptions in your program, you need to see what happens
 when you don't catch them. Here is an example which generates an exception.
 

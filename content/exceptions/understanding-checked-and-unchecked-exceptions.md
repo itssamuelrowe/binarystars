@@ -1,3 +1,8 @@
++++
+title = "Understanding Checked and Unchecked Exceptions"
+weight = 6
++++
+
 An *unchecked exception* is an exception which you can handle if you want.
 Any exception class which inherits the *RuntimeException* class is an unchecked
 exception. The compiler doesn't force you to handle it. Methods that throw such

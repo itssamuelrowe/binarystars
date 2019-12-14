@@ -1,3 +1,12 @@
++++
+title = "Exceptions"
+weight = 15
+chapter = true
++++
+
+### Chapter 15
+# Exceptions
+
 No matter how carefully you design and test your program, errors are bound to
 happen one or the other. When they do, chances are your program crashes to a halt.
 

@@ -1,3 +1,8 @@
++++
+title = "Understanding Exceptions"
+weight = 1
++++
+
 In Java, errors of all types are generalized into a special type of object
 known as an exception.
 

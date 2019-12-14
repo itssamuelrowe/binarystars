@@ -1,3 +1,8 @@
++++
+title = "Understanding Exception Types"
+weight = 3
++++
+
 An exception object contains the information about the error condition. It 
 includes information such as stacktrace and message. Perhaps, the most important
 information is the cause of the error. It is indicated by the name of the exception
