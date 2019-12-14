@@ -1,3 +1,8 @@
++++
+title = "Working with Parameters"
+weight = 2
++++
+
 A *parameter* is a value that you can send to a method. Parameters allow a
 method to be generalized. In other words, such methods can operate on a
 variety of data and work differently based on different arguments.

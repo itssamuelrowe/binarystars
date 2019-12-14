@@ -1,3 +1,8 @@
++++
+title = "Understanding Object-Oriented Programming"
+weight = 1
++++
+
 Object-oriented programming is a programming language paradigm or model.
 In this model, programs are organized around data, also known as objects.
 Java is unlike C, a Procedural Oriented Language (POL), in which the programs
@@ -22,7 +27,7 @@ The basic characteristics of objects are as follows.
  
 We will discuss each of them briefly in this section.
 
-# Identity
+### Identity
 
 Every object has an identity, both in the real world and the programming world.
 
@@ -55,7 +60,7 @@ Think of it this way, an object is simply an idea, an instance is the
 idea brought to life, and the process of bringing the idea to life is
 instantiation.
 
-# State
+### State
 
 The state determines the attributes of an object.
 
@@ -79,7 +84,7 @@ its lifetime.
 For example, the engine temperature of your Lamborghini may heat up and cool
 down during its lifetime. Similarly, the fuel level can increase and decrease.
 
-# Behaviour
+### Behaviour
 
 The behavior of an object is simply the capabilities of an object. Like state,
 the behavior of an object depends on its type.

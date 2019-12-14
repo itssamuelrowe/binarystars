@@ -1,3 +1,8 @@
++++
+title = "Working with the While Statement"
+weight = 2
++++
+
 When it comes to loops, Java gives you three choices. You can go with the
 complex for loop, which has all the gizmos and options to make most programmers
 happy, or you can choose the simpler while loop for your programs.

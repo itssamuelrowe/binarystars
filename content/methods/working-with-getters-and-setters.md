@@ -1,3 +1,8 @@
++++
+title = "Working with Getters and Setters"
+weight = 5
++++
+
 Object-oriented programming helps you hide the details of a class. You can
 expose certain parts of your class to others.
 

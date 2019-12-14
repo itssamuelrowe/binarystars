@@ -1,3 +1,12 @@
++++
+title = "Methods"
+chapter = true
+weight = 10
++++
+
+### Chapter 10
+# Methods
+
 In Java all programs are built with classes, which means there is at least
 one class. Further, every program must have at least one method, the `main()`
 method. That's it. Beyond that, you don't need to create other methods.

@@ -1,4 +1,9 @@
-In JDK 5, there a new form of the for statement was released. The first is the
++++
+title = "Working with the For Statement"
+weight = 6
++++
+
+In JDK 5, a new form of the for statement was released. The first is the
 traditional form that has been in use since the original version of Java.
 The second is the new form which is called as the enhanced for loop or the for-each loop.
 You will learn about the traditional for statement in this section. You will learn about
@@ -8,6 +13,7 @@ The general form of the traditional for statement is shown here.
 ```
 for (initialization; condition; updation)
     statement
+```
 
 Note that the body of the for statement can either be a simple statement or a
 compound statement.

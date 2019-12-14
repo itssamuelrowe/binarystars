@@ -1,3 +1,8 @@
++++
+title = "Declaring Methods"
+weight = 1
++++
+
 A method is a block of statements. You can give it a name. A method defines an
 object's behavior, basically whatever an object is capable of performing.
 
@@ -9,16 +14,19 @@ continues on to the next statement.
 You have already used methods. For example, `print` and `println` are
 methods declared in the `PrintStream` class.
 
-# Advantages of Methods
+### Advantages of Methods
 
 The primary advantages of methods are as follows.
+
  * Methods improve the quality of your code. They make it more readable because
    you break your code into logical chunks.
+ 
  * You avoid duplicate code. Imagine you are writing an application that simulates
    an airplane, which requires primitive matrix operations such as addition,
    subtraction and multiplication. Without methods you would have to write these
    operations in several places. So whenever you see yourself writing the same
    code, it is a good idea to write a method.
+ 
  * You can implement polymorphism through methods. This is one of the most important
    features of methods.
 

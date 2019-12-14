@@ -1,13 +1,20 @@
++++
+title = "What is a Loop?"
+weight = 1
++++
+
 There are three iteration statements in Java.
-	* For Statement
-	* While Statement
-	* Do While Statement
+
+ * For Statement
+ * While Statement
+ * Do While Statement
 
 Repeating things over and over is referred to as looping. The iteration statements in Java
 help you create loops in your programs. These statements allow a segment of your code to repeat
 a given number of times.
 
 As an example of a loop, consider yourself watching a series like Breaking Bad.
+
  * Find the next episode to watch.
  * Watch the episode.
  * Repeat.
@@ -28,6 +35,7 @@ A simple modification to the previous example can fix the endless loop situation
 Now, the example has a stopping condition for the loop.
 
 In conclusion, loops have four parts:
+
  * Initialization
  * Condition
  * Action

@@ -1,10 +1,15 @@
++++
+title = "Principles of Object-Oriented Programming"
+weight = 2
++++
+
 Object oriented programming is based on the following principles.
 
-    * Class
-    * Object
-    * Inheritance
-    * Encapsulation
-    * Abstraction
+ * Class
+ * Object
+ * Inheritance
+ * Encapsulation
+ * Abstraction
 
 We will briefly discuss each of these principles in this section. In the next
 few chapters we will learn about them in detail with their applications in Java.
@@ -48,6 +53,10 @@ anybody who knows to drive a car can drive both the cars without having to
 worry about the internal details.
 
 ## Understanding Encapsulation
+
+This section will be added shortly.
+
+## Understanding Polymorphism
 
 Polymorphism refers to the ability to take more than one form.
 

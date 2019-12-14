@@ -1,3 +1,8 @@
++++
+title = "Working with the Do While Statement"
+weight = 5
++++
+
 In the previous sections you have learnt while and for statements. You can
 program most situtations using these loop statements. Additionally, Java provides
 another loop statement known as the do-while statement.
@@ -19,6 +24,7 @@ do {
     // body
 }
 while (condition);
+```
 
 Each iteration of the do-while loop first executes the body of the loop and
 then evaluates the conditional expression. If this expression is `true`, the

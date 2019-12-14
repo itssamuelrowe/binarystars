@@ -1,3 +1,8 @@
++++
+title = "Using the Continue Statement"
+weight = 4
++++
+
 Sometimes it is useful to force an early iteration of a loop. In other words,
 you might want to continue running the loop but stop processing the remainder
 of the code in its body for this particular iteration.
@@ -36,6 +41,7 @@ class ContinueDemo {
         }
     }
 }
+```
 
 This code uses the modulus operator to check if `i` is even. If it is, the loop
 continues without printing a newline.

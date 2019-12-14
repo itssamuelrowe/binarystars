@@ -1,3 +1,12 @@
++++
+title = "Introduction to Object-Oriented Programming"
+weight = 8
+chapter = true
++++
+
+### Chapter 8
+# Introduction to Object-Oriented Programming
+
 Java is an object-oriented programming language. When you work with Java, you
 primarily use objects to get things done. You create objects, modify them,
 change their attributes, call their methods, and combine them with other objects.

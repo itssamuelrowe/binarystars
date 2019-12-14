@@ -1,3 +1,8 @@
++++
+title = "Method Overloading: How Methods Share Identitical Names"
+weight = 4
++++
+
 Unlike variables, multiple methods in the same scope can have the same
 name. This technique is known as method overloading. It is a feature of
 polymorphism. Method overloading is a very useful feature.
@@ -38,7 +43,7 @@ void println(double value)
 void println(String value)
 void println(char[] value)
 void println(Object value)
-``
+```
 
 Here is a simple example that computes area of squares and rectangles using
 method overloading.
