@@ -1,3 +1,8 @@
++++
+title = "Working with the Implements Clause"
+weight = 3
++++
+
 Once you define an interface, any number of classes can implement it.
 
 In order to implement an implement an interface, you need to use the implements
@@ -11,7 +16,6 @@ class name extends superclass
     ...
 }
 ```
-class classname [extends superclass] [implements interface [,interface...]] {
 
 Here the extends clause is optional. In other words, you can implement interfaces
 without inheriting any superclass.
@@ -64,14 +68,16 @@ like how you would in a normal class.
 When you implement multiple interfaces, you may encounter conflicts. What happens
 if two interfaces define the same method? You need to resolve the confliction in
 one of the following ways.
-    * If the methods have the same signature, you implement one method in
-      your class for the both the declarations. The implementation should satisfy
-      both the interfaces.
-    * If the methods have the same signature but different return types, you
-      cannot create a method that satisfies both. You need to remember that the
-      return type is not a part of the signature. In such cases, you cannot
-      implement both the interfaces in the same class. You need to think more
-      carefully about your design.
+
+* If the methods have the same signature, you implement one method in
+  your class for the both the declarations. The implementation should satisfy
+  both the interfaces.
+
+* If the methods have the same signature but different return types, you
+  cannot create a method that satisfies both. You need to remember that the
+  return type is not a part of the signature. In such cases, you cannot
+  implement both the interfaces in the same class. You need to think more
+  carefully about your design.
       
 ## Using Interfaces as Variable Types
 

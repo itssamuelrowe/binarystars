@@ -1,4 +1,7 @@
-## Extending Interfaces
++++
+title = "Extending Interfaces"
+weight = 4
++++
 
 You can organize your interfaces in a hierarchy just like classes.
 

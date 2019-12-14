@@ -1,3 +1,8 @@
++++
+title = "Working with Interfaces"
+weight = 2
++++
+
 As you design your class hierarchies, you soon learn that the simplicity of
 single inheritance is restrictive. This is especially true when multiple unrelated
 classes have common behavior and you want to factorize them. Other Object-Oriented

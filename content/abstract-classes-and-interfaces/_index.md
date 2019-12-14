@@ -1,3 +1,12 @@
++++
+title = "Abstract Classes and Interfaces"
+weight = 13
+chapter = true
++++
+
+### Chapter 13
+# Abstract Classes and Interfaces
+
 Abstraction is an important concept of object-oriented programming.
 
 Humans see and understand things through abstraction. For example, you do not

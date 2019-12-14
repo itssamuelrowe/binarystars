@@ -4,6 +4,9 @@ chapter = true
 weight = 14
 +++
 
+### Chapter 14
+# Inner Classes, Anonymous Classes, and Lambdas
+
 With each new version, the developers of Java make it more sophisticated.
 When it was first released, Java had only 250 classes in the Java Class Library.
 

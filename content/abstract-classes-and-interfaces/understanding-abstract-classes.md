@@ -1,3 +1,8 @@
++++
+title = "Understanding Abstract Classes"
+weight = 1
++++
+
 In a class hierarchy, the classes at the top are abstract in their definitions.
 Because these classes can define behavior and attributes common to all the
 classes below them. Classes with specific behavior and attributes are usually
