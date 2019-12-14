@@ -1,3 +1,8 @@
++++
+title = "Working with Initializer Blocks"
+weight = 4
++++
+
 An initializer block is a special block of code which initializes an object.
 It is written inside a class and outside methods and constructors. You cannot
 assign a name to an initializer block.

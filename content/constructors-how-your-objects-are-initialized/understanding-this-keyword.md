@@ -1,3 +1,8 @@
++++
+title = "Understanding this Keyword"
+weight = 1
++++
+
 In the body of a method, constructor, or initializer block, sometimes you need
 to refer to the object that contains the instance member in question.
 In other words, sometimes an instance member may want to access the instance

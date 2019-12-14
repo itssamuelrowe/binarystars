@@ -1,3 +1,8 @@
++++
+title = "Overloading Constructors"
+weight = 3
++++
+
 A class can have multiple constructors, this is known as constructor overloading.
 It is a feature of polymorphism. Constructor overloading is a very useful feature.
 It fact, it is similar to method overloading.
