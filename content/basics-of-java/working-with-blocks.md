@@ -1,3 +1,8 @@
++++
+title = "Working with Blocks"
+weight = 5
++++
+
 A block is a group of zero or more statements within braces.
 
 A block begins with an opening brace `{` and ends with a closing brace `}`.

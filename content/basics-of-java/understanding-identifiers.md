@@ -1,3 +1,8 @@
++++
+title = "Understanding Identifiers"
+weight = 2
++++
+
 Identifiers are the names you give to variables, methods, classes, interfaces, and
 enumerations. Unlike literals, identifiers only help you reference something.
 

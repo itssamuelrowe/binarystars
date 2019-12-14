@@ -1,3 +1,8 @@
++++
+title = "Dealing with Whitespace"
+weight = 6
++++
+
 Whitespace refers to a sequence of space characters, tab characters, or line
 breaks. The compiler always ignores whitespace.
 

@@ -1,3 +1,8 @@
++++
+title = "The Hello World Program"
+weight = 1
++++
+
 In this section, you will learn to write the *Hello World* program.
 
 Many programming courses begin with a simple example program that prints the text,

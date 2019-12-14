@@ -1,3 +1,8 @@
++++
+title = "Understanding Keywords"
+weight = 3
++++
+
 A *keyword* is a special word. Its meaning is defined by the Java programming
 language. **You cannot use these words as identifiers**.
 

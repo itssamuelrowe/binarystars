@@ -1,3 +1,8 @@
++++
+title = "Working with Comments"
+weight = 7
++++
+
 Comments are texts that are ignored by the compiler. They help you write
 information or explanation about your code. You can use comments to hide a part
 of your code.

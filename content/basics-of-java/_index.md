@@ -1,11 +1,11 @@
-In this chapter, you will learn the following topics.
-    * The Hello World program
-    * Understanding identifiers
-    * Understanding keywords
-    * Basics of statements
-    * Basics of blocks
-    * Dealing with whitespace
-    * Working with comments
++++
+title = "Basics of Java"
+chapter = true
+weight = 3
++++
+
+### Chapter 3
+# Basics of Java
 
 In this chapter, you will learn the basics of writing simple Java programs. The
 programs in this chapter are simple and are capable of only printing messages on
