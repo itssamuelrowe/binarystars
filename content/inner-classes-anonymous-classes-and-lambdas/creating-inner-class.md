@@ -1,3 +1,8 @@
++++
+title = "Creating Inner Class"
+weight = 1
++++
+
 You can create a class inside another class. An inner class exists to help the
 class within which it is declared. It is also known as a nested class.
 

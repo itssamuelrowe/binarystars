@@ -1,3 +1,8 @@
++++
+title = "Creating Anonymous Inner Classes"
+weight = 2
++++
+
 Sometimes an inner class is used only once by the outer class. In such
 cases, you can remove the declaration and make the class anonymous.
 
@@ -8,7 +13,8 @@ Remember that abstract classes and interfaces cannot be instantiated directly.
 With anonymous classes you can provide a class body while you instantiate it.
 
 Consider the following example.
-```
+
+```java
 interface OnClickListener {
     void handleClick();
 }
@@ -32,7 +38,7 @@ public class InnerClassDemo {
 As you can see, `MyOnClickListener` class is used only once. Therefore, it is
 a good idea to rewrite it as an anonymous class.
 
-```
+```java
 interface OnClickListener {
     void handleClick();
 }

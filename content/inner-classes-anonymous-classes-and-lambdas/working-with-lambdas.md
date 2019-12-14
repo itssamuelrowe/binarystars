@@ -1,3 +1,8 @@
++++
+title = "Working with Lambdas"
+weight = 3
++++
+
 A lambda expression or closure allows you to create an instance of a functional
 interface with the lambda operator (`->`).
 
