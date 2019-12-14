@@ -1,3 +1,8 @@
++++
+title = "Working with Switch Statements"
+weight = 5
++++
+
 The *switch statement* is a conditional statement that allows a value
 to be tested for equality against a list of constants. Here, each constant
 is called a *case*. Basically, the value being tested is compared with

@@ -1,3 +1,8 @@
++++
+title = "Working with Boolean Expressions"
+weight = 1
++++
+
 All if statements, as well as several other control statements that you
 learn in this course use boolean expressions to determine whether to execute
 or skip a segment of your code.

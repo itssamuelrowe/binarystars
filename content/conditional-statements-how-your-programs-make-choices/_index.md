@@ -1,3 +1,12 @@
++++
+title = "Conditional Statements"
+weight = 6
+chapter = true
++++
+
+### Chapter 6
+# Conditional Statements: How Your Programs Make Choices
+
 So far in this book, all the programs have run in a linear fashion. In
 other words, your programs simply ran from start to finish with each
 statement being executed one after the other. However, in most real-life
