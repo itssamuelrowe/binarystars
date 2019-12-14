@@ -1,4 +1,9 @@
-The String class exposes many constructors.
++++
+title = "Constructors of the String Class"
+weight = 2
++++
+
+The `String` class exposes many constructors.
 
 You can create an empty string by calling the default constructor.
 An empty string basically contains no characters.

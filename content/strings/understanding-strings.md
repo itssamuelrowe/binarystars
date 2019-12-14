@@ -1,3 +1,8 @@
++++
+title = "Understanding Strings"
+weight = 1
++++
+
 In Java, strings are not primitive types. The string is implemented by the `String`
 class defined in the `java.lang` package. All strings are objects, but Java treats
 strings specially.

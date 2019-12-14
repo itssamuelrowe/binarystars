@@ -1,3 +1,8 @@
++++
+title = "Extract Characters From Strings"
+weight = 5
++++
+
 You can extract characters from strings in a number of ways. We discuss about
 each technique in this section.
 

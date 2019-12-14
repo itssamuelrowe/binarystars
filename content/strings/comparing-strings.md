@@ -1,3 +1,8 @@
++++
+title = "Comparing Strings"
+weight = 4
++++
+
 You cannot compare two strings for equality using the equality operator (`==`).
 Remember strings are objects therefore you need to use the `equals()` method
 to compare two strings for equality.

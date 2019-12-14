@@ -1,3 +1,8 @@
++++
+title = "Determining the Length of Strings"
+weight = 3
++++
+
 You can determine the length of a string using the `length()` method. The length
 of a string is basically the number of characters it contains.
 

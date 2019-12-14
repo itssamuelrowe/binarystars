@@ -24,11 +24,13 @@ Here, the `type` indicates the type of elements stored in the array. You can
 name the variable with any valid identifier.
 
 The square brackets serve two purpose.
-    * They help you differentiate your array variable from regular variable declarations.
-    * The square brackets actually indictae the dimension of the array. When you
-      write a single pair it indicates one dimensional array. Similarly, when you
-      write two pairs they indicate two dimensional array, and so on. You will learn
-      about array dimensions later in this chapter.
+
+ * They help you differentiate your array variable from regular variable declarations.
+
+ * The square brackets actually indictae the dimension of the array. When you
+   write a single pair it indicates one dimensional array. Similarly, when you
+   write two pairs they indicate two dimensional array, and so on. You will learn
+   about array dimensions later in this chapter.
 
 Optionally, you can write the square brackets after the identifier. The position
 of the brackets does not matter unless you declare multiple variables in the same
