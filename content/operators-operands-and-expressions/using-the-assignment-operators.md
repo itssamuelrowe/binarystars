@@ -1,3 +1,8 @@
++++
+title = "Using the Assignment Operators"
+weight = 8
++++
+
 The assignment operator helps you assign a value to a variable. You have
 already seen many examples of this operator. **It assigns the value on its
 right to the operand on its left.**

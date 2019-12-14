@@ -1,3 +1,8 @@
++++
+title = "Working with Equality Operators"
+weight = 4
++++
+
 In this section, you will learn about the equality operators in Java.
 
 | Operator | Description                  |

@@ -1,3 +1,8 @@
++++
+title = "Working with Arithmetic Operators"
+weight = 3
++++
+
 In this section, you will learn about the arithmetic operators in Java.
 
 You can perform addition, subtraction, multiplication, and division with the

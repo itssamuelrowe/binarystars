@@ -1,7 +1,12 @@
++++
+title = "Using the Logical Operators"
+weight = 12
++++
+
 You can combine two or more conditions or constraints or complement with logical operators.
 The result of the operation of a logical operator is a boolean value, either true or false.
 
-## Logical AND Operator
+### Logical AND Operator
 
 
 The logical AND operator combines two boolean expressions and returns true
@@ -55,7 +60,7 @@ file. With a logical AND, the operator does the work for as expected.
 Relying on the side effects of expressions can be risky. In fact, you can almost
 always find a better way to write your code without side effects.
 
-## Logical OR Operator
+### Logical OR Operator
 
 The OR operator combines two boolean expressions and returns true
 if at least one of the expressions evaluates to true. Otherwise, it returns
@@ -113,7 +118,7 @@ Again, relying on the side effects of expressions can be risky.
 In fact, you can almost always find a better way to write your code without
 side effects.
 
-# The Logical NOT Operator
+### The Logical NOT Operator
 
 The simplest of the logical operators is the logical NOT operator. It is a unary
 prefix operator, which means you can use it with only one operand and you write it

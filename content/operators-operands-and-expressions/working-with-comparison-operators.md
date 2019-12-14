@@ -1,3 +1,8 @@
++++
+title = "Working with Comparison Operators"
+weight = 5
++++
+
 In this section, you will learn about the comparison operators in Java.
 
 | Operator | Description                  |

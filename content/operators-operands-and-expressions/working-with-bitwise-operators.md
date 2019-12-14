@@ -1,3 +1,8 @@
++++
+title = "Working with Bitwise Operators"
+weight = 10
++++
+
 A computer stores data in binary. In other words, information is encoded as 
 a sequence of 1's and 0's. On most computers, the memory is organized into 8-bit cells known as bytes.
 
@@ -16,12 +21,12 @@ This operator is called the bitwise AND because the left hand side bit *and* the
 
 Here's the truth table for the bitwise AND operator.
 
-X | Y | Z
----------
-0 | 0 | 0
-0 | 1 | 0
-1 | 0 | 0
-1 | 1 | 1
+| X | Y | Z |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
 
 Mathematically, it is written as `Z = X . Y` where `.` implies multiplication.
 
@@ -61,12 +66,12 @@ to return true. Further, by definition it returns true if both the bits are true
 
 Here's the truth table for the bitwise OR operator.
 
-X | Y | Z
----------
-0 | 0 | 0
-0 | 1 | 1
-1 | 0 | 1
-1 | 1 | 1
+| X | Y | Z |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
 
 Mathematically, it is written as `Z = X + Y` where `.` implies addition.
 
@@ -99,12 +104,12 @@ bits are true or false.
 
 Here's the truth table for the bitwise OR operator.
 
-X | Y | Z
----------
-0 | 0 | 0
-0 | 1 | 1
-1 | 0 | 1
-1 | 1 | 0
+| X | Y | Z |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
 
 Mathematically, it is written as `Z = X . ~Y + ~X . Y` where `.` implies multiplication.
 
@@ -130,10 +135,10 @@ The bitwise complement operator is a unary operator. It flips every bit in the o
 
 Here's the truth table for the bitwise complement operator.
 
-X | Y
------
-0 | 1
-1 | 0
+| X | Y |
+|---|---|
+| 0 | 1 |
+| 1 | 0 |
 
 Mathematically, it is written as `Y = ~X`, where `~` implies negation.
 
@@ -146,19 +151,9 @@ int b = ~a;
 
 Here, each bit is flipped to produce 1 or 0 if the corresponding bit is 0 or 1, respectively.
 
-
-
-
-
-
-
-
-
-DO NOT RECORD THIS! THIS IS INCORRECT CONTENT.
-
-
-
 ## The Left Shift Operator
+
+> The content in this section may be wrong. I need to research and verify the content.
 
 The left shift operator `<<` shifts all of the bits in the first operand to
 the left by a number of times specified by the second operand.

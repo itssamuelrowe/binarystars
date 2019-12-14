@@ -1,3 +1,8 @@
++++
+title = "Types of Operators"
+weight = 2
++++
+
 In this section, we'll learn about the types of operators based on the
 number of operands they expect.
 

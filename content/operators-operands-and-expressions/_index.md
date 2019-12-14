@@ -1,4 +1,14 @@
++++
+title = "Operators, Operands, and Expressions"
+weight = 5
+chapter = true
++++
+
+### Chapter 5
+# Operators, Operands, and Expressions
+
 In this chapter you will learn the following.
+
  * Understanding operators
  * Types of operators
  * Working with arithmetic operators

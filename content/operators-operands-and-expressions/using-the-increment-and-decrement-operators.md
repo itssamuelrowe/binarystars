@@ -1,3 +1,8 @@
++++
+title = "Using the Increment and Decrement Operators"
+weight = 7
++++
+
 In this section you will learn about the increment and decrement operators.
 
 One of the most common operations in programming is adding or subtracting 1

@@ -1,3 +1,8 @@
++++
+title = "Using the Conditional Operator"
+weight = 11
++++
+
 The conditional operator is the only ternary operator in Java.
 It is used to replace certain types of if-then-else statements.
 You will learn more about if statements later in the course.
@@ -7,7 +12,7 @@ It can seem somewhat confusing at first, but the conditional operator
 can be used very effectively once understood.
 
 The conditional operator has the following general form.
-````
+```
 expression1 ? expression2 : expression3
 ```
 
