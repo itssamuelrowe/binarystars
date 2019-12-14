@@ -7,7 +7,7 @@ exceptions, anonymous classes, modules and so on. It is written in simple and
 clear language with more than 100 examples. Additionally, it includes introduction
 to the tools packaged with the Java Development Kit.
 
-<img style="width: auto; height: 200px" src="https://github.com/itssamuelrowe/binarystars/raw/master/logo.png" />
+<img style="width: auto; height: 100px" src="https://github.com/itssamuelrowe/binarystars/raw/master/logo.png" />
 
 ### Why should you choose this book?
 
