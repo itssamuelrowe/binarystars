@@ -4,6 +4,9 @@ chapter = true
 weight = 1
 +++
 
+### Chapter 1
+# Introduction
+
 This chapter is a gentle introduction to the world of Java. You will learn what
 Java is, its history, and where it's going. You will also also learn about
 its advantages and disadvantages. Finally, we'll try to compare Java with

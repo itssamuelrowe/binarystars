@@ -1,3 +1,12 @@
++++
+title = "Packages"
+weight = 16
+chapter = true
++++
+
+### Chapter 16
+# Packages
+
 Imagine you have two classes, one of which represents a component
 that reads data from the console. Simiarly, the other class represents a device
 which scans papers. Although both the classes are different in functionality,

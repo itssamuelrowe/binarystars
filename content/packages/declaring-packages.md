@@ -1,3 +1,8 @@
++++
+title = "Declaring Packages"
+weight = 2
++++
+
 To create a package you need to use the package statement at the beginning of
 your source file.
 

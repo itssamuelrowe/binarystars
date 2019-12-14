@@ -1,3 +1,8 @@
++++
+title = "Working with the Import Statement"
+weight = 5
++++
+
 You have learnt how packages allow you to keep your classes organized. However,
 as you have seen accessing classes from different packages require fully qualified
 names, which means you have to type so much just to refere a class! For this reason,

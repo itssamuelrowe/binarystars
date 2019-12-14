@@ -1,3 +1,8 @@
++++
+title = "Naming Conventions for Packages"
+weight = 6
++++
+
 You can use any identifier you wish to name your packages. However, we recommend
 you to follow these naming conventions when you create your packages.
 

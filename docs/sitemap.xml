@@ -47,6 +47,10 @@
   </url>
   
   <url>
+    <loc>https://itssamuelrowe.github.io/binarystars/packages/understanding-packages/</loc>
+  </url>
+  
+  <url>
     <loc>https://itssamuelrowe.github.io/binarystars/strings/understanding-strings/</loc>
   </url>
   
@@ -88,6 +92,10 @@
   
   <url>
     <loc>https://itssamuelrowe.github.io/binarystars/inner-classes-anonymous-classes-and-lambdas/creating-anonymous-inner-classes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/binarystars/packages/declaring-packages/</loc>
   </url>
   
   <url>
@@ -199,6 +207,10 @@
   </url>
   
   <url>
+    <loc>https://itssamuelrowe.github.io/binarystars/packages/understanding-qualified-names/</loc>
+  </url>
+  
+  <url>
     <loc>https://itssamuelrowe.github.io/binarystars/classes-and-objects/understanding-visibility/</loc>
   </url>
   
@@ -240,6 +252,10 @@
   
   <url>
     <loc>https://itssamuelrowe.github.io/binarystars/classes-and-objects/understanding-instance-and-static-members/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/binarystars/packages/understanding-the-classpath-environment-variable/</loc>
   </url>
   
   <url>
@@ -323,11 +339,19 @@
   </url>
   
   <url>
+    <loc>https://itssamuelrowe.github.io/binarystars/packages/working-with-the-import-statement/</loc>
+  </url>
+  
+  <url>
     <loc>https://itssamuelrowe.github.io/binarystars/conditional-statements-how-your-programs-make-choices/</loc>
   </url>
   
   <url>
     <loc>https://itssamuelrowe.github.io/binarystars/basics-of-java/dealing-with-whitespace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://itssamuelrowe.github.io/binarystars/packages/naming-conventions-for-packages/</loc>
   </url>
   
   <url>
@@ -447,6 +471,10 @@
   </url>
   
   <url>
+    <loc>https://itssamuelrowe.github.io/binarystars/packages/</loc>
+  </url>
+  
+  <url>
     <loc>https://itssamuelrowe.github.io/binarystars/arrays/</loc>
   </url>
   
@@ -456,41 +484,6 @@
   
   <url>
     <loc>https://itssamuelrowe.github.io/binarystars/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://itssamuelrowe.github.io/binarystars/packages/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://itssamuelrowe.github.io/binarystars/packages/declaring-packages/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://itssamuelrowe.github.io/binarystars/packages/naming-conventions-for-packages/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://itssamuelrowe.github.io/binarystars/packages/understanding-packages/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://itssamuelrowe.github.io/binarystars/packages/understanding-qualified-names/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://itssamuelrowe.github.io/binarystars/packages/understanding-the-classpath-environment-variable/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://itssamuelrowe.github.io/binarystars/packages/working-with-the-import-statement/</loc>
     <priority>0</priority>
   </url>
   

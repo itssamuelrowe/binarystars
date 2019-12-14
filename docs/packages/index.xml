@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Binary Stars</title>
+    <title>Packages on Binary Stars</title>
     <link>https://itssamuelrowe.github.io/binarystars/packages/</link>
-    <description>Recent content on Binary Stars</description>
+    <description>Recent content in Packages on Binary Stars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,7 +11,17 @@
     
     
     <item>
-      <title></title>
+      <title>Understanding Packages</title>
+      <link>https://itssamuelrowe.github.io/binarystars/packages/understanding-packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/binarystars/packages/understanding-packages/</guid>
+      <description>A package is a group of related classes, interfaces, annotations and enumerations bundled together. Henceforth, when we refer to classes in this chapter we mean to include other components such as interfaces, annotations and enumerations, unless stated otherwise.
+Packages are like containers that provide your classes a name space. For example, a package allows you to create two classes named Scanner. You simply need to store the classes in different packages.</description>
+    </item>
+    
+    <item>
+      <title>Declaring Packages</title>
       <link>https://itssamuelrowe.github.io/binarystars/packages/declaring-packages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -24,28 +34,7 @@ package example;  The package statement should always be the very first statemen
     </item>
     
     <item>
-      <title></title>
-      <link>https://itssamuelrowe.github.io/binarystars/packages/naming-conventions-for-packages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://itssamuelrowe.github.io/binarystars/packages/naming-conventions-for-packages/</guid>
-      <description>You can use any identifier you wish to name your packages. However, we recommend you to follow these naming conventions when you create your packages.
- Packages are usually named using the authors domain name. The domain name is written backwards to obtain the package name.  For example, imagine you own the domain example.com. You can create a package named com.example for all your packages.
-Using your domain name allows you to create package names which are unique from the packages created by other programmers around the world.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://itssamuelrowe.github.io/binarystars/packages/understanding-packages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://itssamuelrowe.github.io/binarystars/packages/understanding-packages/</guid>
-      <description>A package is a group of related classes, interfaces, annotations and enumerations bundled together. Henceforth, when we refer to classes in this chapter we mean to include other components such as interfaces, annotations and enumerations, unless stated otherwise.
-Packages are like containers that provide your classes a name space. For example, a package allows you to create two classes named Scanner. You simply need to store the classes in different packages.</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Understanding Qualified Names</title>
       <link>https://itssamuelrowe.github.io/binarystars/packages/understanding-qualified-names/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -57,7 +46,7 @@ package level1.level2.level3;  Each identifier in a qualified name, separated by
     </item>
     
     <item>
-      <title></title>
+      <title>Understanding the CLASSPATH Environment Variable</title>
       <link>https://itssamuelrowe.github.io/binarystars/packages/understanding-the-classpath-environment-variable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -67,7 +56,7 @@ By default Java looks for packages in the current working directory, the directo
     </item>
     
     <item>
-      <title></title>
+      <title>Working with the Import Statement</title>
       <link>https://itssamuelrowe.github.io/binarystars/packages/working-with-the-import-statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -75,6 +64,17 @@ By default Java looks for packages in the current working directory, the directo
       <description>You have learnt how packages allow you to keep your classes organized. However, as you have seen accessing classes from different packages require fully qualified names, which means you have to type so much just to refere a class! For this reason, Java provides the import statement.
 The general form of the import statement is shown here.
 import qualifiedName;  Here, the qualified name refers to the class which you want to import.</description>
+    </item>
+    
+    <item>
+      <title>Naming Conventions for Packages</title>
+      <link>https://itssamuelrowe.github.io/binarystars/packages/naming-conventions-for-packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itssamuelrowe.github.io/binarystars/packages/naming-conventions-for-packages/</guid>
+      <description>You can use any identifier you wish to name your packages. However, we recommend you to follow these naming conventions when you create your packages.
+ Packages are usually named using the authors domain name. The domain name is written backwards to obtain the package name.  For example, imagine you own the domain example.com. You can create a package named com.example for all your packages.
+Using your domain name allows you to create package names which are unique from the packages created by other programmers around the world.</description>
     </item>
     
   </channel>

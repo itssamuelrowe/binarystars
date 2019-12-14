@@ -1,3 +1,8 @@
++++
+title = "Understanding Qualified Names"
+weight = 3
++++
+
 You can create a hierarchy of packages using a qualified name. We mentioned this
 term in the previous section without going into its details. 
 

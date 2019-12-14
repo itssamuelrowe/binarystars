@@ -1,3 +1,8 @@
++++
+title = "Understanding Packages"
+weight = 1
++++
+
 A package is a group of related classes, interfaces, annotations and enumerations
 bundled together. Henceforth, when we refer to classes in this chapter we mean
 to include other components such as interfaces, annotations and enumerations,

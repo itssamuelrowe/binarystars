@@ -1,3 +1,8 @@
++++
+title = "Understanding the CLASSPATH Environment Variable"
+weight = 4
++++
+
 Your packages should be organized correspondingly in your directories. But how
 does the Java Virtual Machine (JVM) determine which directory to look for your
 packages?
@@ -7,14 +12,14 @@ from where you are invoking the JVM. Further, the Java Virtual Machine looks for
 packages in the directories listed in the classpath of the application. You can
 specify the classpath for an application in two ways.
 
-    * Create the `CLASSPATH` environment variable and store the directories where
-      your packages are stored. You usually need to avoid this technique because
-      it applies to all the applications that run on Java, not just one application.
+ * Create the `CLASSPATH` environment variable and store the directories where
+   your packages are stored. You usually need to avoid this technique because
+   it applies to all the applications that run on Java, not just one application.
 
-    * Specify the classpath with the `-classpath` parameter when you invoke the
-      Java Virtual Machine. This is the preferred way to specify the classpath.
-      This allows the classpath to be specific to individual programs, without
-      affecting other programs.
+ * Specify the classpath with the `-classpath` parameter when you invoke the
+   Java Virtual Machine. This is the preferred way to specify the classpath.
+   This allows the classpath to be specific to individual programs, without
+   affecting other programs.
 
 The general form of a classpath is shown here.
 ```
@@ -69,10 +74,11 @@ without its fully qualified name, and vice versa.
 
 In order for your program to find the Message class, one of following conditions
 should be met.
-    * The program should be executed from a directory immediately above the `com.example`
-      package.
-    * The `CLASSPATH` environment variable must include the path to `com\example`.
-    * The -classpath parameter must specify the path to `com\example`.
+
+ * The program should be executed from a directory immediately above the `com.example`
+   package.
+ * The `CLASSPATH` environment variable must include the path to `com\example`.
+ * The -classpath parameter must specify the path to `com\example`.
 
 When you specify a classpath, the path should not include `com\example` itself.
 Instead you need to specify the directory which contains the package directory.
