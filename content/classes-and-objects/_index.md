@@ -7,7 +7,7 @@ chapter = true
 ### Chapter 9
 # Classes and Objects
 
-You have been using classes since the beginning of this course. However, until
+You have been using classes since the beginning of this book. However, until
 now, you have barely scratched the surface. Because the classes in the previous
 chapters simply wrapped the `main()` method. As you will see, classes are very
 powerful and important in Java.

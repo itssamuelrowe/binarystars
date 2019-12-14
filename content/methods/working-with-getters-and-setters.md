@@ -104,7 +104,7 @@ class Rectangle {
 
 * A setter can check if an invalid value is passed. It can *throw an exception*
  or provide a default value. You will learn more about exceptions later in
- this course.
+ this book.
 
  For example, imagine you have a class `Adult`. It has an integer property
  named `age`. Its value can be 18 or greater. You can write a setter which

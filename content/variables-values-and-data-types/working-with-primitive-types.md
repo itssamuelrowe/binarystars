@@ -32,7 +32,7 @@ There are eight primitive data types in Java.
 
 The `boolean` type has two values: `true` or `false`. You can perform *logical
 operations* with boolean values. You'll learn more about logical operations later
-in the course.
+in the book.
 
 Here's an example of the `boolean` type.
 ```
@@ -48,7 +48,7 @@ In C and C++, integer values can be used as boolean values, with `0` as `false`
 and any other value as `true`. Remember that in Java integers can't be used as
 boolean values without *explicit casting*.
 
-You will learn more about explicit casting later in the course.
+You will learn more about explicit casting later in the book.
 
 ### Working with Integer Types
 

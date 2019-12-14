@@ -5,7 +5,7 @@ weight = 6
 
 In this section, you will learn about the basics of reference types.
 You learn to create variables that work with objects.
-> You will learn more about classes and objects later in the course.
+> You will learn more about classes and objects later in the book.
 
 Java programs are built with classes. You can use classes to create objects.
 

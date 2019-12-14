@@ -47,7 +47,7 @@ The protected member is accessible to the following two groups.
     * Subclasses of a class
     * Other classes in the same package
 
-You will learn more about subclasses and packages later in this course.
+You will learn more about subclasses and packages later in this book.
 
 ## Public Access
 
@@ -58,7 +58,7 @@ You can use the public modifier to make a member completely visible to all
 the classes.
 
 In fact, you have already used the public modifier from the beginning of this
-course.
+book.
 
 The `main()` method of an application has to be public. Otherwise, it cannot
 not be invoked by the Java Virtual Machine (JVM).

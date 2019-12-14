@@ -6,7 +6,7 @@ weight = 2
 Identifiers are the names you give to variables, methods, classes, interfaces, and
 enumerations. Unlike literals, identifiers only help you reference something.
 
-The program shown in the [first example](/academy/course/java-programming-language/the-hello-world-program)
+The program shown in the [first example](/academy/book/java-programming-language/the-hello-world-program)
 uses seven identifiers.
     * `Hello`
     * `main`

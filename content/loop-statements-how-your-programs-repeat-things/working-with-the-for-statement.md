@@ -7,7 +7,7 @@ In JDK 5, a new form of the for statement was released. The first is the
 traditional form that has been in use since the original version of Java.
 The second is the new form which is called as the enhanced for loop or the for-each loop.
 You will learn about the traditional for statement in this section. You will learn about
-the enhanced for loop later in course.
+the enhanced for loop later in book.
 
 The general form of the traditional for statement is shown here.
 ```
@@ -135,7 +135,7 @@ public class PrimeNumber {
 }
 ```
 
-You will learn more about break statement later in this course. For now, just
+You will learn more about break statement later in this book. For now, just
 remember it terminates a loop immediately.
 
 ## Evaluating Multiple Expressions During Initialization and Updation

@@ -154,7 +154,7 @@ create. You will learn the significance of the parenthesis when you learn
 about constructors.
 
 You can use the `new` operator to create other kinds of objects, such as arrays.
-You will learn the other forms of the `new` operator later in the course.
+You will learn the other forms of the `new` operator later in the book.
 
 To create an instance of the Superhero class, you would write something like this.
 
@@ -201,7 +201,7 @@ The dot operator is a binary operator. Obviously, the dot operator always return
 a value. Accessing instance variables with it is an expression. In fact, both
 the operands of the dot operator are expressions. This means that you can chain
 instance variable access. You will see chaining instance variable access later
-in the course.
+in the book.
 
 Here is the complete Superhero program.
 

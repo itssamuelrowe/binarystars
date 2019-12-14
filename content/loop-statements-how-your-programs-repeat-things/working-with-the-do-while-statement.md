@@ -118,5 +118,5 @@ your program. We call the `System.in.skip(10)` method to discard these character
 Further, to deal with input errors we add the throws clause at the beginning of
 the main method.
 
-You will learn more about input/output and exceptions later in this course.
+You will learn more about input/output and exceptions later in this book.
 Don't worry, you don't have to understand these concepts right now.

@@ -4,7 +4,7 @@ weight = 1
 +++
 
 All if statements, as well as several other control statements that you
-learn in this course use boolean expressions to determine whether to execute
+learn in this book use boolean expressions to determine whether to execute
 or skip a segment of your code.
 
 A boolean expression is any expression that evaluates to a

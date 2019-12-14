@@ -16,5 +16,5 @@ introduces some of the basic concepts and terms you need to know before
 moving to the following chapters.
 
 Some concepts in this chapter are confusing. Don't worry, if you don't get
-them right away. By the end of this course you will be comfortable with these
+them right away. By the end of this book you will be comfortable with these
 concepts.

@@ -90,7 +90,7 @@ public class MysteryTower {
 ``
 
 In this example, your program prints the same messages three times. But then
-you end up writing the same statements over and over. Of course, you could
+you end up writing the same statements over and over. Of book, you could
 rewrite this program with a loop. Alternatively, you could use a method.
 
 Here is another version of the previous example using a method.

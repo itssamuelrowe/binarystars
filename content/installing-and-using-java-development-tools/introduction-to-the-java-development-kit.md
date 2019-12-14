@@ -5,7 +5,7 @@ weight = 3
 
 In this section, you will discover the various acronyms and tools associated with
 the Java Development Kit. Make sure you understand them before moving on. Because
-these tools and acronyms will be used throughout this course.
+these tools and acronyms will be used throughout this book.
 
 ## What is the Java Development Kit (JDK)?
 

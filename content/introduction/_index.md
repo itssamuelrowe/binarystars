@@ -9,7 +9,7 @@ Java is, its history, and where it's going. You will also also learn about
 its advantages and disadvantages. Finally, we'll try to compare Java with
 other popular programming languages.
 
-You can download all the examples shown throughout the course from the following
+You can download all the examples shown throughout the book from the following
 link.
 
 https://www.github.com/itssamuelrowe/java-examples

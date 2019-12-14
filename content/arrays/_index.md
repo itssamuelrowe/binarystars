@@ -7,7 +7,7 @@ weight = 17
 ### Chapter 17
 # Arrays
 
-So far in this course, you have written programs which work with few variables.
+So far in this book, you have written programs which work with few variables.
 For example, consider a program which stores the details of a student and prints
 it out. You would create a class to represent the student. Each instance of this
 class stores the details of a student, therefore, you would create a variable which

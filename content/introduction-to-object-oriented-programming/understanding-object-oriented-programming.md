@@ -37,7 +37,7 @@ parked next to each other. It so happens both the cars have the same color and
 are identical. Obviously, you own one of them and somebody else owns the other
 Aventador.
 
-How do you recognize your car? Of course, there are a number of ways you can
+How do you recognize your car? Of book, there are a number of ways you can
 *identify* your car. For one, you could take a peek at your number plate.
 Since a number is unique to every instance of car in your region, you can
 easily identify your car.

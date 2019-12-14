@@ -27,7 +27,7 @@ Java is an object-oriented programming language.
 It means that your programs are built with *objects*. Objects are programming
 entities that represent real-world objects.
 
-You will learn more about objects later in this course.
+You will learn more about objects later in this book.
 
 ## Java includes Automatic Memory Management
 

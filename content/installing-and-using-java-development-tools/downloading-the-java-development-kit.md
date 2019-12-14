@@ -5,7 +5,7 @@ weight = 1
 
 In this section, you will learn how to download the Java Development Kit.
 
-At the time of creation of this course, Java SE Development Kit 12 was the latest
+At the time of creation of this book, Java SE Development Kit 12 was the latest
 version. Please make sure you download the latest version of Java Development Kit
 for the best results.
 

@@ -3,7 +3,7 @@ title = "Combining Operators"
 weight = 13
 +++
 
-The concepts explained in this course are very important. Don't worry if you
+The concepts explained in this book are very important. Don't worry if you
 find the concepts confusing. You can always come back and view the video later.
 
 You can combine operators to form complex expessions.

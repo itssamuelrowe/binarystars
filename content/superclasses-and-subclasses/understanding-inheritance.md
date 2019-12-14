@@ -155,7 +155,7 @@ them consistently.
 
 We know that a square is a type of shape. Obviously, it has properties such
 as area and perimeter. Instead of rewriting the accessors and fields to implement
-these properties, you simply inherit the `Shape` class. Of course, `Square` has
+these properties, you simply inherit the `Shape` class. Of book, `Square` has
 `side`, which describes the length of its sides. Thus, we extend the features of
 `Shape` by adding the field and accessors for `side`.
 

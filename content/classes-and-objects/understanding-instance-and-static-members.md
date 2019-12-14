@@ -40,7 +40,7 @@ if you make a member static, you can access it without an instance.
 You should always remember that whenever you create an instance of a class,
 the instance does not get its own copy of the static members.
 
-You have already used the `static` modifier from the beginning of this course.
+You have already used the `static` modifier from the beginning of this book.
 The main method is declared as static because the Java Virtual Machine (JVM)
 does not create an instance of your main class before invoking the main method.
 This is why you should always declare the main method as static.

@@ -5,7 +5,7 @@ weight = 1
 
 In this section, you will learn to write the *Hello World* program.
 
-Many programming courses begin with a simple example program that prints the text,
+Many programming books begin with a simple example program that prints the text,
 "Hello, world!" on the console.
 
 ```
@@ -53,7 +53,7 @@ public class Hello {
 
 Here you created a class called `Hello`. It is public, which means other classes
 can access it. You don't have to know what this means for now, so don't
-worry. You will learn about *access specifiers* later in the course.
+worry. You will learn about *access specifiers* later in the book.
 
 When you declare a public class, you must always save it inside a file with
 the same name. In our first example, our class was named `Hello`. So, it was
@@ -69,23 +69,23 @@ belongs to the class.
 
 Here you created a *method* called `main`. You don't have to know what this
 means for now, so don't worry. You will learn more about methods later in
-the course.
+the book.
 
 The `main` method is the **entry point** of your Java program. In other words,
 your program always starts at `main`.
 
 When you declare a public method, other classes can access it. You will learn
-more about **access specifiers** later in the course.
+more about **access specifiers** later in the book.
 
 You can *call* a static method without creating an *instance* of `Hello`. You
-will learn more about *static* later in the course.
+will learn more about *static* later in the book.
 
 `(String[] arguments)` is too advanced to explain just yet. It's called a
 *parameter list*. You can use it to pass data to a method.
 
 The `main` method always receives a single parameter: an *array* of `String`
 objects. If you don't know what a parameter, a `String`, or an array is, don't
-worry. You will learn more about these concepts later in the course.
+worry. You will learn more about these concepts later in the book.
 
 The opening brace `{` begins the *body* of the method. The end of the method is
 marked by the closing brace `}`. Whatever *statements* you write within these

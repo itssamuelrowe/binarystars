@@ -14,7 +14,7 @@ tell which classes are available to the world outside your package.
 Packages are organized in a hierarchical fashion. When you want to use a class
 from a different package, you need to import it.
 
-So far in this course, all the classes you created were stored in the default
+So far in this book, all the classes you created were stored in the default
 package. Which means you had to provide a unique name for each class to avoid name
 conflicts. Without packages you would soon run out of relevant, convenient and
 descriptive names for your classes.

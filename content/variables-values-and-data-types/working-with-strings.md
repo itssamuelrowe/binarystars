@@ -133,7 +133,7 @@ integer.
 You can use one of the following *methods* to convert a string to a primitive
 value.
 
-You will learn more about methods later in the course.
+You will learn more about methods later in the book.
 
 | Wrapper Class | Method       |
 |---------------|--------------|

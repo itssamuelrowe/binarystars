@@ -67,7 +67,7 @@ public class Example {
 ```
 
 The region in which your variable exists is known as *scope*. You will learn
-more about scopes later in the course.
+more about scopes later in the book.
 
 The place where you declare a local variable is important. You must declare
 a variable before you use it.
@@ -108,7 +108,7 @@ public class Example {
 To avoid such errors, you must initialize local variables before you use them.
 You can assign a variable with an *expression statement*. In particular, you use
 the *assignment expression* to assign a variable. You will learn more about
-expressions later in the course.
+expressions later in the book.
 
 The basic form of an assignment expression is shown here.
 ```
