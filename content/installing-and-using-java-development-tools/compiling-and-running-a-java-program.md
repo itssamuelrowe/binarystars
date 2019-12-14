@@ -8,7 +8,7 @@ In this section you will learn to compile and run a Java program.
 Java comes with several command-line tools you can run from your console.
 The two most important are `javac`, the Java compiler used to compile a program,
 and `java`, the Java Virtual Machine used to run your program. These
-tools work essentially the same no matter what operating system you’re
+tools work essentially the same no matter what operating system you're
 using.
 
 You can compile a program from your console using the `javac` command.

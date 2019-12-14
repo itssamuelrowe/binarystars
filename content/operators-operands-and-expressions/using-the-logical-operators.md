@@ -37,9 +37,9 @@ the bitwise AND to combine boolean conditions. However, the logical AND leverage
 knowledge of logic.
 
 Because both expressions compared by the logical AND operator must be true for the
-entire expression to be `true`, there’s no reason to evaluate the
+entire expression to be `true`, there's no reason to evaluate the
 second expression if the first one returns `false`. Whereas, the bitwise AND operator
-isn’t aware of this fact, so it blindly evaluates both expressions before determining
+isn't aware of this fact, so it blindly evaluates both expressions before determining
 the results. The logical AND operator is smart enough to stop when it knows what the
 result is.
 
@@ -94,9 +94,9 @@ the bitwise OR to combine boolean conditions. However, the logical OR leverages 
 knowledge of logic.
 
 Because at least one of the expressions compared by the logical OR operator must be
-true for the entire expression to be `true`, there’s no reason to evaluate the
+true for the entire expression to be `true`, there's no reason to evaluate the
 second expression if the first one returns `true`. Whereas, the bitwise OR operator
-isn’t aware of this fact, so it blindly evaluates both expressions before determining
+isn't aware of this fact, so it blindly evaluates both expressions before determining
 the results. The logical OR operator is smart enough to stop when it knows what the
 result is.
 
@@ -125,7 +125,7 @@ The logical NOT operator reverses the value of a boolean expression. Thus, if th
 expression is `true`, the operator changes it to `false`. If the expression is `false`,
 the operator changes it to `true`.
 
-Here’s an example.
+Here's an example.
 
 `!(day == 7)`
 
@@ -134,7 +134,7 @@ If `day` is 7, it evaluates to false. It works by first evaluating the
 expression `(day == 4)`.
 
 Then it reverses the result of that evaluation.
-Don’t confuse the logical NOT operator (!) with the NOT equals relational operator (!=).
+Don't confuse the logical NOT operator (!) with the NOT equals relational operator (!=).
 
 I could have written the preceding example like this.
 ```
@@ -155,7 +155,7 @@ Consider the following expression.
 ```
 
 Assume that `i` is an integer variable. The compiler generates errors about this
-expression because it looks like you’re trying to apply the logical NOT operator
+expression because it looks like you're trying to apply the logical NOT operator
 to the variable, not to the result of the comparison. Enclosig the comparison with
 parentheses solves the problem.
 ```

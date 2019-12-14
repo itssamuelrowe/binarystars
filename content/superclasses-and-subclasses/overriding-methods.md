@@ -10,7 +10,7 @@ Overriding methods is a feature of polymorphism. In this section, you will learn
 about overriding methods.
 
 When you call an instance method, Java looks for the definition of the method
-in the object’s class. If it does not find it, Java looks up for the method
+in the object's class. If it does not find it, Java looks up for the method
 in its superclasses, all the way to the `Object` class, until the method definition
 is found. If the definition is not found, the method does not exist.
 

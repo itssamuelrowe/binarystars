@@ -1,5 +1,5 @@
 A method is a block of statements. You can give it a name. A method defines an
-object’s behavior, basically whatever an object is capable of performing.
+object's behavior, basically whatever an object is capable of performing.
 
 You can call or invoke a method with its name. When you invoke a method, the
 execution of your program branches to the body of that method. When the method is

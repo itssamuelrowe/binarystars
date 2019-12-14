@@ -1,3 +1,8 @@
++++
+title = "Working with Reference Types"
+weight = 6
++++
+
 In this section, you will learn about the basics of reference types.
 You learn to create variables that work with objects.
 > You will learn more about classes and objects later in the course.
@@ -21,7 +26,7 @@ You don't store the object itself.
 A reference is the location of an object in memory. References are similar to
 pointers in C or C++. Unlike pointers, references are simple and easy to use.
 
-For example, think that you’re writing a program which involves cars.
+For example, think that you're writing a program which involves cars.
 You have a class named `Car` which defines the behavior of a car.
 You can declare a variable that stores a reference to a `Car` object like
 this.
@@ -57,7 +62,7 @@ You can combine both these statements like this.
 Car car = new Car();
 ```
 
-Remember that a reference variable doesn’t actually store an object.
+Remember that a reference variable doesn't actually store an object.
 It stores only the reference to an object in memory. As a result, two or more
 variables can refer to the same object.
 

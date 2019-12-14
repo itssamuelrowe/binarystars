@@ -1,3 +1,8 @@
++++
+title = "Working with Strings"
+weight = 8
++++
+
 In this section, you will learn the basics of strings.
 
 A string is a sequence of characters. String literals are enclosed in double

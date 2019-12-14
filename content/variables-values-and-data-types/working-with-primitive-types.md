@@ -1,15 +1,21 @@
++++
+title = "Working with Primitive Types"
+weight = 6
++++
+
 The *primitive types* are the most basic data types available. They are
 **defined by Java**.
 
 There are eight primitive data types in Java.
-    * `boolean`
-    * `char`
-    * `byte`
-    * `short`
-    * `int`
-    * `long`
-    * `float`
-    * `double`
+
+* boolean
+* char
+* byte
+* short
+* int
+* long
+* float
+* double
 
 | Type     | Default  | Size    | Range                                                   | Example                                        |
 |----------|----------|---------|---------------------------------------------------------|------------------------------------------------|
@@ -49,10 +55,11 @@ You will learn more about explicit casting later in the course.
 An *integer* is a number without any fractional or decimal portion.
 
 There are four integer types you can use.
-   * `byte`
-   * `short`
-   * `int`
-   * `long`
+
+ * byte
+ * short
+ * int
+ * long
 
 You can store different *range* of integer values in each of these types. Because they
 differ in size.
@@ -142,8 +149,9 @@ mantissa × (2 ^ exponent)
 ```
 
 There are two decimal types you can use.
-    * `float`
-    * `double`
+
+ * float
+ * double
 
 The most commonly used decimal type is `double`. It uses eight bytes (64 bits)
 to store decimal values. *It implements the IEEE 754 double-precision format.*

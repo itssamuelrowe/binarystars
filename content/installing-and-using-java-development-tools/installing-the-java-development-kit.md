@@ -27,7 +27,7 @@ on the version of Java you have installed. In my system, it is named 'jdk-11.0.2
 because that's the version that I installed.
 
 Take a look at the subfolders inside the root folder. As you work with
-Java, you’ll frequently refer to these folders.
+Java, you'll frequently refer to these folders.
 
  * bin
    The compiler, the virtual machine, and other Java development tools reside

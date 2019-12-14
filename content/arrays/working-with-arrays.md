@@ -231,7 +231,7 @@ array[index] = value;
 Whenever you try to access an element with an index, Java makes sure that you
 are specifying a valid index. The index should always be greater than or equal
 to zero and lesser than the size of the array, known as the arrays boundaries.
-Unlike C and C++, in Java you cannot access a slot outside the array’s boundaries.
+Unlike C and C++, in Java you cannot access a slot outside the array's boundaries.
 In case you try to access an element outside the arrays boundaries, Java
 throws `ArrayIndexOutOfBoundsException`.
 

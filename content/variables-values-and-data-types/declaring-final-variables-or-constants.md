@@ -1,3 +1,8 @@
++++
+title = "Declaring Final Variables"
+weight = 3
++++
+
 In this section, you will learn how to declare final variables or constants.
 
 A final variable is variable that you can't change after initializing.

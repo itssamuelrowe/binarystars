@@ -15,7 +15,7 @@ As an example of a loop, consider yourself watching a series like Breaking Bad.
 This simple example contains a loop. The loop is based on the "Repeat" instruction,
 which tells you that the entire sequence of steps repeats itself.
 
-Unfortunately, the steps in the previous example don’t contain any
+Unfortunately, the steps in the previous example don't contain any
 stopping condition. Which means you will never stop watching the series!
 Such a loop is known as an endless loop.
 

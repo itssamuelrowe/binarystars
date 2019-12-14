@@ -1,3 +1,8 @@
++++
+title = "Understanding Data Types"
+weight = 5
++++
+
 Java is *statically typed*. What this means is, the compiler knows the type of
 every variable. Once you declare a variable of a certain type, it cannot hold
 values of other types.

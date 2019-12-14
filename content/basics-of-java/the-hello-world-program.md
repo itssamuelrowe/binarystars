@@ -80,11 +80,11 @@ more about **access specifiers** later in the course.
 You can *call* a static method without creating an *instance* of `Hello`. You
 will learn more about *static* later in the course.
 
-`(String[] arguments)` is too advanced to explain just yet. It’s called a
+`(String[] arguments)` is too advanced to explain just yet. It's called a
 *parameter list*. You can use it to pass data to a method.
 
 The `main` method always receives a single parameter: an *array* of `String`
-objects. If you don’t know what a parameter, a `String`, or an array is, don’t
+objects. If you don't know what a parameter, a `String`, or an array is, don't
 worry. You will learn more about these concepts later in the course.
 
 The opening brace `{` begins the *body* of the method. The end of the method is

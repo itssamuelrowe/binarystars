@@ -44,7 +44,7 @@ your program allocated.
 If you forget this, your program will cause a *memory leak*. Which means your
 program will soon run out of memory.
 
-However, in Java you don’t have to release memory. Java does it for you!
+However, in Java you don't have to release memory. Java does it for you!
 
 The Java Virtual Machine (JVM) has a special component called the garbage collector.
 It automatically releases memory that is no longer in use.

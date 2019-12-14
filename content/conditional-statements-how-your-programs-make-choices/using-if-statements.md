@@ -25,8 +25,8 @@ value.
 The if statement is divided into two clauses: if clause and else clause.
 The if clause begins with the if keyword. It accepts a condition,
 enclosed in parenthesis. Similarly, the else clause begins with the else
-keyword. It is optional. In other words, if you don’t write the else clause
-in your if statement, the compiler won’t complain.
+keyword. It is optional. In other words, if you don't write the else clause
+in your if statement, the compiler won't complain.
 
 If the condition specified to the if clause evaluates to true, then the
 statement under the if clause is executed. Otherwise, the statement
@@ -57,7 +57,7 @@ The output of this program is shown below.
 
 As you can see, the else clause was not written in this example. By now
 if you compiled and ran this program, you wold know that the compiler
-didn’t generate any errors. This is because the else clause is optional.
+didn't generate any errors. This is because the else clause is optional.
 
 Can you guess what would have happened if the Boolean expression
 evaluated to false in this example? The entire if statement would have
@@ -128,7 +128,7 @@ Generally, you should indent anything that is inside braces. Braces are
 not only used in block statements, they are also used in many constructs
 throughout Java, including methods, classes, interfaces, enumerations,
 and so on. Although you have not learnt them yet, you should indent
-these constructs, too. Don’t worry if you forget this guideline, we will
+these constructs, too. Don't worry if you forget this guideline, we will
 remind you to use indentation when you learn about them in the
 upcoming chapters.
 

@@ -43,7 +43,7 @@ So, you don't have to use *if statements* under both the clauses
 if you don't have to. Again, all the *else clauses* are optional.
 
 Be careful when you use nested *if statements*, as it is easy
-to end up with statements that don’t work the way you expect them
+to end up with statements that don't work the way you expect them
 to. The key is knowing how Java pairs *else clauses* with *if clauses*.
 Each else clauses is matched with the nearest *if clause* that
 has not already been paired with an *else clause*.

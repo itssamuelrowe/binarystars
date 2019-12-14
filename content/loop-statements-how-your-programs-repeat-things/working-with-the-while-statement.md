@@ -33,7 +33,7 @@ compound statement.
 Loops with multiple statements are very common. So you will commonly come across
 code where a block is used to group statements.
 
-Here’s a simple program that uses a while loop to print the even numbers
+Here's a simple program that uses a while loop to print the even numbers
 from 2 through 10 on the console.
 
 ```

@@ -12,7 +12,7 @@ In such cases, you can refer the instance using the `this` keyword. It always
 represents the instance within which the instance member is contained.
 
 To refer to the instance in an instance method, use the this keyword where you
-normally would refer to an object’s reference through a variable. You can use
+normally would refer to an object's reference through a variable. You can use
 the `this` keyword as a reference anyway you please.  In other words, the
 `this` keyword refers to the current object, and you can use it anywhere a
 reference to an object might appear.

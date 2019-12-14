@@ -18,7 +18,7 @@ uses four keywords.
     * `static` and
     * `void`
 
-In Java there are 51 keywords. They’re listed in alphabetical order here.
+In Java there are 51 keywords. They're listed in alphabetical order here.
 
 | | | | | |
 |----------------|--------------|-----------|------------|--------|
@@ -34,7 +34,7 @@ In Java there are 51 keywords. They’re listed in alphabetical order here.
 | transient      | try          | void      | volatile   | while  |
 | _ (underscore) |              |           |            |        |
 
-Some words are sometimes, incorrectly, assumed as keywords. In any case, they’re reserved in the same way as keywords.
+Some words are sometimes, incorrectly, assumed as keywords. In any case, they're reserved in the same way as keywords.
 
  * The keywords `const` and `goto` are reserved. They are not used.
  * `true` and `false` are not keywords. They are boolean literals.

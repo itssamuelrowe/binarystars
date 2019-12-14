@@ -1,3 +1,8 @@
++++
+title = "Understanding Unicode"
+weight = 9
++++
+
 > This section describes Unicode and how Java deals with it. It is a difficult
 > concept to grasp. You can safely skip this section for now. You can come back
 > when you are comfortable with Java.
@@ -21,7 +26,7 @@ and symbols from Kannada, English, Tamil, Hindi, and Telugu.
 Computers understand only numbers. So they store letters and other characters
 by assigning a number for each one. These numbers are known as *codepoints*.
 
-When a computer stores a character, it doesn’t really know the difference
+When a computer stores a character, it doesn't really know the difference
 between `A` and `B`. However, it knows the difference between `65` and `66`.
 Internally, computers use the number `65` as the *codepoint* to represent `A`
 and `66` for `B`.

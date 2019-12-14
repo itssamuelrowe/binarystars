@@ -1,3 +1,8 @@
++++
+title = "Declaring Variables"
+weight = 2
++++
+
 In this section, you will learn how to declare variables.
 
 You must *declare* a variable before using it. The compiler will display
