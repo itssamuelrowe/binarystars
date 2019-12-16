@@ -53,18 +53,17 @@ Before we continue, here is a summary of strings.
   It is written with a backward slash followed by a letter.
   
 Here is the list of all the escape sequences availablen in Java.
-+---------------------+-----------------+
-| Escape Sequence     | Description     |
-|---------------------+-----------------|
-| \n                  | Newline         |
-| \t                  | Tab             |
-| \b                  | Backspace       |
-| \r                  | Carriage Return |
-| \f                  | Form feed       |
-| \'                  | Apostrophe      |
-| \"                  | Quotation mark  |
-| \\                  | Backslash       |
-+---------------------+-----------------+
+
+| Escape Sequence      | Description     |
+|----------------------|-----------------|
+| \\n                  | Newline         |
+| \\t                  | Tab             |
+| \\b                  | Backspace       |
+| \\r                  | Carriage Return |
+| \\f                  | Form feed       |
+| \\'                  | Apostrophe      |
+| \\"                  | Quotation mark  |
+| \\\\                 | Backslash       |
 
  * Strings are objects and characters are primitive values. You enclose a string
   literal in double quotes, whereas characters are enclosed in single quotes.
@@ -101,7 +100,7 @@ String text = "2000";
 int year = Integer.parseInt(text);
 ```
 
-    This example converts the string which contains "2000" to its equivalent integer
-    value, which is 2000. However, if you specify an invalid text these methods
-    throw `NumberFormatException`.
+  This example converts the string which contains "2000" to its equivalent integer
+  value, which is 2000. However, if you specify an invalid text these methods
+  throw `NumberFormatException`.
 

@@ -12,20 +12,20 @@
     <title>Comparing Strings :: Binary Stars</title>
 
     
-    <link href="/binarystars/css/nucleus.css?1576311679" rel="stylesheet">
-    <link href="/binarystars/css/fontawesome-all.min.css?1576311679" rel="stylesheet">
-    <link href="/binarystars/css/hybrid.css?1576311679" rel="stylesheet">
-    <link href="/binarystars/css/featherlight.min.css?1576311679" rel="stylesheet">
-    <link href="/binarystars/css/perfect-scrollbar.min.css?1576311679" rel="stylesheet">
-    <link href="/binarystars/css/auto-complete.css?1576311679" rel="stylesheet">
-    <link href="/binarystars/css/atom-one-dark-reasonable.css?1576311679" rel="stylesheet">
-    <link href="/binarystars/css/theme.css?1576311679" rel="stylesheet">
-    <link href="/binarystars/css/hugo-theme.css?1576311679" rel="stylesheet">
+    <link href="/binarystars/css/nucleus.css?1576482511" rel="stylesheet">
+    <link href="/binarystars/css/fontawesome-all.min.css?1576482511" rel="stylesheet">
+    <link href="/binarystars/css/hybrid.css?1576482511" rel="stylesheet">
+    <link href="/binarystars/css/featherlight.min.css?1576482511" rel="stylesheet">
+    <link href="/binarystars/css/perfect-scrollbar.min.css?1576482511" rel="stylesheet">
+    <link href="/binarystars/css/auto-complete.css?1576482511" rel="stylesheet">
+    <link href="/binarystars/css/atom-one-dark-reasonable.css?1576482511" rel="stylesheet">
+    <link href="/binarystars/css/theme.css?1576482511" rel="stylesheet">
+    <link href="/binarystars/css/hugo-theme.css?1576482511" rel="stylesheet">
     
-      <link href="/binarystars/css/theme-green.css?1576311679" rel="stylesheet">
+      <link href="/binarystars/css/theme-green.css?1576482511" rel="stylesheet">
     
 
-    <script src="/binarystars/js/jquery-3.3.1.min.js?1576311679"></script>
+    <script src="/binarystars/js/jquery-3.3.1.min.js?1576482511"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -55,14 +55,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/binarystars/js/lunr.min.js?1576311679"></script>
-<script type="text/javascript" src="/binarystars/js/auto-complete.js?1576311679"></script>
+<script type="text/javascript" src="/binarystars/js/lunr.min.js?1576482511"></script>
+<script type="text/javascript" src="/binarystars/js/auto-complete.js?1576482511"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/itssamuelrowe.github.io\/binarystars\/";
     
 </script>
-<script type="text/javascript" src="/binarystars/js/search.js?1576311679"></script>
+<script type="text/javascript" src="/binarystars/js/search.js?1576482511"></script>
 
     
   </div>
@@ -2735,38 +2735,32 @@ For example, if you compare &ldquo;Batman&rdquo; and &ldquo;batman&rdquo; for eq
 <p>Here is an example which demonstrates how you can compare two strings for
 equality.</p>
 
-<p>``
-String string1 = &ldquo;Joker&rdquo;;
-String string2 = &ldquo;Harley Quinn&rdquo;;
+<pre><code>String string1 = &quot;Joker&quot;;
+String string2 = &quot;Harley Quinn&quot;;
 if (string1.equals(string2)) {
-    &hellip;
-}</p>
-
-<pre><code>
-You can compare two strings for equality without considering case. For this,
-you need to invoke the equalsIgnoreCase() method.
-
+    ...
+}
 </code></pre>
 
-<p>boolean equalsIgnoreCase(String other)</p>
+<p>You can compare two strings for equality without considering case. For this,
+you need to invoke the equalsIgnoreCase() method.</p>
 
-<pre><code>
-It returns `true` if both the strings contain the same characters in the same
-order; `false` otherwise. You need to remember that this method is case insensistive.
-For example, if you compare &quot;Camel&quot; and &quot;camel&quot; for equality, it would return `true`.
+<pre><code>boolean equalsIgnoreCase(String other)
+</code></pre>
 
-Here is an example which demonstrates how you can compare two strings for
-equality.
+<p>It returns <code>true</code> if both the strings contain the same characters in the same
+order; <code>false</code> otherwise. You need to remember that this method is case insensistive.
+For example, if you compare &ldquo;Camel&rdquo; and &ldquo;camel&rdquo; for equality, it would return <code>true</code>.</p>
 
-``
-String string1 = &quot;Poison Ivy&quot;;
+<p>Here is an example which demonstrates how you can compare two strings for
+equality.</p>
+
+<pre><code>String string1 = &quot;Poison Ivy&quot;;
 String string2 = &quot;poison ivy&quot;;
 if (string1.equalsIgnoreCase(string2)) {
     ...
 }
 </code></pre>
-
-<hr />
 
 <p>You can compare a region inside your string with the region of another string.
 You can invoke the regionMatches() method for this.</p>
@@ -2795,8 +2789,6 @@ overloaded version of the <code>regionMatches()</code>.</p>
 <p>The <code>ignoreCase</code> boolean parameter indicates whether the method should ignore
 case when comparing, or not.</p>
 
-<hr />
-
 <p>You can determine if a string starts with a substring using the startsWith()
 method. It returns true if a string starts with the specified substring; <code>false</code>
 otherwise.</p>
@@ -2804,82 +2796,91 @@ otherwise.</p>
 <p>Here is the declaration of the <code>startsWith()</code> method.</p>
 
 <pre><code>boolean startsWith(String sequence)
-````
-
-Further, you can specify from which index `startsWith()` begins comparing.
-An overloaded version of the `startsWith()` method accepts the starting index.
-Here is the declaration of this method.
 </code></pre>
 
-<p>boolean startsWith(String sequence, int startIndex)</p>
+<p>Further, you can specify from which index <code>startsWith()</code> begins comparing.
+An overloaded version of the <code>startsWith()</code> method accepts the starting index.
+Here is the declaration of this method.</p>
 
-<pre><code>
-Here, the `startIndex` specifies the index applies to the string object against
+<pre><code>boolean startsWith(String sequence, int startIndex)
+</code></pre>
+
+<p>Here, the <code>startIndex</code> specifies the index applies to the string object against
 which the method is invoked. It indicates the index from where the comparison is
-started.
+started.</p>
 
-Similarly, you can determine if a string ends with a substring using the endsWith()
-method. It returns `false` if a string ends with the specified substring; `false`
-otherwise.
+<p>Similarly, you can determine if a string ends with a substring using the endsWith()
+method. It returns <code>false</code> if a string ends with the specified substring; <code>false</code>
+otherwise.</p>
 
-Here is the declaration of the `endsWith()` method.
+<p>Here is the declaration of the <code>endsWith()</code> method.</p>
+
+<pre><code>boolean endsWith(String sequence)
 </code></pre>
 
-<p>boolean endsWith(String sequence)</p>
+<p>Here is an example which demonstrates these methods.</p>
 
-<pre><code>
-Here is an example which demonstrates these methods.
+<pre><code>String superhero = &quot;Swamp Thing&quot;;
+System.out.println(superhero.startsWith(&quot;Swam&quot;));
+System.out.println(superhero.endsWith(&quot;ing&quot;));
+System.out.println(superhero.startsWith(&quot;Thing&quot;, 5));
 </code></pre>
 
-<p>String superhero = &ldquo;Swamp Thing&rdquo;;
-System.out.println(superhero.startsWith(&ldquo;Swam&rdquo;));
-System.out.println(superhero.endsWith(&ldquo;ing&rdquo;));
-System.out.println(superhero.startsWith(&ldquo;Thing&rdquo;, 5));</p>
+<p>This example prints <code>true</code> three times.</p>
 
-<pre><code>
-This example prints `true` three times.
-
---------------------------------------------------------------------------------
-
-Imagine you are sorting an array of strings. How can you determine whether one
+<p>Imagine you are sorting an array of strings. How can you determine whether one
 string is greater than the other? So far you have learnt about methods that only
 help you determine whether they are identical. In order to compare strings
-for relativity, you need to use the `compareTo()` method.
+for relativity, you need to use the <code>compareTo()</code> method.</p>
 
-The `compareTo()` method compares two strings lexicographically, which means
+<p>The <code>compareTo()</code> method compares two strings lexicographically, which means
 a A is lesser B, B is lesser than C and so on. For example, A is lesser than Z
 and Y is greater than M. In this logic, lowercase letters are always greater
-than uppercase letters.
+than uppercase letters.</p>
 
-The declaration of the `compareTo()` method is shown here.
+<p>The declaration of the <code>compareTo()</code> method is shown here.</p>
+
+<pre><code>int compareTo(String other)
 </code></pre>
 
-<p>int compareTo(String other)</p>
-
-<pre><code>It returns a negative number if the current string object is lesser than the
+<p>It returns a negative number if the current string object is lesser than the
 specified string.
 It returns a positive number if the current string object is greater than the
 specified string.
-It returns zero when both the strings are equal.
+It returns zero when both the strings are equal.</p>
 
-Here is an example, which determines if a string is greater than the other.
+<p>Here is an example, which determines if a string is greater than the other.</p>
+
+<pre><code>public class YatchVsDragon {
+
+    public static void main(String... arguments) {
+        String yatch = &quot;Yatch&quot;;
+        String dragon = &quot;Dragon&quot;;
+        if (yatch.compareTo(dragon) &gt; 0) {
+            System.out.println(&quot;Yatch is greater than Dragon.&quot;);
+        }
+        else if (yatch.compareTo(dragon) &lt; 0) {
+            System.out.println(&quot;Yatch is lesser than Dragon.&quot;);
+        }
+        else {
+            System.out.println(&quot;Yatch is equal to Dragon.&quot;);
+        }
+    }
+}
 </code></pre>
 
-<pre><code>
-This program generate the following output.
+<p>This program generate the following output.</p>
+
+<pre><code>Yatch is greater than Dragon.
 </code></pre>
 
-<p>Yatch is greater than Dragon.</p>
+<p>As mentioned previously, the <code>compareTo()</code> method is case sensitive. For case
+insensistive comparison you need to invoke the <code>compareToIgnoreCase()</code> method.</p>
 
-<pre><code>
-As mentioned previously, the `compareTo()` method is case sensitive. For case
-insensistive comparison you need to invoke the `compareToIgnoreCase()` method.
+<p>The declaration of the <code>compareToIgnoreCase()</code> method is shown here.</p>
 
-The declaration of the `compareToIgnoreCase()` method is shown here.
+<pre><code>int compareToIgnoreCase(String other)
 </code></pre>
-
-<p>int compareToIgnoreCase(String other)
-```</p>
 
 
 <footer class=" footline" >
@@ -4866,19 +4867,19 @@ The declaration of the `compareToIgnoreCase()` method is shown here.
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/binarystars/js/clipboard.min.js?1576311680"></script>
-    <script src="/binarystars/js/perfect-scrollbar.min.js?1576311680"></script>
-    <script src="/binarystars/js/perfect-scrollbar.jquery.min.js?1576311680"></script>
-    <script src="/binarystars/js/jquery.sticky.js?1576311680"></script>
-    <script src="/binarystars/js/featherlight.min.js?1576311680"></script>
-    <script src="/binarystars/js/highlight.pack.js?1576311680"></script>
+    <script src="/binarystars/js/clipboard.min.js?1576482511"></script>
+    <script src="/binarystars/js/perfect-scrollbar.min.js?1576482511"></script>
+    <script src="/binarystars/js/perfect-scrollbar.jquery.min.js?1576482511"></script>
+    <script src="/binarystars/js/jquery.sticky.js?1576482511"></script>
+    <script src="/binarystars/js/featherlight.min.js?1576482511"></script>
+    <script src="/binarystars/js/highlight.pack.js?1576482511"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/binarystars/js/modernizr.custom-3.6.0.js?1576311680"></script>
-    <script src="/binarystars/js/learn.js?1576311680"></script>
-    <script src="/binarystars/js/hugo-learn.js?1576311680"></script>
+    <script src="/binarystars/js/modernizr.custom-3.6.0.js?1576482511"></script>
+    <script src="/binarystars/js/learn.js?1576482511"></script>
+    <script src="/binarystars/js/hugo-learn.js?1576482511"></script>
 
-    <link href="/binarystars/mermaid/mermaid.css?1576311680" rel="stylesheet" />
-    <script src="/binarystars/mermaid/mermaid.js?1576311680"></script>
+    <link href="/binarystars/mermaid/mermaid.css?1576482511" rel="stylesheet" />
+    <script src="/binarystars/mermaid/mermaid.js?1576482511"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>

@@ -19,7 +19,7 @@ For example, if you compare "Batman" and "batman" for equality, it would return 
 Here is an example which demonstrates how you can compare two strings for
 equality.
 
-``
+```
 String string1 = "Joker";
 String string2 = "Harley Quinn";
 if (string1.equals(string2)) {
@@ -41,15 +41,13 @@ For example, if you compare "Camel" and "camel" for equality, it would return `t
 Here is an example which demonstrates how you can compare two strings for
 equality.
 
-``
+```
 String string1 = "Poison Ivy";
 String string2 = "poison ivy";
 if (string1.equalsIgnoreCase(string2)) {
     ...
 }
 ```
-
---------------------------------------------------------------------------------
 
 You can compare a region inside your string with the region of another string.
 You can invoke the regionMatches() method for this.
@@ -78,8 +76,6 @@ boolean regionMatches(boolean ignoreCase, int startIndex, String other,
 The `ignoreCase` boolean parameter indicates whether the method should ignore
 case when comparing, or not.
 
---------------------------------------------------------------------------------
-
 You can determine if a string starts with a substring using the startsWith()
 method. It returns true if a string starts with the specified substring; `false`
 otherwise.
@@ -88,7 +84,7 @@ Here is the declaration of the `startsWith()` method.
 
 ```
 boolean startsWith(String sequence)
-````
+```
 
 Further, you can specify from which index `startsWith()` begins comparing.
 An overloaded version of the `startsWith()` method accepts the starting index.
@@ -120,8 +116,6 @@ System.out.println(superhero.startsWith("Thing", 5));
 
 This example prints `true` three times.
 
---------------------------------------------------------------------------------
-
 Imagine you are sorting an array of strings. How can you determine whether one
 string is greater than the other? So far you have learnt about methods that only
 help you determine whether they are identical. In order to compare strings
@@ -143,7 +137,23 @@ specified string.
 It returns zero when both the strings are equal.
 
 Here is an example, which determines if a string is greater than the other.
-```
+```
+public class YatchVsDragon {
+
+    public static void main(String... arguments) {
+        String yatch = "Yatch";
+        String dragon = "Dragon";
+        if (yatch.compareTo(dragon) > 0) {
+            System.out.println("Yatch is greater than Dragon.");
+        }
+        else if (yatch.compareTo(dragon) < 0) {
+            System.out.println("Yatch is lesser than Dragon.");
+        }
+        else {
+            System.out.println("Yatch is equal to Dragon.");
+        }
+    }
+}
 ```
 
 This program generate the following output.
